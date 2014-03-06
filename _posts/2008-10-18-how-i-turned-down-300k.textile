@@ -1,0 +1,10 @@
+---
+layout: post
+title: How to test something
+---
+
+h1. {{ page.title }}
+
+p(meta). 06 Mar 2014 - Moscow
+
+Hello.
