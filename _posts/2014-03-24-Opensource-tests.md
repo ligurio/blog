@@ -75,43 +75,36 @@ get it after porting kyua tests from NetBSD regression tests.
 * [IKE](ftp://ftp.inf.ethz.ch/pub/publications/tech-reports/7xx/747.pdf)
 
 ### Storage
-* fsync perf https://github.com/hostmaster/POC_fsyncperf
-* FreeBSD http://www.freebsd.org/ru/ports/benchmarks.html
-* Pawel Jakub Dawidek’s POSIX file system test suite
-	https://github.com/yaneurabeya/pjdfstest
-	! http://www.tuxera.com/community/posix-test-suite/
-	http://people.freebsd.org/~pjd/pjdfstest/
-* DEPENDS on SystemTap SCSI fault injection http://sourceforge.net/projects/scsifaultinjtst/
-* PORT XFS tests
-	https://github.com/dmonakhov/xfstests
-	http://git.kernel.org/cgit/fs/xfs/xfstests-dev.git
-* sysutils/fsstress http://code.google.com/p/file-system-stress-testing-framework/
-* NFS: http://hub.opensolaris.org/bin/view/Community+Group+nfs/tests
-* NFS: automount
-* <b>dead?</b> NFS http://www.connectathon.org/nfstests.html
-* ZFS: http://hub.opensolaris.org/bin/view/Community+Group+zfs/ztest
-* ZFS: http://hub.opensolaris.org/bin/view/Community+Group+zfs/zfstestsuite
-* DONE http://linux-nfs.org/wiki/index.php/NFStest#nfstest_posix_-_POSIX_file_system_level_access_tests
-* DONE sysutils/iogen
-* DONE benchmarks/iozone
-* DONE benchmarks/bonnie
-* DONE benchmarks/bonnie++
-* DONE benchmarks/ubench
-* DONE benchmarks/sysbench http://sysbench.sourceforge.net/
+* [fsync perf](https://github.com/hostmaster/POC_fsyncperf)
+* [FreeBSD performance tests](http://www.freebsd.org/ru/ports/benchmarks.html)
+* [Pawel Jakub Dawidek’s POSIX file system test suite](http://people.freebsd.org/~pjd/pjdfstest/)
+* [SCSI fault injection](http://sourceforge.net/projects/scsifaultinjtst/) Depends on SystemTap.
+* [XFS tests](https://github.com/dmonakhov/xfstests)
+* [fsstress](http://ports.su/sysutils/fsstress)
+* [File System Stress Testing Framework](http://code.google.com/p/file-system-stress-testing-framework/)
+* [NFS tests from Solaris](http://hub.opensolaris.org/bin/view/Community+Group+nfs/tests)
+* [NFS connectathon testsuite](http://www.connectathon.org/nfstests.html) Dead?
+* [NFS tests](http://linux-nfs.org/wiki/index.php/NFStest)
+* [iogen](http://ports.su/sysutils/iogen)
+* [iozone](http://ports.su/benchmarks/iozone)
+* [bonnie](http://ports.su/benchmarks/bonnie)
+* [bonnie++](http://ports.su/benchmarks/bonnie++)
+* [ubench](http://ports.su/benchmarks/ubench)
+* [sysbench](http://ports.su/benchmarks/sysbench,pgsql)
 * DONE benchmarks/fs_mark
-* DONE fsx http://codemonkey.org.uk/projects/fsx/
-* PORT devel/fuse fusexmp PSBM-15157 fuse.sourceforge.net
-* DONE http://fsbench.filesystems.org (from atomics http://fsbench.filesystems.org/bench/postmark-1_5.c)
-* IMPOSSIBLE? fio http://freecode.com/projects/fio на сайте написано что OpenBSD поддерживается
-* [OpenBSD developers decline it] fsfuzzer
-	http://jon.oberheide.org/mokb/
-	https://github.com/sughodke/fsfuzzer
-	http://lkml.indiana.edu/hypermail/linux/kernel/0901.3/01025.html
-* zumastor http://code.google.com/p/zumastor/source/browse/trunk/ddsnap/tests/?r=1733
-* Filebench http://sourceforge.net/apps/mediawiki/filebench/index.php?title=Main_Page
-* tiobench http://sourceforge.net/projects/tiobench/
-* ffsb http://sourceforge.net/projects/ffsb/
-* lmbench
+* [fsx](http://codemonkey.org.uk/projects/fsx/) Port is done.
+* Idea is too use fusexmp for testing FUSE mounting filesystem in loopback. See PSBM-15157
+* [postmark](http://fsbench.filesystems.org)
+Test created by NetApp to simulate load from SMTP server. Used in vzt-atomics.
+* [fio](http://freecode.com/projects/fio)
+* [fsfuzzer](https://github.com/sughodke/fsfuzzer)
+OpenBSD developers declines it, fsfuzzer triggers proper kernel panics.
+See [mail from Theo De Raadt](http://marc.info/?l=openbsd-misc&m=137436713215924&w=2).
+* [zumastor](http://code.google.com/p/zumastor/source/browse/trunk/ddsnap/tests/?r=1733)
+* [filebench](http://sourceforge.net/apps/mediawiki/filebench/index.php?title=Main_Page)
+* [tiobench](http://sourceforge.net/projects/tiobench/)
+* [ffsb](http://sourceforge.net/projects/ffsb/)
+* [lmbench](http://lmbench.sourceforge.net/)
 
 
 ### Graphics
@@ -130,13 +123,12 @@ get it after porting kyua tests from NetBSD regression tests.
 * [piglit - OpenGL driver testing framework](http://cgit.freedesktop.org/piglit)
 [Port](https://github.com/jasperla/openbsd-wip/tree/master/graphics/piglit) is in WIP status.
 * [XTSi - X Test Suite, tests for core protocol conformance](http://cgit.freedesktop.org/xorg/test/xts/)
-X Test Suite [userguide] (pdf) (http://freedesktop.org/software/fontconfig/xtest/userguide.pdf).
+X Test Suite [userguide](http://freedesktop.org/software/fontconfig/xtest/userguide.pdf) (pdf).
 * [Intel GPU tools](http://cgit.freedesktop.org/xorg/app/intel-gpu-tools/)
 * [glean](http://glean.sourceforge.net/whatis.html) Port is done.
 * [x11perf](http://cgit.freedesktop.org/xorg/app/x11perf/)
 x11perf is a part of Xenocara project (xenocara/app/x11perf).
-* [glxgears]
-glxgears is a part of Xenocara project (xenocara/app/glxgears).
+* glxgears, glxgears is a part of Xenocara project (xenocara/app/glxgears).
 * [rendercheck](http://cgit.freedesktop.org/xorg/app/rendercheck/)
 Port is ready - [x11/rendercheck](http://ports.su/x11/rendercheck).
 
@@ -145,7 +137,6 @@ Port is ready - [x11/rendercheck](http://ports.su/x11/rendercheck).
 * [osstest](http://manuals.opensound.com/usersguide/osstest.html)
 * [ALSA test utility](http://www.mythtv.org/wiki/Using_ALSA's_speaker-test_utility)
 * [chromium audio test](http://git.chromium.org/gitweb/?p=chromiumos/platform/audiotest.git;a=tree)
-
 * [wrk](https://github.com/wg/wrk)
 Tool for stress and load testing of HTTP servers. Used by Nginx Inc. for nginx testing.
 * [apache testsuite](http://search.cpan.org/dist/Apache-Test/)
