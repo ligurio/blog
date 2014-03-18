@@ -53,21 +53,16 @@ title: Открытые тесты для OpenBSD
 * [lmbench](http://lmbench.sourceforge.net/)
 
 ### Graphics
-* testing requirements for drm i915 http://blog.ffwll.ch/2013/11/testing-requirements-for-drmi915.html
-* slides http://tieguy.org/blog/2009/04/22/a-rumbling-about-x-qa/
-* [How Intel tests graphics?](https://01.org/linuxgraphics/sites/default/files/documentation/gfx_test_xds2008.pdf)
 * [Conformance](http://www.mesa3d.org/conform.html)
-* [HOWTO](http://dri.freedesktop.org/wiki/TestingAndDebugging/)
 * TODO [isfast](http://www.berkelium.com/OpenGL/isfast.html)
 * TODO [machtest](http://cumbia.informatik.uni-stuttgart.de/machtest/)
 * [tutors](http://user.xmission.com/~nate/tutors.html)
 * [demos](http://cs.anu.edu.au/people/Hugh.Fisher/shaders/)
 * TODO [X Testing](http://www.freedesktop.org/wiki/Software/XTesting/)
 * [touchpad tests](http://git.chromium.org/gitweb/?p=chromiumos/platform/touchpad-tests.git;a=summary)
-* [mesa-demos](http://cgit.freedesktop.org/mesa/demos)
+* TODO [mesa-demos](http://cgit.freedesktop.org/mesa/demos)
 * TODO [piglit - OpenGL driver testing framework](http://cgit.freedesktop.org/piglit)
 * TODO [XTS - X Test Suite, tests for core protocol conformance](http://cgit.freedesktop.org/xorg/test/xts/)
-X Test Suite [userguide](http://freedesktop.org/software/fontconfig/xtest/userguide.pdf) (pdf).
 * TODO [Intel GPU tools](http://cgit.freedesktop.org/xorg/app/intel-gpu-tools/)
 * DONE [glean](http://glean.sourceforge.net/whatis.html) Port is done.
 * BASE [x11perf](http://cgit.freedesktop.org/xorg/app/x11perf/)
@@ -76,11 +71,8 @@ X Test Suite [userguide](http://freedesktop.org/software/fontconfig/xtest/usergu
 
 ### Common tests:
 * [capsicum tests](https://github.com/google/capsicum-test). Actually capsicum
-is not a part of OpenBSD now, but it [can be](http://www.openbsdfoundation.org/gsoc2014.html#capsicum).
-BTW FreeBSD contains [their own capsicum tests](http://svnweb.freebsd.org/base/release/10.0.0/tools/regression/capsicum/).
 * [interbench](http://ck.kolivas.org/apps/interbench/)
 * DONE [abi-compliance-checker](http://ispras.linuxbase.org/index.php/ABI_compliance_checker/)
-Port is already [exist](https://github.com/jasperla/openbsd-wip/tree/master/devel/abi-compliance-checker).
 * [unixbench](http://code.google.com/p/byte-unixbench/)
 * PORTS TREE [memtester](http://ports.su/sysutils/memtester)
 * PORTS TREE [stress](http://ports.su/sysutils/stress)
@@ -110,9 +102,6 @@ Port is already [exist](https://github.com/jasperla/openbsd-wip/tree/master/deve
 * [dieharder - random number test suite](http://www.phy.duke.edu/~rgb/General/dieharder.php)
 * [testu01 - empirical statistical testing of uniform random number generators](http://www.iro.umontreal.ca/~simardr/testu01/tu01.html)
 * [ncurses tests](http://bxr.su/NetBSD/tests/lib/libcurses/)
-ncurses tests is a part of NetBSD regression tests. Probably we will
-get it after porting kyua tests from NetBSD regression tests.
-[Automated testing of the Curses library (pdf)](www.bsdcan.org/2012/schedule/attachments/188_curses-test.pdf)
 * PORTS TREE [zzuf is a transparent application input fuzzer](http://ports.su/misc/zzuf)
 * [libvirt testsuite](http://people.canonical.com/~jamie/libvirt/qatest.tar.bz2)
 * [micro libc benchmark](https://github.com/vext01/openbsd-libc-benchmarks)
