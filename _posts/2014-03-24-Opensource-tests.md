@@ -15,54 +15,58 @@ title: Открытые тесты для OpenBSD
 
 ### Common tests:
 * [capsicum tests](https://github.com/google/capsicum-test)
+
 Capsicum is not a part of OpenBSD now, but it [can be](http://www.openbsdfoundation.org/gsoc2014.html#capsicum).
 BTW FreeBSD contains [their own capsicum tests](http://svnweb.freebsd.org/base/release/10.0.0/tools/regression/capsicum/).
 * [interbench](http://ck.kolivas.org/apps/interbench/)
-* PORT devel/abi-compliance-checker https://github.com/jasperla/openbsd-wip/tree/master/devel/abi-compliance-checker
-** https://github.com/lvc/vtable-dumper
-** https://github.com/lvc/abi-dumper
+* [abi-compliance-checker](http://ispras.linuxbase.org/index.php/ABI_compliance_checker/)
+
+Port is already [exist](https://github.com/jasperla/openbsd-wip/tree/master/devel/abi-compliance-checker).
 * [unixbench](http://code.google.com/p/byte-unixbench/)
 * [memtester](http://ports.su/sysutils/memtester)
 * [stress](http://ports.su/sysutils/stress)
 * [crashme](http://ports.su/sysutils/crashme)
 * [Open Posix Testsuite](http://posixtest.sourceforge.net)
 * [Linux Test Project](http://ltp.sourceforge.net)
+
 It seems LTP works on FreeBSD. At least they have test run results in [wiki](https://wiki.freebsd.org/linux-kernel/ltp).
 * [stress2](http://people.freebsd.org/~pho/stress/)
+
 Test looks like totally unportable.
-* POSIX/C99 Conformance Audit Tests from DragonFly
-http://www.dragonflybsd.org/docs/developer/RegressionTest/	http://gitweb.dragonflybsd.org/~beket/
+* [POSIX/C99 Conformance Audit Tests](http://www.dragonflybsd.org/docs/developer/RegressionTest/)
 * [Ubuntu regressions tests](http://bazaar.launchpad.net/~ubuntu-bugcontrol/qa-regression-testing/master/files/head:/)
 * [FreeBSD regression tests](http://svnweb.freebsd.org/base/release/10.0.0/tools/regression/)
+
 Developers have plans to convert all regression tests in base to the kyua framework.
 You can track status [here](https://wiki.freebsd.org/TestingFreeBSD).
 * [NetBSD regression tests](http://cvsweb.netbsd.org/bsdweb.cgi/src/regress/?only_with_tag=MAIN)
 * [DragonFly BSD regression tests](http://gitweb.dragonflybsd.org/dragonfly.git/tree/1365b5f1af0c1cc3894d279008de5831984b2990:/test)
-Additional tests: [general tests](http://gitweb.dragonflybsd.org/~beket/gen-tests.git) and
-[POSIX/C99 Conformance Audit tests](http://gitweb.dragonflybsd.org/~beket/pcca-tests.git).
 * [OpenSolaris regression tests](http://dlc.sun.com/osol/test/downloads/current/). On [Bitbucket](https://bitbucket.org/illumos/illumos-stc).
 * [Virtual Memory touching](http://hoytech.com/vmtouch/)
-* LINUX ONLY? mmtests
-	https://github.com/gormanm/mmtests
-	http://www.csn.ul.ie/~mel/projects/mmtests/
-	http://lwn.net/Articles/509585/
+* [mmtests](https://github.com/gormanm/mmtests)
+
+Probably it is Linux-only test.
 * cpuburn
 * [vmregress](http://www.csn.ul.ie/~mel/projects/vmregress/)
+
 Probably it is Linux-only test.
-* perf_event_overhead http://web.eecs.utk.edu/~vweaver1/projects/perf-events/benchmarks/rdtsc_overhead/
+* [perf_event_overhead](http://web.eecs.utk.edu/~vweaver1/projects/perf-events/benchmarks/rdtsc_overhead/)
 * [memhack](https://01.org/memhack)
 * [crackerjack - regression test framework and kernel execution coverage](http://sourceforge.net/projects/crackerjack/)
+
 Paper from Ottawa Linux Symposiumhttps://www.kernel.org/doc/ols/2007/ols2007v2-pages-285-296.pdf
 * [trinity (Linux syscall fuzzer)](http://codemonkey.org.uk/projects/trinity/)
+
 Maintainer of the project (Dave Jones) declines patches with OpenBSD support. He do not want to support OpenBSD due
 to a big amount of 'linuxisms' in trinity source tree.
 * [futex test](https://git.kernel.org/cgit/linux/kernel/git/dvhart/futextest.git)
 * [simple mmap test](http://people.freebsd.org/~jkim/mmap_test.c)
-* btrax http://btrax.sourceforge.net
+* [btrax](http://btrax.sourceforge.net)
 * [entropy - pseudorandom number sequence test program](http://www.fourmilab.ch/random/)
 * [dieharder - random number test suite](http://www.phy.duke.edu/~rgb/General/dieharder.php)
 * [testu01 - empirical statistical testing of uniform random number generators](http://www.iro.umontreal.ca/~simardr/testu01/tu01.html)
 * [ncurses tests](http://bxr.su/NetBSD/tests/lib/libcurses/)
+
 ncurses tests is a part of NetBSD regression tests. Probably we will
 get it after porting kyua tests from NetBSD regression tests.
 [Automated testing of the Curses library (pdf)](www.bsdcan.org/2012/schedule/attachments/188_curses-test.pdf)
