@@ -10,7 +10,9 @@ title: Добавление поиска по блогу
 
 Для удобства поиска по блогу добавил [OpenSearch](http://ru.wikipedia.org/wiki/OpenSearch),
 который позволяет вводить слова поиска в адресной строке браузера.
-<img src="/images/opensearch.png" alt="OpenSearch в блоге">.
+
+<img src="/images/opensearch.png" alt="OpenSearch в блоге">
+
 Сам поиск использует технологии Google и работает
 [прекрасно](https://www.google.com/search?q=site:blog.bronevichok.ru%20opensearch) :)
 Не понимаю почему OpenSearch не используют авторы других блогов.
