@@ -14,7 +14,7 @@ title: Новые статьи по почте
 Если вы не пользуетесь RSS, то это не проблема. Теперь можно получать новые статьи на почту.
 
 Достаточно просто ввести свой почтовый адрес в форму ниже:
-<form action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open(&#39;http://feedburner.google.com/fb/a/mailverify?uri=bronevichok&#39;, &#39;popupwindow&#39;, &#39;scrollbars=yes,width=550,height=520&#39;);return true"><p>Введите свой email: <input type="text" name="email"><input type="hidden" value="bronevichok" name="uri"><input type="hidden" name="loc" value="ru_RU"> <input type="submit" value="Подписаться"></form>
+<form action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open(&#39;http://feedburner.google.com/fb/a/mailverify?uri=bronevichok&#39;, &#39;popupwindow&#39;, &#39;scrollbars=yes,width=550,height=520&#39;);return true"><p>Введите свою электропочту: <input type="text" name="email"><input type="hidden" value="bronevichok" name="uri"><input type="hidden" name="loc" value="ru_RU"> <input type="submit" value="Подписаться"></form>
 
 или кликнуть <a href="http://feedburner.google.com/fb/a/mailverify?uri=bronevichok">по ссылке</a>.
 
