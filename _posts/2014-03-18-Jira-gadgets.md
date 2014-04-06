@@ -10,7 +10,7 @@ title: Гаджеты в Jira
 
 В нашей компании в качестве таск- и багтрекера используется Atlassian Jira.
 
-<img src="/images/jira.png" style="float:right"
+<img src="http://blog.bronevichok.ru/images/jira.png" style="float:right"
 	alt="Отрывок дашбоарда в Jira">
 
 и, как следствие, в своей повседневной работе я активно пользуюсь дашбоардами в Jira для
