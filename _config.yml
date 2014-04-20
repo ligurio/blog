@@ -3,3 +3,4 @@ pygments: true
 name:     Сергей Бронников
 description:
 url:      http://blog.bronevichok.ru
+timezone: Europe/Moscow
