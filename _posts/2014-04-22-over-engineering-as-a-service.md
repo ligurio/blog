@@ -34,4 +34,4 @@ title: Разница в подходах
 
 Наверняка у обоих решений решений есть как и плюсы так и минусы.
 Но очевидно, что решение Canonical это классический пример
-[over engineered software](https://en.wikipedia.org/wiki/Overengineering)
+[over engineered software](https://en.wikipedia.org/wiki/Overengineering).
