@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Разница в подходах
+published: false
 ---
 
 {{ page.title }}
