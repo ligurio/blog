@@ -1,6 +1,6 @@
 markdown: rdiscount
 pygments: true
-name:     Сергей Бронников
+name: Сергей Бронников
 description:
-url:      http://blog.bronevichok.ru
+url: http://blog.bronevichok.ru
 timezone: Europe/Moscow
