@@ -97,9 +97,9 @@ Bluetooth, [altq](http://undeadly.org/cgi?action=article&sid=20140419151959), [A
 
 Полезные презентации:
 
-* [The OpenBSD Culture](http://www.openbsd.org/papers/opencon06-culture.pdf) (pdf)
-* [OpenBSD as a Development Environment](http://www.openbsd.org/papers/asiabsdcon07-development/index.html)
-* [The OpenBSD release process](http://www.openbsd.org/papers/asiabsdcon2009-release_engineering)
+* [The OpenBSD Culture](http://www.openbsd.org/papers/opencon06-culture.pdf) (pdf) David Gwynne
+* [OpenBSD as a Development Environment](http://www.openbsd.org/papers/asiabsdcon07-development/index.html) Ryan McBride
+* [The OpenBSD release process](http://www.openbsd.org/papers/asiabsdcon2009-release_engineering) Theo de Raadt
 * [How OpenBSD is made](http://undeadly.org/cgi?action=article&sid=20080911114306&mode=expanded)
 
 <br>
