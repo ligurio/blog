@@ -67,7 +67,7 @@ are not as efficient as we'd like them to be.
 
 ** What tools, tests and testing frameworks do you use?
 I have found a lot of tests (like XTS, rendercheck, glean, piglit etc)
-in repository [http://cgit.freedesktop.org/](http://cgit.freedesktop.org/)
+in [repository](http://cgit.freedesktop.org/)
 but some of them looks outdated. Do developers create tests on regular basis
 for new functionality and bugfixes? **
 
@@ -133,7 +133,7 @@ We have a Bugzilla hosted at freedesktop.org (bugs.freedesktop.org),
 completed by a patch tracking system (patchwork) that tries to ensure
 that no submitted patch gets forgotten or unhandled.
 
-** Sometimes X.Org has security flaws ([http://www.x.org/wiki/Development/Security/](http://www.x.org/wiki/Development/Security/))
+** Sometimes X.Org has [security flaws](http://www.x.org/wiki/Development/Security/)
 Do you use regular security audit of code? **
 
 No and yes :) AFAIK X.Org has no one explicitly dedicated to do code
