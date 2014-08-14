@@ -14,7 +14,7 @@ title: Тестирование OpenSMTPD
 Я решил начать публикации интервью с разработчиками открытых проектов
 о тестировании. Пилотное интервью будет с разработчиком OpenSMTPD - Gilles Chehade.
 
-<img align="center" src="http://blog.bronevichok.ru/images/opensmtpd.jpg" alt="OpenSMTPD">
+<img align="center" src="http://blog.bronevichok.ru/images/logo-opensmtpd.jpg" alt="OpenSMTPD">
 
 [OpenSMTPD](https://www.opensmtpd.org/) - это проект, начатый в 2002 году
 в рамках создания нового открытого SMTP сервера.

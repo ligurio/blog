@@ -18,7 +18,7 @@ Xorg остаётся живее всех живых.
 Помимо своего участия в проекте X.Org он также стоит у истоков создания отдельной версии Xorg
 для проекта OpenBSD - [Xenocara](http://xenocara.org/).
 
-<img align="center" src="http://blog.bronevichok.ru/images/xorg-logo.png" alt="Xorg">
+<img align="center" src="http://blog.bronevichok.ru/images/logo-xorg.png" alt="Xorg">
 
 ** Xorg (the X-server) is a big and complex beast.
 How development process of it looks like? **
