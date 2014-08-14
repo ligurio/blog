@@ -8,6 +8,8 @@ title: Тестирование X.Org
 
 <p class="meta">06 июля 2014 - Москва</p>
 
+<img src="http://blog.bronevichok.ru/images/logo-xorg.png" alt="Xorg" style="float:left">
+
 В этом году Xorg, свободной реализации [X Window System](https://en.wikipedia.org/wiki/X11),
 [исполняется 30 лет](https://plus.google.com/102057777074369211973/posts/2M3jfkL2gNJ).
 Несмотря на существование и развитие [альтернатив](https://bbs.archlinux.org/viewtopic.php?id=87281)
@@ -18,7 +20,6 @@ Xorg остаётся живее всех живых.
 Помимо своего участия в проекте X.Org он также стоит у истоков создания отдельной версии Xorg
 для проекта OpenBSD - [Xenocara](http://xenocara.org/).
 
-<img align="center" src="http://blog.bronevichok.ru/images/logo-xorg.png" alt="Xorg">
 
 ** Xorg (the X-server) is a big and complex beast.
 How development process of it looks like? **
