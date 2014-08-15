@@ -130,7 +130,8 @@ even if it's far from perfect.
 ** What tool do you use for tracking open bugs? Who is responsible in
 tracking of open bugs? **
 
-We have a Bugzilla hosted at freedesktop.org (bugs.freedesktop.org),
+We have a Bugzilla hosted at [freedesktop.org](http://freedesktop.org)
+([bugs.freedesktop.org](http://bugs.freedesktop.org)),
 completed by a patch tracking system (patchwork) that tries to ensure
 that no submitted patch gets forgotten or unhandled.
 
