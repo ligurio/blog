@@ -200,7 +200,7 @@ their own katamaries (with more frequent merges of upstream packages),
 independently of the official X.Org ones.
 
 The times where the XFree86 project was providing binary distributions for
-most of its supported systems (from SVr4 to Linux, including NetBSD,
+most of its supported systems (from SVR4 to Linux, including NetBSD,
 OS/2 and a few others) is definitely over.
 
 ** What was the most interesting bug in your practice? :) **
