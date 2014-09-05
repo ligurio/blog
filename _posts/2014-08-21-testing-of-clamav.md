@@ -22,16 +22,16 @@ title: Тестирование ClamAV
 
 Steven Morgan, Development tech lead for ClamAV
 
-** How development process of ClamAV looks like? **
+** How does development process of ClamAV look like? **
 
 Agile, modified scrum.
 
-** How much developers involved in development? **
+** How many developers involved in the development? **
 
 Three full time developers, several part time developers,
 plus developments from the ClamAV community.
 
-** How testing process looks? **
+** How does testing process look? **
 
 Developer testing, unit testing, buildbot (fourteen platforms),
 regression testing (>315 M test samples), testing by the QA, beta testing, release candidate testing.

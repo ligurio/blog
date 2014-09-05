@@ -25,7 +25,7 @@ title: Тестирование OpenSMTPD
 Итак.
 
 **Hi, Gilles.
-How development process of opensmtpd looks like? How much developers involved in development?**
+How does development process of opensmtpd look like? How many developers involved in the development?**
 
 Actually we have a fairly simple development process.
 
@@ -55,7 +55,7 @@ Besides us, there are a number of power users who contribute code, features and 
 Some of the features we provide were entirely written by outsiders, some others were started
 by us and we gave up to let others write them and put a first foot in our project.
 
-**How testing process looks? Do you use regular testing (for example for each commit)
+**How does testing process look? Do you use regular testing (for example for each commit)
 or it is time from time testing?**
 
 We do continuous testing through various means.

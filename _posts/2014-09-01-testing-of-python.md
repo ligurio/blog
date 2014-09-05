@@ -19,7 +19,7 @@ title: Тестирование Python
 
 Brett Cannon, core developer since 2002.
 
-** How much developers involved in development on regular basis? **
+** How many developers involved in the development on regular basis? **
 
 According to Open HUB we had as high as 36 contributors in a single month in the past year ([https://www.openhub.net/p/python/contributors/summary](https://www.openhub.net/p/python/contributors/summary)).
 

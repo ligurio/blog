@@ -20,7 +20,7 @@ title: Тестирование sudo
 второй - [про X.Org](http://blog.bronevichok.ru/2014/08/06/testing-of-xorg.html).
 Как вам такой формат? Дайте знать, если будут замечания или предложения по улучшению.*
 
-** How much developers involved in development? **
+** How many developers involved in the development? **
 
 For the most part, sudo is a one-man operation.  I do receive patches
 from people and occasionally larger bits of functionality.  For
@@ -29,14 +29,14 @@ the SSSD support was written Daniel Kopecek of RedHat.  The message
 catalog translations are maintained by a number of different groups
 coordinated via [translationproject.org](http://translationproject.org/).
 
-** How development process of sudo looks like? **
+** How does development process of sudo look like? **
 
 I try to do three or four main releases a year and have specific
 goals (or a list of to do items) for the upcoming release.  Most
 bugs are fixed quickly and if a bug affects a large number of people
 I'll put out a new patchlevel release with the bug fix.
 
-** How testing process looks like? Do you testing at all? **
+** How does testing process look like (if it exists)? **
 
 I use the development version of sudo on a daily basis.  This helps
 find some bugs before users ever see them.  There are also beta

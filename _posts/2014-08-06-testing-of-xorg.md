@@ -22,7 +22,7 @@ Xorg остаётся живее всех живых.
 
 
 ** Xorg (the X-server) is a big and complex beast.
-How development process of it looks like? **
+How does development process of it look like? **
 
 It's not that big compared to many more recent projects (like firefox,
 chrome or even Gnome/KDE)
@@ -54,13 +54,13 @@ And to be complete, nowadays development of the active drivers almost
 completely driven by the companies (Intel, AMD, VMWare), so it's
 engineers from those companies who do most of the commits and pushes.
 
-** How much developers involved in development? **
+** How many developers involved in the development? **
 
 If we include the Mesa, Linux kernel graphics stack and X people there
 are around 50-60 people who commit on a regular basis to one of the
 repositories.
 
-** How testing process looks like? Do you use regular testing
+** How does testing process look like? Do you use regular testing
 (for example for each commit) or it is time from time testing? **
 
 We have some tools to do regular, automated testing in place, but they
