@@ -111,8 +111,10 @@ They did a press release about our very low defect rate:
 
 (Interviewer's note: see also [Coverity Scan report](http://wpcme.coverity.com/wp-content/uploads/2013-Coverity-Scan-Spotlight-Python.pdf) (PDF))
 
+<!--
 ** Do you use static or dynamic code analysis tools or services like Coverity?
 Or maybe another techniques directed to improving quality of code? **
+-->
 
 ** Who is responsible for releasing of new version? What are the release criterias? **
 
