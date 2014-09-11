@@ -8,6 +8,8 @@ title: Повышение качества кода с минимальными 
 
 <p class="meta">11 сентября 2014 - Москва</p>
 
+<img src="http://blog.bronevichok.ru/images/continuous-integration.png" alt="Continuous Integration" style="float:left">
+
 При появлении нового проекта некоторые разработчики
 начинают не задумываясь устанавливать Jenkins/TeamCity/buildbot etc
 для использования [Continuous Integration](http://en.wikipedia.org/wiki/Continuous_integration).
