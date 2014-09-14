@@ -103,7 +103,7 @@ We have this: [http://coverage.ffmpeg.org/](http://coverage.ffmpeg.org/)
 
 I'm not sure about how often the statistics are updated.
 
-> What tool do you use for tracking open bugs?
+** What tool do you use for tracking open bugs? **
 
 We use trac since 2011:
 [https://trac.ffmpeg.org/](https://trac.ffmpeg.org/)
