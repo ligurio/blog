@@ -59,8 +59,8 @@ updated statistics can be seen here:
 The contributor is supposed to test a new feature/defect fix/change
 manually, and to run the complete testing suite on her machine.
 
-We have a testing framework called FATE (FFmpeg Automated Test
-Environment), see: [http://fate.ffmpeg.org/](http://fate.ffmpeg.org/)
+We have a testing framework called [FATE](https://www.ffmpeg.org/fate.html)
+(FFmpeg Automated Test Environment), see: [http://fate.ffmpeg.org/](http://fate.ffmpeg.org/).
 
 ** What is the process for testing new features or significant changes in FFmpeg? **
 
