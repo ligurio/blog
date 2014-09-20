@@ -6,7 +6,7 @@ title: Что пишут в разделе BUGS в документации
 {{ page.title }}
 ================
 
-<p class="meta">21 сентября 2014 - Москва</p>
+<p class="meta">20 сентября 2014 - Москва</p>
 
 В документации есть секция BUGS, которая, согласно
 [man(7)](http://www.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man7/man.7?query=man&sec=7),
