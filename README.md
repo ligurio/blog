@@ -7,4 +7,4 @@ Author: Sergey Bronnikov [@estet](https://twitter.com/estet) (estetus@gmail.com)
 
 [Homepage](https://bronevichok.ru)
 
-[Subreddit about testing of free and opensource software projects](http://www.reddit.com/r/fosstesting/)
+[Subreddit about testing of free and opensource software projects - r/fosstesting](http://www.reddit.com/r/fosstesting/)
