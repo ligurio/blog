@@ -168,6 +168,7 @@ the Windows 95 days, so of course there was no such thing as a Windows
 box with 25 days of uptime, so the crash only happened on Wine ;-)
 
 ---------------------------------------
+<br><br>
 
 ## Дополнительная информация о тестировании Wine
 
