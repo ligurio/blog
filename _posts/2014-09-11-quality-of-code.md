@@ -28,6 +28,7 @@ title: Повышение качества кода с минимальными 
 - измерение покрытие кода тестами
 - подсчёт строк кода (SLOC)
 
+<br>
 ## Какие варианты есть?
 
 [Travis CI](https://travis-ci.org) - один из самых популярных сервисов такого рода.
@@ -75,3 +76,6 @@ title: Повышение качества кода с минимальными 
 [AddressSanitizer](https://code.google.com/p/address-sanitizer/),
 [LeakSanitizer](http://www.chromium.org/developers/testing/leaksanitizer)
 или даже библиотеки для fault-injection и т.д. Может это просто вопрос времени?
+
+_Добавлено_: Ещё есть [Testling](https://ci.testling.com) для автоматического
+тестирования JavaScript кода в браузерах.
