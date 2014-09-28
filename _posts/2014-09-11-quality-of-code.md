@@ -79,3 +79,6 @@ title: Повышение качества кода с минимальными 
 
 _Добавлено_: Ещё есть [Testling](https://ci.testling.com) для автоматического
 тестирования JavaScript кода в браузерах.
+
+<!-- https://ci.appveyor.com -->
+<!-- https://app.wercker.com -->
