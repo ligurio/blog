@@ -82,3 +82,4 @@ _Добавлено_: Ещё есть [Testling](https://ci.testling.com) для
 
 <!-- https://ci.appveyor.com -->
 <!-- https://app.wercker.com -->
+<!-- http://thoughtbot.com -->
