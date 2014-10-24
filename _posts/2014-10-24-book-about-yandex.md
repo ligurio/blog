@@ -67,7 +67,7 @@ title: Яндекс.Книга
 
 Вообщем книга интересная и не менее захватывающая, чем,
 например, книги про историю Apple
-или [«Just for fun»](http://www.amazon.com/Just-Fun-Accidental-Revolutionary-Hardcover/dp/B-1MXGC3CW/)
+или [«Just for fun»](http://www.amazon.com/Just-Fun-Story-Accidental-Revolutionary/dp/0066620732/)
 про Линуса Торвальдса и ядро Linux.
 
 Большим удивлением был для меня тот факт, что до 2007 года в Яндексе
