@@ -3,10 +3,11 @@ layout: default
 title: Сергей Бронников - Блог
 ---
 
-<div id="home">
-  <h1>Все посты</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
+{% for post in paginator.posts %}
+  <div class="post">
+	<!-- <h1><a href="{{ post.url }}">{{ post.title }}</a></h1> -->
+	{{ post.content }}
+  </div>
+{% endfor %}
+
+<div class="post"><h1><a href="/archive/">Все посты</a></h1></div>
