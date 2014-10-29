@@ -80,6 +80,6 @@ title: Повышение качества кода с минимальными 
 _Добавлено_: Ещё есть [Testling](https://ci.testling.com) для автоматического
 тестирования JavaScript кода в браузерах.
 
-<!-- https://ci.appveyor.com -->
-<!-- https://app.wercker.com -->
-<!-- http://thoughtbot.com -->
+_Добавлено_: Не совсем правильно было писать пост об этом в блоге.
+Поэтому позднее я сделал [сравнительную таблицу](https://github.com/ligurio/Continuous-Integration-services)
+для таких сервисов.
