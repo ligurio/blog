@@ -73,7 +73,7 @@ title: Недостатки OpenBSD как десктопной ОС
 [Вариант с aucat(1) и ssh(1)](http://article.gmane.org/gmane.os.openbsd.misc/159482) конечно работает, но для реальной жизни мало подходит :)
 * Отсутствие удобного календаря, аналога Apple iCal. Чтобы была поддержка формата iCal,
 сетевых календарей и поддержка Exchange. Пока есть только кандидат -
-[California](http://www.opennet.ru/opennews/art.shtml?num=39375),
+[California](https://wiki.gnome.org/Apps/California),
 но он ещё в стадии разработки. Я пытался использовать тандем [davmail](http://davmail.sourceforge.net/)
 и Mozilla Sunbird, пока [Mozilla не закрыла разарботку Sunbird](https://support.mozilla.org/en-US/kb/calendar-lightning-and-sunbird-faq). Использовал веб-интерфейс Exchange - Outlook OWA, но у такого способа нет нотификаций.
 Использовать Mozilla Thunderbird не удобно, потому что мне не нужен монстр с
