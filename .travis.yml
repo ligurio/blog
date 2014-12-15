@@ -3,11 +3,17 @@ language: python
 python:
   - 2.7
 
+before_install:
+  - sudo apt-get update
+  - sudo apt-get install pandoc openjdk-7-jre
+  - curl -O https://languagetool.org/download/LanguageTool-2.7.zip && unzip LanguageTool-2.7.zip -d ~
+
 install:
   - pip install requests markdown beautifulsoup4
 
 script:
   - python check_urls.py _posts/*.md
+  - java -jar ~/LanguageTool-2.7/languagetool-commandline.jar -l ru _posts/*.md
 
 notifications:
   email:
