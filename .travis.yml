@@ -13,7 +13,7 @@ install:
 
 script:
   - python check_urls.py _posts/*.md
-  - java -jar ~/LanguageTool-2.7/languagetool-commandline.jar --autoDetect  _posts/*.md
+  - java -jar ~/LanguageTool-2.7/languagetool-commandline.jar --autoDetect  _posts/2014-09-14-testing-of-ffmpeg.md
 
 notifications:
   email:
