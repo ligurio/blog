@@ -124,7 +124,7 @@ when a new problem is found is extremely helpful.
 ** What tool do you use for tracking open bugs? Who is responsible in
 tracking of open bugs? **
 
-We use Bugzilla (<https://bug.winehq.org>). It's managed by volunteers
+We use Bugzilla (<https://bugs.winehq.org>). It's managed by volunteers
 from our community. We have a good team of bugzilla volunteers who do a
 great job of massaging the bug reports to make them useful for
 developers. This is especially important since in most cases developers

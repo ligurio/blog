@@ -220,7 +220,7 @@ _В следующий раз я расскажу как пользоватьс�
 
 - [Официальная документация](http://www.ledger-cli.org/docs.html)
 - [Презентация о ledger](http://matthewturland.com/slides/ledger-stats/)
-- [Использование Bitcoin в ledger](http://www.reddit.com/r/Bitcoin/comments/155gw5/heres_how_you_use_ledger_to_account_for_bitcoin/)
+- [Использование Bitcoin в ledger](https://www.reddit.com/r/Bitcoin/comments/155gw5/heres_how_you_use_ledger_to_account_for_bitcoin/)
 - [Серия статей об использовании ledger](http://matthewturland.com/category/ledger/)
 
 <br>
