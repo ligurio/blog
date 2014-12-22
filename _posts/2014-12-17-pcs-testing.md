@@ -37,7 +37,7 @@ and virtual machines ([Parallels Virtual Automation](http://www.parallels.com/ru
 and dozens of command line tools to manage and monitor PCS.
 Testing process covers every single component mentioned above.
 
-## Preface.
+## Preface
 
 At the moment about 98% of PCS functionality is tested by auto tests.
 The amount of tests we use has grown dramatically from 180 to 600 distinct
@@ -62,7 +62,7 @@ system. Some time passed and the amount of HW nodes in tests grew from
 from 180 to 600. It all influenced the testing system and that’s why
 we’ve come the testing system we use now.
 
-## General schema of auto testing system.
+## General schema of auto testing system
 
 <img src="http://blog.bronevichok.ru/images/pcs-testing-2.png">
 
