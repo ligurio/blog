@@ -23,3 +23,5 @@ title: Разнообразие рекламных площадок
 Владельцы компаний делают татуировки с логотипом своей компании
 как например сделал [Сергей Белоусов, CEO Acronis](http://rusbase.vc/news/belousov-tatu/)
 и [другие](http://www.the-village.ru/village/hopesandfears/cloud/157989-tattoo).
+
+_Добавлено_: распространение рекламы [через Bluetooth](http://add.fenster.name/740/).
