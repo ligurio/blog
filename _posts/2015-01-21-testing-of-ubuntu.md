@@ -11,7 +11,7 @@ title: Тестирование Ubuntu
 <img src="http://blog.bronevichok.ru/images/logo-ubuntu.png" height="210" alt="Ubuntu" style="float:left">
 
 В этом году исполняется 10 лет такому дистрибутиву как Ubuntu.
-Я взял интервью у человека, который непосредственно отвечает на качество этой ОС -
+Я задал несколько вопросов человеку, который непосредственно отвечает за качество этой ОС -
 Nicholas Skaggs.
 
 **Please introduce yourself.**
@@ -19,7 +19,7 @@ Nicholas Skaggs.
 My name is Nicholas Skaggs and I'm a community manager for Ubuntu working
 at Canonical. I specifically focus on quality efforts and making sure Ubuntu
 is the best it can be. This involves working with a wonderful community
-of testers and developers to help release ubuntu images. I also work to
+of testers and developers to help release Ubuntu images. I also work to
 encourage app developers to make sure there code is well tested.
 This involves helping educate and provide tools and documentation.
 Testing is a wonderful thing and can be an enjoyable experience rather
@@ -42,7 +42,7 @@ it has adopted a more rolling release model with LTS releases providing
 a stable foundation to build things. The 6 month releases are stable,
 but are more of an intermediate stepping stone between LTS releases.
 Each 6 month cadence begins with an update of all downstream software
-into the ubuntu repository. Much of this occurs by syncing with Debian unstable,
+into the Ubuntu repository. Much of this occurs by syncing with Debian unstable,
 but package updates can come from many sources. From there, traditionally
 a UDS (Ubuntu developer summit) event would occur which allowed teams
 to plan and share there work for the next cycle. These events have been
@@ -103,16 +103,16 @@ and the caller can be heard, etc involves several applications and system servic
 Autopilot is homemade; that is to say it's an open source testing tool
 originally designed for testing Unity, whic is our desktop enviroment.
 It's evolved to support our other testing needs and can be utilized
-by others to test any GTK or QT application. Check it out! https://launchpad.net/autopilot,
-https://wiki.ubuntu.com/Autopilot.
+by others to test any GTK or QT application.
+Check it out: [sources](https://launchpad.net/autopilot), [wiki](https://wiki.ubuntu.com/Autopilot)!
 We also use apport and whoopsie which allow us to collect meaningful data
 on crashes and other errors in the released versions of Ubuntu in a seamless
 and automated fashion. Check out [errors.ubuntu.com](http://errors.ubuntu.com/).
 Finally, we use what is called the "CI train", which is intended to provide
 continuous integration and handle our release process.
 The tool lives on [Launchpad](http://launchpad.net/uci-engine).
-Lest I forget, we also make use of umockdev, which allows us to mock
-hardware devices; https://github.com/martinpitt/umockdev.
+Lest I forget, we also make use of [umockdev](https://github.com/martinpitt/umockdev),
+which allows us to mock hardware devices.
 
 Finally, we use what we call the qatracker. This tool handles keeping track
 of all of our manual testcases and manual test results. It's implemented as module for Drupal,
@@ -166,7 +166,7 @@ is the code driving this. What tool do you use for tracking open bugs?
 
 Yes. And we have a wonderful group of community members who
 help keep bugs triaged on Launchpad. You can find out more about
-the triage work and team (and even pitch in!) here: https://wiki.ubuntu.com/HelpingWithBugs
+the triage work and team (and even pitch in!) [here](https://wiki.ubuntu.com/HelpingWithBugs).
 
 **Do you use regular security audit of code?**
 
