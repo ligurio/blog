@@ -10,7 +10,7 @@ title: Тестирование Ubuntu
 
 <img src="http://blog.bronevichok.ru/images/logo-ubuntu.png" height="210" alt="Ubuntu" style="float:left">
 
-В этом году исполняется 10 лет такому дистрибутиву как Ubuntu.
+В этом году исполняется 10 лет такому Linux дистрибутиву как Ubuntu.
 Я задал несколько вопросов человеку, который непосредственно отвечает за качество этой ОС -
 Nicholas Skaggs.
 
