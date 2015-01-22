@@ -156,9 +156,9 @@ We do attempt to measure it, although I don't have a lot of knowledge about it.
 It's run via Jenkins and requires the underlying project and language
 to report coverage (tox, or whatever else). We aim for 100% in every project,
 but fall somewhat sort of that. https://launchpad.net/qa-coverage-dashboard
-is the code driving this. What tool do you use for tracking open bugs?
+is the code driving this.
 
-**Who is responsible in tracking of open bugs?**
+**What tool do you use for tracking open bugs?**
 
 [Launchpad](http://launchpad.net).
 
