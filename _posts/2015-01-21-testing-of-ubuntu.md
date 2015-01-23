@@ -76,7 +76,7 @@ the repository that would break an existing package.
 **What tools, tests and testing frameworks do you use? Do developers
 create tests on regular basis for new functionality and bugfixes?**
 
-[Autopilot](https://wiki.ubuntu.com/Touch/Testing/Autopilot), [phantomjs](http://phantomjs.org/),
+[Autopilot](https://wiki.ubuntu.com/Touch/Testing/Autopilot), [PhantomJS](http://phantomjs.org/),
 [googletest](https://code.google.com/p/googletest/) (Google C++ Testing Framework),
 qmltestrunner; all sorts of different testing frameworks and tools.
 For projects which canonical is owner (such as Unity and Mir),
