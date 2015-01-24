@@ -67,7 +67,7 @@ other developers worldwide across a wide range of projects and distributions.
 We have automated testing of many packages before they enter into Ubuntu,
 but we also leverage Debian and sync packages directly from them
 on a regular basis during development of a release. The primary tool
-for this is autopkgtest and dep-8 which you can read more about [here](http://packaging.ubuntu.com/html/auto-pkg-test.html) and [here](http://dep.debian.net/deps/dep8/).
+for this is autopkgtest and DEP-8 which you can read more about [here](http://packaging.ubuntu.com/html/auto-pkg-test.html) and [here](http://dep.debian.net/deps/dep8/).
 These tools prevent syncing broken packages from what we call the -proposed
 to the repository proper. In addition, package tests are run for new versions
 of any package of it's dependencies to prevent a package from entering
@@ -79,7 +79,7 @@ create tests on regular basis for new functionality and bugfixes?**
 [Autopilot](https://wiki.ubuntu.com/Touch/Testing/Autopilot), [PhantomJS](http://phantomjs.org/),
 [googletest](https://code.google.com/p/googletest/) (Google C++ Testing Framework),
 qmltestrunner; all sorts of different testing frameworks and tools.
-For projects which canonical is owner (such as Unity and Mir),
+For projects which Canonical is owner (such as [Unity](https://unity.ubuntu.com/) and [Mir](http://unity.ubuntu.com/mir/)),
 tests are added regularly to deal with regressions (as part of bugfixes),
 and new tests are required for new functionality. The code is reviewed
 before being merged into the project and part of this review is ensuring
