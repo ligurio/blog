@@ -170,21 +170,21 @@ the triage work and team (and even pitch in!) [here](https://wiki.ubuntu.com/Hel
 
 **Do you use regular security audit of code?**
 
-Yes, the security team handles this. In addition, we invest
+Yes, the Security Team handles this. In addition, we invest
 in things like [AppArmor](https://wiki.ubuntu.com/AppArmor)
 which provides application isolation from the system.
 Should there be a security issue, the goal is to limit
 any potential impact because of this confinement. An application or
 service is extremely limited by default; so a rogue application
 would only be able to impact itself. This technology has shipped
-within ubuntu for some time.
+within Ubuntu for some time.
 
 While developing the phone, we took it a step further and enhanced
-the protection provided by apparmor. You can see the result of
-this work with snappy. Snappy provides a minimal read-only
+the protection provided by AppArmor. You can see the result of
+this work with Snappy. Snappy provides a minimal read-only
 core system with transactional updates. This allows us to keep a very close
 eye on the core system, while allowing the user to safely run and update
-applications which are confined. Check snappy out [here](https://ubuntu.com/snappy).
+applications which are confined. Check Snappy out [here](https://ubuntu.com/snappy).
 
 **Do you use static code analysis tools or services like Coverity for
 Ubuntu components? Or maybe another techniques directed to improving quality of code?**
