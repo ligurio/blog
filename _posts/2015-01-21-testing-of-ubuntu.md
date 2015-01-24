@@ -55,7 +55,6 @@ which allows for continuous development and updates to stable as they occur.
 However, the traditional 6 month development cycle that has been a trademark
 since the beginning of Ubuntu remains in place with only minor refinements from the original.
 
-
 **How many developers in Canonical involved in the development?**
 
 Many :-) I don't have any real numbers, but suffice to say its <500 people.
@@ -108,6 +107,9 @@ Check it out: [sources](https://launchpad.net/autopilot), [wiki](https://wiki.ub
 We also use apport and whoopsie which allow us to collect meaningful data
 on crashes and other errors in the released versions of Ubuntu in a seamless
 and automated fashion. Check out [errors.ubuntu.com](http://errors.ubuntu.com/).
+
+<img src="http://blog.bronevichok.ru/images/Ubuntu-Error-reports.png" width="65%" alt="Ubuntu" style="float:left">
+
 Finally, we use what is called the "CI train", which is intended to provide
 continuous integration and handle our release process.
 The tool lives on [Launchpad](http://launchpad.net/uci-engine).
@@ -162,6 +164,8 @@ is the code driving this.
 
 [Launchpad](http://launchpad.net).
 
+<img src="http://blog.bronevichok.ru/images/Ubuntu-Launchpad.png" width="100%" alt="Ubuntu">
+
 **Do you have triage process?**
 
 Yes. And we have a wonderful group of community members who
@@ -213,6 +217,9 @@ For Ubuntu phone, the CI team takes the lead for releasing.
 The release criteria is more or less QA signoff combined with satisfactory
 manual testing and automated test results. You can see the results
 in realtime for each build on the [CI dashboard](http://ci.ubuntu.com/).
+
+<img src="http://blog.bronevichok.ru/images/Ubuntu-Dashboard.png" width="100%" alt="Ubuntu">
+<br>
 
 **What was the most interesting bug in your practice? :)**
 
