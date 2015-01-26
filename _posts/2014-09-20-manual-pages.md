@@ -12,7 +12,7 @@ title: Что пишут в разделе BUGS в документации
 [man(7)](http://www.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man7/man.7?query=man&sec=7),
 предназначена для описания различных известных проблем:
 
-	Known bugs, limitations, and work-arounds should be described in this section.
+> Known bugs, limitations, and work-arounds should be described in this section.
 
 Но разработчики её используют по-разному. Одни используют по назначению
 и пишут ограничения, иногда с воркэраундами, как например здесь:
