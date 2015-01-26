@@ -114,3 +114,5 @@ name cross-review in company and cross-companies when sending changes to main re
 **What was the most interesting bug in your practice? :)**
 
 Usually interesting bugs are not bugs but features :)
+
+Fin
