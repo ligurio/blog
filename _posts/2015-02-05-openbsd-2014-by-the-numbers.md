@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OpenBSD 2014 в цифрах
+title: OpenBSD 2014 в цифрах (англ.)
 ---
 
 {{ page.title }}
