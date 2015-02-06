@@ -3,7 +3,28 @@ layout: default
 title: Сергей Бронников - Блог
 ---
 
-<br><br>
-Страница не найдена. Перейти на <a href="http://blog.bronevichok.ru">главную страницу</a>.
+<!--<br><br>-->
+
+<link rel="canonical" href="http://blog.bronevichok.ru"/>
+<noscript>
+    <meta http-equiv="refresh" content="0;URL=http://blog.bronevichok.ru">
+</noscript>
+<script type="text/javascript">
+    var url = "http://blog.bronevichok.ru";
+
+    if (navigator.userAgent.match(/MSIE\s(?!9.0)/))
+    {
+        var referLink = document.createElement("a");
+        referLink.href = url;
+        document.body.appendChild(referLink);
+        referLink.click();
+    }
+    else {
+        window.location.replace(url);
+    }
+</script>
+
+<!-- Страница не найдена. Перейти на <a href="http://blog.bronevichok.ru">главную страницу</a>. -->
+
 
 <h1>404</h1>
