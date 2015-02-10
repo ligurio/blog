@@ -1,10 +1,17 @@
 blog.bronevichok.ru
 =================
 
-This is a source code of my blog <http://blog.bronevichok.ru>.
+This is a source texts of my blog [blog.bronevichok.ru](http://blog.bronevichok.ru).
 
 Author: Sergey Bronnikov [@estet](https://twitter.com/estet) (estetus@gmail.com)
 
-[Homepage](https://bronevichok.ru)
+* [RSS feed](http://feeds.feedburner.com/bronevichok)
+* [Homepage](https://bronevichok.ru)
+* [Twitter Account](https://twitter.com/estet)
 
-[Subreddit about testing of free and opensource software projects - r/fosstesting](http://www.reddit.com/r/fosstesting/)
+License and Copyrights
+-------------------
+
+This Blog and Website by Sergey Bronnikov is licensed under a [Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International
+License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
