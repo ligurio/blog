@@ -1,5 +1,5 @@
 markdown: rdiscount
-highlighter: true
+highlighter: pygments
 name: Сергей Бронников
 description:
 url: http://blog.bronevichok.ru
