@@ -1,14 +1,12 @@
 ---
 layout: post
-title: "Статьи в журнале ;login:"
+title: Тестирование утилиты awk
 ---
 
 {{ page.title }}
 ================
 
 <p class="meta">4 марта 2015 - Москва</p>
-
-<img src="http://blog.bronevichok.ru/images/login-magazine.png" height="100" style="float:left">
 
 Организация [Usenix](https://www.usenix.org/) издаёт журнал ;login:
 о системном администрировании, разработке ПО и т.д.
