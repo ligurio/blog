@@ -10,7 +10,7 @@ title: Automatic testing of Parallels Cloud Server
 
 Полгода назад я опубликовал статью о [тестировании Parallels Cloud Server](http://habrahabr.ru/post/204292/).
 По непонятным для меня причинам к статье был проявлен интерес от
-янглоязычных QA инженеров. Ниже перевод этой статьи на английский язык.
+англоязычных QA инженеров. Ниже перевод этой статьи на английский язык.
 
 I want to tell you about the testing process of Parallels Cloud Server,
 one of the products of Parallels Inc., where I’ve been working since
