@@ -1,7 +1,12 @@
-language: python
+#language: python
 
-python:
-  - 2.7
+#python:
+#  - 2.7
+
+language: node_js
+
+node_js:
+  - "0.12"
 
 before_install:
   - sudo apt-get update
@@ -13,7 +18,11 @@ install:
 
 script:
   - python check_urls.py _posts/*.md
-  - java -jar ~/LanguageTool-2.7/languagetool-commandline.jar --autoDetect  _posts/*.md
+# Language Tool
+  - java -jar ~/LanguageTool-2.7/languagetool-commandline.jar --autoDetect _posts/*.md
+# Yaspeller
+  - npm install yaspeller -g
+  - yaspeller .
 
 notifications:
   email: false
