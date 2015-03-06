@@ -36,7 +36,7 @@ title: Недостатки OpenBSD как десктопной ОС
 использованием [sharity-light](http://ports.su/net/sharity-light),
 который работает несмотря на свою кривость. Есть официальный порт
 поддержки CIFS через fuse(4) - [usmb](http://ports.su/sysutils/usmb)
-* Очень медленная запись на устройства USB mass storage. Ну просто ооочень медленно.
+* Очень медленная запись на устройства USB mass storage. Ну просто очень медленно.
 * Моим любимым музыкальным плеером является Apple iPod Shuffle.
 А так как Apple не раскрывает формат базы с метаданными для своих плееров и вдобавок
 ещё и периодически его меняет, то использование их плееров без iTunes создаёт некоторые проблемы.
@@ -75,7 +75,7 @@ title: Недостатки OpenBSD как десктопной ОС
 сетевых календарей и поддержка Exchange. Пока есть только кандидат -
 [California](https://wiki.gnome.org/Apps/California),
 но он ещё в стадии разработки. Я пытался использовать тандем [davmail](http://davmail.sourceforge.net/)
-и Mozilla Sunbird, пока [Mozilla не закрыла разарботку Sunbird](https://support.mozilla.org/en-US/kb/calendar-lightning-and-sunbird-faq). Использовал веб-интерфейс Exchange - Outlook OWA, но у такого способа нет нотификаций.
+и Mozilla Sunbird, пока [Mozilla не закрыла разработку Sunbird](https://support.mozilla.org/en-US/kb/calendar-lightning-and-sunbird-faq). Использовал веб-интерфейс Exchange - Outlook OWA, но у такого способа нет нотификаций.
 Использовать Mozilla Thunderbird не удобно, потому что мне не нужен монстр с
 почтой. Я почту читаю в mutt.
 * Портирование редактора для epub - [Sigil](http://code.google.com/p/sigil/)
