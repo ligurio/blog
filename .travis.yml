@@ -1,12 +1,6 @@
-#language: python
-
-#python:
-#  - 2.7
-
-language: node_js
-
-node_js:
-  - "0.12"
+language: python
+python:
+  - 2.7
 
 before_install:
   - sudo apt-get update
@@ -15,13 +9,18 @@ before_install:
 
 install:
   - pip install requests markdown beautifulsoup4
+  # JavaScript test requirements
+  - sudo add-apt-repository -y ppa:chris-lea/node.js
+  - sudo apt-get -y update
+  - sudo apt-get -y install nodejs
+  - sudo npm install yaspeller -g
+  - sudo npm install
 
 script:
   - python check_urls.py _posts/*.md
-# Language Tool
+  # Language Tool
   - java -jar ~/LanguageTool-2.7/languagetool-commandline.jar --autoDetect _posts/*.md
-# Yaspeller
-  - npm install yaspeller -g
+  # Yaspeller
   - yaspeller .
 
 notifications:
