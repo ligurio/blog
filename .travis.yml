@@ -16,7 +16,7 @@ install:
   - sudo npm install yaspeller -g
 
 script:
-  - python check_urls.py _posts/*.md
+  #- python check_urls.py _posts/*.md
   # Language Tool
   - java -jar ~/LanguageTool-2.7/languagetool-commandline.jar --autoDetect _posts/*.md
   # Yaspeller
