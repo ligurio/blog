@@ -14,7 +14,6 @@ install:
   - sudo apt-get -y update
   - sudo apt-get -y install nodejs
   - sudo npm install yaspeller -g
-  - sudo npm install
 
 script:
   - python check_urls.py _posts/*.md
