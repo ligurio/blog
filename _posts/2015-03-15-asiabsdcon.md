@@ -18,7 +18,7 @@ Henning Brauer с докладом ["OpenBSD sucks"](http://quigon.bsws.de/paper
 Reyk Floter [рассказал](http://www.openbsd.org/papers/httpd-slides-asiabsdcon2015.pdf)
 об эволюции http серверов в базовой поставке OpenBSD и зачем был написан новый httpd с нуля.
 
-Ted Unangst в докладе ["Pruning and Polishing: Keeping OpenBSD Modern"]
+Ted Unangst в докладе ["Pruning and Polishing: Keeping OpenBSD Modern"](http://www.openbsd.org/papers/pruning.html)
 рассказал, как удаётся реализовывать современный функционал в OpenBSD несмотря
 на существование очень старого кода.
 
