@@ -29,6 +29,6 @@ title: Открытые дефекты в закрытом ПО (Community bug r
 перед покупкой этого ПО вы сможете для себя оценить критичность неисправленных проблем в это ПО
 - возможность <s>без регистрации без смс</s> _простым способом_ донести фидбек до производителя ПО и собрать его в одном месте
 
-<img src="http://blog.bronevichok.ru/images/screenshot-bugs.png" height="130" alt="Community bug reports">
+<img src="http://blog.bronevichok.ru/images/screenshot-bugs.png" alt="Community bug reports">
 
 Fin
