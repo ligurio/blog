@@ -3,7 +3,7 @@ layout: post
 title: Тестирование LustreFS
 ---
 
-<p class="meta">26 января 2015 - Москва</p>
+
 
 <img src="{{ site.baseurl }}/images/logo-lustrefs.png" height="210" alt="Lustre FS" style="float:left">
 

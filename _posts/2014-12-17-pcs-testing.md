@@ -3,7 +3,7 @@ layout: post
 title: Automatic testing of Parallels Cloud Server
 ---
 
-<p class="meta">17 декабря 2014 - Москва</p>
+
 
 Полгода назад я опубликовал статью о [тестировании Parallels Cloud Server](http://habrahabr.ru/post/204292/).
 По непонятным для меня причинам к статье был проявлен интерес от

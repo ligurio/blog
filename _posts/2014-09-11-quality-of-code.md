@@ -3,7 +3,7 @@ layout: post
 title: Повышение качества кода с минимальными затратами
 ---
 
-<p class="meta">11 сентября 2014 - Москва</p>
+
 
 <img src="{{ site.baseurl }}/images/continuous-integration.png" alt="Continuous Integration" style="float:left">
 

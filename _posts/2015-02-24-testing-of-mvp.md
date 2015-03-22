@@ -3,7 +3,7 @@ layout: post
 title: Тестирование MVP (Minimum viable product)
 ---
 
-<p class="meta">24 февраля 2015 - Москва</p>
+
 
 Глава про тестирование [MVP (Minimum viable product)](https://en.wikipedia.org/wiki/Minimum_viable_product)
 из книги [Lean startup](http://theleanstartup.com/book).

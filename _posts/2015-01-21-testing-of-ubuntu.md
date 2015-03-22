@@ -3,7 +3,7 @@ layout: post
 title: Тестирование Ubuntu
 ---
 
-<p class="meta">21 января 2015 - Москва</p>
+
 
 <img src="{{ site.baseurl }}/images/logo-ubuntu.png" height="210" alt="Ubuntu" style="float:left">
 

@@ -3,7 +3,7 @@ layout: post
 title: Тестирование Python
 ---
 
-<p class="meta">1 сентября 2014 - Москва</p>
+
 
 <img src="{{ site.baseurl }}/images/logo-python.png" alt="Python" style="float:left">
 

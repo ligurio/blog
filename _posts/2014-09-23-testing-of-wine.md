@@ -3,7 +3,7 @@ layout: post
 title: Тестирование Wine
 ---
 
-<p class="meta">23 сентября 2014 - Москва</p>
+
 
 <img src="{{ site.baseurl }}/images/logo-winehq.png" alt="Wine" style="float:left">
 

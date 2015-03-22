@@ -3,7 +3,7 @@ layout: post
 title: Тестирование ClamAV
 ---
 
-<p class="meta">21 августа 2014 - Москва</p>
+
 
 <img src="{{ site.baseurl }}/images/logo-clamav.jpg" alt="ClamAV" style="float:left">
 

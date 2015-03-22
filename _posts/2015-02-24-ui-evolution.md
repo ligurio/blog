@@ -3,7 +3,7 @@ layout: post
 title: Эволюция интерфейса Parallels Desktop
 ---
 
-<p class="meta">24 февраля 2015 - Москва</p>
+
 
 Нашёл старые скриншоты продуктов Parallels - Workstation и Desktop и
 мне было интересно сравнить как он изменялся с течением времени.

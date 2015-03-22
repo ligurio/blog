@@ -3,7 +3,7 @@ layout: post
 title: Тестирование LXC (Linux Containers)
 ---
 
-<p class="meta">10 марта 2015 - Москва</p>
+
 
 [LXC](https://linuxcontainers.org/) - это проект по разработке технологии
 контейнерной виртуализации в ядре Linux, преследующий цель

@@ -3,7 +3,7 @@ layout: post
 title: Яндекс.Книга
 ---
 
-<p class="meta">24 октября 2014 - Москва</p>
+
 
 На днях дочитал книжку
 [Яндекс.Книга](http://www.mann-ivanov-ferber.ru/books/paperbook/yandexbook/)

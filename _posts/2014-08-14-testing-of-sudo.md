@@ -3,7 +3,7 @@ layout: post
 title: Тестирование sudo
 ---
 
-<p class="meta">14 июля 2014 - Москва</p>
+
 
 <img src="{{ site.baseurl }}/images/logo-sudo.png" alt="Sudo" style="float:left">
 

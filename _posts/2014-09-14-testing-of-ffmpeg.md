@@ -3,7 +3,7 @@ layout: post
 title: Тестирование в проекте FFmpeg
 ---
 
-<p class="meta">14 сентября 2014 - Москва</p>
+
 
 {% comment %}
 http://samples.mplayerhq.hu

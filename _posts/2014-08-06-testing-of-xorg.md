@@ -3,7 +3,7 @@ layout: post
 title: Тестирование X.Org
 ---
 
-<p class="meta">06 июля 2014 - Москва</p>
+
 
 <img src="{{ site.baseurl }}/images/logo-xorg.png" alt="Xorg" style="float:left">
 

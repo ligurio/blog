@@ -3,7 +3,7 @@ layout: post
 title: Дефекты в закрытом ПО
 ---
 
-<p class="meta">25 февраля 2015 - Москва</p>
+
 
 <img src="{{ site.baseurl }}/images/beets.png" width="600" alt="Баги, очень много багов">
 
