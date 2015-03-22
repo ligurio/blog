@@ -1,64 +1,17 @@
 <!DOCTYPE html>
 <html>
-  <head>
-      <meta charset="utf-8">
-      <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-      <title>{{ page.title }}</title>
-      <meta name="viewport" content="width=device-width">
-      <link rel="stylesheet" href="/css/syntax.css">
-      <link rel="stylesheet" href="/css/main.css">
-      <link rel="stylesheet" href="/css/responsive.css">
-      <link rel="shortcut icon" href="http://blog.bronevichok.ru/images/portrait.png">
+{% include head.html %}
+<body class="{% if site.animated %}animated fade-in-down{% endif %}">
+  <div class="site-wrap">
+    {% include header.html %}
 
-      <!-- Google Fonts -->
-      <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700' rel='stylesheet' type='text/css'>
-      <link href='http://fonts.googleapis.com/css?family=Raleway:300,400,700' rel='stylesheet' type='text/css'>
-  </head>
-  <body>
-	<div class="site">
-	  <div class="tagline">
-		<a href="/">Сергей Бронников</a>
-	  </div>
-
-      <div class="sidebar" id="sidebar">
-        <div class="header">
-		<a href="https://bronevichok.ru"><img src="http://bronevichok.ru/trash/portrait.png" width="152" /></a><br/><br/>
-        </div>
-
-<div class="footer" style="font-size:16px">
-	Senior software QA&nbspmanager <br>at <a href="http://sp.parallels.com/">Parallels Inc.</a> (Parallels Cloud Server, Parallels Containers for Windows)<br/><br/>
-	<hr style="border:none;border-top:1px solid #ccc"/><br/>
-	<a href="https://bronevichok.ru" class="footer-link">Обо мне</a><br>
-	<a href="https://twitter.com/estet" class="footer-link">Twitter @estet</a><br><br>
-	<hr style="border:none;border-top:1px solid #ccc"/><br/>
-	<a href="http://feeds.feedburner.com/bronevichok" class="footer-link">Подписаться на RSS</a> или получать <a href="http://blog.bronevichok.ru/2014/04/04/email-subscription.html" class="footer-link">по почте</a><br>
-	<a href="/archive/" class="footer-link">Все посты</a>
-</div>
-
-</div>
-
-{{ content }}
-
+    <div class="post p2 p-responsive wrap" role="main">
+      <div class="measure">
+        {{ content }}
+      </div>
     </div>
-
-<!-- Google Analytics -->
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-47888478-2', 'bronevichok.ru');
-  ga('send', 'pageview');
-
-</script>
-<!-- Google Analytics end -->
-
-<div class="colophon">
-    <p>
-      <span id="social">&copy; 2014-2015 Сергей Бронников <a href="https://twitter.com/estet">@estet</a></span>
-    </p>
   </div>
 
-  </body>
+  {% include footer.html %}
+</body>
 </html>

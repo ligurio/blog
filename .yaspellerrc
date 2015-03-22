@@ -3,7 +3,10 @@
     ".git",
     "css",
     "_drafts",
-    "images"
+    "images",
+    "_includes",
+    "_layouts",
+    "_sass"
   ],
   "lang": "ru",
   "fileExtensions": [
