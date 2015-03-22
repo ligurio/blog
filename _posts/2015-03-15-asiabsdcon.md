@@ -3,8 +3,6 @@ layout: post
 title: AsiaBSDCon 2015
 ---
 
-
-
 На этих выходных в Токио проходит [популярная конференция AsiaBSDCon](http://2015.asiabsdcon.org/timetable.html.en).
 
 Henning Brauer с докладом ["OpenBSD sucks"](http://quigon.bsws.de/papers/2015/asiabsdcon/),
