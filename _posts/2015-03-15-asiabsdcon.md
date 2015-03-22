@@ -10,7 +10,7 @@ title: AsiaBSDCon 2015
 Henning Brauer с докладом ["OpenBSD sucks"](http://quigon.bsws.de/papers/2015/asiabsdcon/),
 в котором рассказал о недостатках OpenBSD и возможных путях их решения.
 Из затронутых проблем была также и несовершенная файловая система,
-на которую я жаловался в своём посте про [недостатки OpenBSD как десктопной ОС](http://blog.bronevichok.ru/2014/11/03/openbsd-disadvantages.html).
+на которую я жаловался в своём посте про [недостатки OpenBSD как десктопной ОС]({{ site.baseurl }}/2014/11/03/openbsd-disadvantages.html).
 
 Reyk Floter [рассказал](http://www.openbsd.org/papers/httpd-slides-asiabsdcon2015.pdf)
 об эволюции http серверов в базовой поставке OpenBSD и зачем был написан новый httpd с нуля.

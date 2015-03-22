@@ -5,7 +5,7 @@ title: Тестирование Wine
 
 <p class="meta">23 сентября 2014 - Москва</p>
 
-<img src="http://blog.bronevichok.ru/images/logo-winehq.png" alt="Wine" style="float:left">
+<img src="{{ site.baseurl }}/images/logo-winehq.png" alt="Wine" style="float:left">
 
 [Wine](https://www.winehq.org/about/) — это свободное программное обеспечение,
 позволяющее пользователям UNIX-подобных систем архитектуры x86 исполнять

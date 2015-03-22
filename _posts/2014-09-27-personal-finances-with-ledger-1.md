@@ -13,7 +13,7 @@ title: Финансовый учёт с ledger
 [cbb](http://gna.org/projects/cbb/), ledger) мне по тем или иным причинами ни одно не понравилось.
 Кроме последнего - ledger.
 
-<img src="http://blog.bronevichok.ru/images/russian_ruble.png" alt="ledger" style="float:left">
+<img src="{{ site.baseurl }}/images/russian_ruble.png" alt="ledger" style="float:left">
 {% comment %}
 http://assets.knowledge.allianz.com/img/behavioral_finance_money_mistakes_rtr22oov_ah_55316.jpg
 {% endcomment %}

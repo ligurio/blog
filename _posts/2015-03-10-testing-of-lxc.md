@@ -22,7 +22,7 @@ LXC ещё готова к полноценному использованию, 
 Стефан Грабе (Stéphane Graber), разработчик проекта LXC, рассказал как устроены
 разработка и тестирование в проекте LXC.
 
-<img src="http://blog.bronevichok.ru/images/logo-lxc.png" height="130" alt="LXC logo" style="float:left; margin-right: 40px;">
+<img src="{{ site.baseurl }}/images/logo-lxc.png" height="130" alt="LXC logo" style="float:left; margin-right: 40px;">
 
 **Please introduce yourself.**
 

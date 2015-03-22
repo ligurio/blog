@@ -5,7 +5,7 @@ title: Тестирование Python
 
 <p class="meta">1 сентября 2014 - Москва</p>
 
-<img src="http://blog.bronevichok.ru/images/logo-python.png" alt="Python" style="float:left">
+<img src="{{ site.baseurl }}/images/logo-python.png" alt="Python" style="float:left">
 
 [Python](https://www.python.org/) - высокоуровневый язык программирования
 общего назначения, ориентированный на повышение производительности разработчика и читаемости кода.

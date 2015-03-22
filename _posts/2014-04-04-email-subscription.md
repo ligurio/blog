@@ -6,7 +6,7 @@ title: Новые статьи по почте
 <p class="meta">4 апреля 2014 - Москва</p>
 
 Продолжаю обживать блог.
-Как [вы помните](http://blog.bronevichok.ru/2014/03/22/Opensearch.html),
+Как [вы помните]({{ site.baseurl }}/2014/03/22/Opensearch.html),
 на блог можно подписаться по [RSS](http://feeds.feedburner.com/bronevichok).
 Если вы не пользуетесь RSS, то это не проблема. Теперь можно получать новые статьи на почту.
 

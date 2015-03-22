@@ -8,7 +8,7 @@ title: Тестирование продуктов Mozilla
 Один из разработчиков продуктов Mozilla Foundation ответил на вопросы о тестировании
 этих продуктов.
 
-<img src="http://blog.bronevichok.ru/images/logo-mozilla.png" height="130" alt="Mozilla Firefox logo" style="float:left; margin-right: 40px;">
+<img src="{{ site.baseurl }}/images/logo-mozilla.png" height="130" alt="Mozilla Firefox logo" style="float:left; margin-right: 40px;">
 
 **Please introduce yourself.**
 

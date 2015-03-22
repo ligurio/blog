@@ -42,7 +42,7 @@ digraph G {
 
 можно получить такой граф:
 
-<img src="http://blog.bronevichok.ru/images/lifeline-torvalds.png" alt="Семья Торвальдс">
+<img src="{{ site.baseurl }}/images/lifeline-torvalds.png" alt="Семья Торвальдс">
 
 Несмотря на понятный формат файла, поддерживать его для большого количества человек
 затруднительно и нужно было придумать способ автоматической

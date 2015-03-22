@@ -8,9 +8,9 @@ title: Открытые дефекты в закрытом ПО (Community bug r
 В предыдущих своих постах я рассказал о существующих базах данных о дефектах
 в закрытом ПО:
 
-- [Дефекты в закрытом ПО](http://blog.bronevichok.ru/2015/02/25/bugs-in-closed-software.html)
-- [Примеры открытых баз данных дефектов в закрытом ПО](http://blog.bronevichok.ru/2015/03/12/bugs-in-closed-software-1.html)
-- [Открытые базы данных дефектов в закрытом ПО](http://blog.bronevichok.ru/2015/03/13/bugs-in-closed-software-2.html)
+- [Дефекты в закрытом ПО]({{ site.baseurl }}/2015/02/25/bugs-in-closed-software.html)
+- [Примеры открытых баз данных дефектов в закрытом ПО]({{ site.baseurl }}/2015/03/12/bugs-in-closed-software-1.html)
+- [Открытые базы данных дефектов в закрытом ПО]({{ site.baseurl }}/2015/03/13/bugs-in-closed-software-2.html)
 
 но существующие проекты покрывают не все проблемы в закрытом ПО,
 поэтому я сделал ещё один - [Community bugs reports](http://bugs.bronevichok.ru/wiki?name=FAQ),
@@ -26,6 +26,6 @@ title: Открытые дефекты в закрытом ПО (Community bug r
 перед покупкой этого ПО вы сможете для себя оценить критичность неисправленных проблем в это ПО
 - возможность <s>без регистрации без смс</s> _простым способом_ донести фидбек до производителя ПО и собрать его в одном месте
 
-<img src="http://blog.bronevichok.ru/images/screenshot-bugs.png" alt="Community bug reports">
+<img src="{{ site.baseurl }}/images/screenshot-bugs.png" alt="Community bug reports">
 
 Fin

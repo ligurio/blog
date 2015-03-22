@@ -48,7 +48,7 @@ we’ve used 572 unique test titles and made 2959 runs during 2.5 month,
 what equals ~ 294 computer/days. Whereas one of our latest updates was
 covered by 260 unique test titles and 4800 runs.
 
-<img src="http://blog.bronevichok.ru/images/pcs-testing-1.png">
+<img src="{{ site.baseurl }}/images/pcs-testing-1.png">
 
 Nevertheless, the situation was different in the past. No later than several years ago we
 didn’t have so many auto tests and didn’t possess so much hardware to
@@ -61,7 +61,7 @@ we’ve come the testing system we use now.
 
 ## General schema of auto testing system
 
-<img src="http://blog.bronevichok.ru/images/pcs-testing-2.png">
+<img src="{{ site.baseurl }}/images/pcs-testing-2.png">
 
 The core of auto testing system is pretty simple, containing several services:
 
@@ -116,7 +116,7 @@ of test titles, test plan, to be run. Each test plan consists of test titles,
 shortly defining test configuration that is needed (prerequisites for HW
 nodes to run the test, test parameters, etc., …).
 
-<img src="http://blog.bronevichok.ru/images/pcs-testing-3.png" width="800">
+<img src="{{ site.baseurl }}/images/pcs-testing-3.png" width="800">
 
 Each test title has its own corresponding test job that contains information about needed
 testing environment and additional test options, such as amount of
@@ -130,12 +130,12 @@ nodes are found, robot uses deployment system to initiate installation
 activities on HW node: OS deployment, product installation and upon
 successful completion, test title run.
 
-<img src="http://blog.bronevichok.ru/images/pcs-testing-4.png">
+<img src="{{ site.baseurl }}/images/pcs-testing-4.png">
 
 While test is run on a HW node, it is marked as busy with corresponding
 activity on deployment system portal and is not used by other tests.
 
-<img src="http://blog.bronevichok.ru/images/pcs-testing-5.png">
+<img src="{{ site.baseurl }}/images/pcs-testing-5.png">
 
 The screenshot above illustrates that some test run on five HW nodes,
 used _pclin-c19_ node a client (was start from the client, not from nodes themselves).
@@ -156,7 +156,7 @@ title means?). Each bug contains assigned HW nodes, the ones involved in
 the failed test (the following screenshot shows _mccp46_, _ts49_ and
 _svvpamd_).
 
-<img src="http://blog.bronevichok.ru/images/pcs-testing-6.png" width="800">
+<img src="{{ site.baseurl }}/images/pcs-testing-6.png" width="800">
 
 These nodes have QA investigation activity on deployment
 system and are eliminated from other tests until they are released
@@ -168,7 +168,7 @@ bug is trivial and nodes are not needed, they are released either from
 Jira assigned nodes field or by finishing the activity on deployment
 system.
 
-<img src="http://blog.bronevichok.ru/images/pcs-testing-7.png" width="800">
+<img src="{{ site.baseurl }}/images/pcs-testing-7.png" width="800">
 
 We also use the graph below to see the dynamics of testing in
 time and know what our servers are busy with.
@@ -179,13 +179,13 @@ contains an obligatory comment, referring Jira issue reference.
 After the product build event, build version field is updated in field "Fixed in build"
 for issues mentioned as closed for corresponding change log.
 
-<img src="http://blog.bronevichok.ru/images/pcs-testing-8.png" width="800">
+<img src="{{ site.baseurl }}/images/pcs-testing-8.png" width="800">
 
 Robot considers this information and reruns tests only for those builds
 that have a fix. If rerun succeeds, robot marks Jira bug as validated
 on new builds number and provides a link new results.
 
-<img src="http://blog.bronevichok.ru/images/pcs-testing-9.png" width="800">
+<img src="{{ site.baseurl }}/images/pcs-testing-9.png" width="800">
 
 But automation is not the answer to all our needs.
 Unfortunately or gladly, ☺ we are still unable to make the process of

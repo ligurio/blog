@@ -5,7 +5,7 @@ title: Дефекты в закрытом ПО
 
 <p class="meta">25 февраля 2015 - Москва</p>
 
-<img src="http://blog.bronevichok.ru/images/beets.png" width="600" alt="Баги, очень много багов">
+<img src="{{ site.baseurl }}/images/beets.png" width="600" alt="Баги, очень много багов">
 
 Все мы используем программы и время от времени обнаруживаем в них ошибки.
 Обнаружив проблему пользователь может вести себя по разному и на мой взгляд
@@ -22,7 +22,7 @@ title: Дефекты в закрытом ПО
 никто кроме производителя не может и он остаётся наедине со своими страданиями.
 
 Вот к примеру проблемы, которые я недавно репортил:
-[проблемы](http://blog.bronevichok.ru/2015/02/06/bookmate-bugs.html) в приложении Bookmate,
+[проблемы]({{ site.baseurl }}/2015/02/06/bookmate-bugs.html) в приложении Bookmate,
 баги в ПО от Microsoft [1](https://social.technet.microsoft.com/Forums/windowsserver/en-US/8882442e-4d16-437f-9930-8aa0ac25ad73/typo-in-error-message-from-microsoft-remote-desktop-for-mac?forum=winRDc#8882442e-4d16-437f-9930-8aa0ac25ad73), [2](https://social.technet.microsoft.com/Forums/windowsserver/en-US/55e7f73b-d7e6-4c79-985c-21aaf70b304a/remote-desktop-for- mac-decryption-using-standard-rdp-security-mechanisms-failed-code-4498?forum=winRDc#8f1e9870-7f33-4c66-8358-7c5bf0fa3023) (кстати сообщить о проблеме в MS это то ещё приключение) и несколько других.
 Все проблемы производители считают несущественными и обновлений с их исправлениями не выпускали.
 

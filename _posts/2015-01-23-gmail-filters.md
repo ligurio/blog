@@ -13,7 +13,7 @@ title: Фильтры для почты в GMail
 
 Такие правила можно настраивать вручную с помощью Gmail UI:
 
-<img src="http://blog.bronevichok.ru/images/gmail-filters.png" alt="Фильтры GMail">
+<img src="{{ site.baseurl }}/images/gmail-filters.png" alt="Фильтры GMail">
 
 Но кроме ручного создания правил есть ещё один способ -
 GMail позволяет импортировать готовый XML файл с вашими правилами

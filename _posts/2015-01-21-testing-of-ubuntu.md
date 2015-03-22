@@ -5,7 +5,7 @@ title: Тестирование Ubuntu
 
 <p class="meta">21 января 2015 - Москва</p>
 
-<img src="http://blog.bronevichok.ru/images/logo-ubuntu.png" height="210" alt="Ubuntu" style="float:left">
+<img src="{{ site.baseurl }}/images/logo-ubuntu.png" height="210" alt="Ubuntu" style="float:left">
 
 В этом году исполняется 10 лет такому Linux дистрибутиву как Ubuntu.
 Я задал несколько вопросов человеку, который непосредственно отвечает за качество этой ОС -
@@ -105,7 +105,7 @@ We also use apport and whoopsie which allow us to collect meaningful data
 on crashes and other errors in the released versions of Ubuntu in a seamless
 and automated fashion. Check out [errors.ubuntu.com](http://errors.ubuntu.com/).
 
-<img src="http://blog.bronevichok.ru/images/Ubuntu-Error-reports.png" width="65%" alt="Ubuntu" style="float:left">
+<img src="{{ site.baseurl }}/images/Ubuntu-Error-reports.png" width="65%" alt="Ubuntu" style="float:left">
 
 Finally, we use what is called the "CI train", which is intended to provide
 continuous integration and handle our release process.
@@ -161,7 +161,7 @@ is the code driving this.
 
 [Launchpad](http://launchpad.net).
 
-<img src="http://blog.bronevichok.ru/images/Ubuntu-Launchpad.png" width="100%" alt="Ubuntu">
+<img src="{{ site.baseurl }}/images/Ubuntu-Launchpad.png" width="100%" alt="Ubuntu">
 
 **Do you have triage process?**
 
@@ -215,7 +215,7 @@ The release criteria is more or less QA signoff combined with satisfactory
 manual testing and automated test results. You can see the results
 in realtime for each build on the [CI dashboard](http://ci.ubuntu.com/).
 
-<img src="http://blog.bronevichok.ru/images/Ubuntu-Dashboard.png" width="100%" alt="Ubuntu">
+<img src="{{ site.baseurl }}/images/Ubuntu-Dashboard.png" width="100%" alt="Ubuntu">
 <br>
 
 **What was the most interesting bug in your practice? :)**

@@ -5,7 +5,7 @@ title: Тестирование ClamAV
 
 <p class="meta">21 августа 2014 - Москва</p>
 
-<img src="http://blog.bronevichok.ru/images/logo-clamav.jpg" alt="ClamAV" style="float:left">
+<img src="{{ site.baseurl }}/images/logo-clamav.jpg" alt="ClamAV" style="float:left">
 
 [ClamAV](http://www.clamav.net/lang/en/about/) -
 это антивирусный инструмент для UNIX с открытым исходным кодом (GPL).

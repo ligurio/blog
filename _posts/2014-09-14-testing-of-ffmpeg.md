@@ -12,7 +12,7 @@ https://github.com/vivienschilis/ffmpeg/blob/master/doc/fate.txt
 http://cybersip.googlecode.com/git/ffmpeg/doc/fate.html
 {% endcomment %}
 
-<img src="http://blog.bronevichok.ru/images/logo-ffmpeg.png" alt="FFmpeg" style="float:left">
+<img src="{{ site.baseurl }}/images/logo-ffmpeg.png" alt="FFmpeg" style="float:left">
 
 [FFmpeg](https://www.ffmpeg.org) - набор свободных библиотек
 с открытым исходным кодом, которые позволяют записывать,

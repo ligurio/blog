@@ -5,7 +5,7 @@ title: Тестирование sudo
 
 <p class="meta">14 июля 2014 - Москва</p>
 
-<img src="http://blog.bronevichok.ru/images/logo-sudo.png" alt="Sudo" style="float:left">
+<img src="{{ site.baseurl }}/images/logo-sudo.png" alt="Sudo" style="float:left">
 
 На этот раз я проинтервьюировал создателя и единственного разработчика программы *[sudo](http://www.sudo.ws/)* - Todd C. Miller.
 Если вы хотя бы раз сталкивались с Mac OS, Linux или BSD, то знаете, что
@@ -13,8 +13,8 @@ title: Тестирование sudo
 программ.
 
 *Это уже третье по счёту интервью с разработчиками открытых проектов о тестировании.
-Первый был [про OpenSMTPD](http://blog.bronevichok.ru/2014/07/29/testing-of-opensmtpd.html),
-второй - [про X.Org](http://blog.bronevichok.ru/2014/08/06/testing-of-xorg.html).
+Первый был [про OpenSMTPD]({{ site.baseurl }}/2014/07/29/testing-of-opensmtpd.html),
+второй - [про X.Org]({{ site.baseurl }}/2014/08/06/testing-of-xorg.html).
 Как вам такой формат? Дайте знать, если будут замечания или предложения по улучшению.*
 
 ** How many developers involved in the development? **

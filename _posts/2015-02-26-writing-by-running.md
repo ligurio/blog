@@ -10,7 +10,7 @@ title: Новое развлечение
 
 Как например на этом треке:
 
-<img src="http://blog.bronevichok.ru/images/running-track.png" alt="Трек">
+<img src="{{ site.baseurl }}/images/running-track.png" alt="Трек">
 
 Иногда буквы получаются как у ребёнка, который только учится писать,
 но в целом получается разборчиво.
