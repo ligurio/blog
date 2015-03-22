@@ -52,7 +52,7 @@ Do you really don't have any tests? What tools, tests and testing frameworks
 do you use? **
 
 You can find "regress" subdirectories throughout the sudo source
-tree.  These contain various tests--some which test specific functions
+tree.  These contain various tests -- some which test specific functions
 and other that test specific functionality.  The latter are typically
 for testing parsing of sudoers files.  Currently, everything is
 home-grown, with the sudoers file tests utilizing either the visudo

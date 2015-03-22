@@ -49,12 +49,16 @@ Totals in [src/regress](http://cvsweb.openbsd.org/cgi-bin/cvsweb/src/regress/):
 	lines deleted		4697
 <br>
 
-<!-- statistics was derived from cvs log -d"2014-01-01<2015-01-01"-->
+{% comment %}
+statistics was derived from cvs log -d"2014-01-01<2015-01-01"
+{% endcomment %}
 
 P.S. I like to calculate FIXME words in the code.
 The statistics for OpenBSD src tree is following:
 Total FIXMEs - 4191, where 3969 FIXMEs belongs to GNU software (gcc, gdb, cvs, binutils, perl, texinfo, mkhybrid).
 
-<!-- find . -name "*.c" -print0 | xargs -0 egrep -i FIXME -->
+{% comment %}
+find . -name "*.c" -print0 | xargs -0 egrep -i FIXME
+{% endcomment %}
 
 Fin

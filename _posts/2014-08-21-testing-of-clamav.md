@@ -37,11 +37,11 @@ regression testing (>315 M test samples), testing by the QA, beta testing, relea
 
 See above, plus performance testing using code instrumentation and external tools (top, gprof, etc.)
 
-<!--
+{% comment %}
 ** Do you use regular testing or it is time from time testing? **
 
 Not sure what is meant by regular testing vs. time from time testing.
--->
+{% endcomment %}
 
 ** What tools, tests and testing frameworks
 do you use? Do you use Continuous Integration in development? **

@@ -51,7 +51,7 @@ of tests that are running on every commit/change:
 
 The most important ones are mochitest, reftest, and talos.
 
-<!--
+{% comment %}
 **Mozilla projects has many self-made infrastructure tools:
 [MozTrap](https://github.com/mozilla/moztrap/), [Perf-O-Matic](http://graphs.mozilla.org/graph.html),
 [MozPool](https://github.com/mozilla/mozpool), [Crash Stats](https://crash-stats.mozilla.com),
@@ -63,7 +63,7 @@ I could add over and above what's on their project pages, etc.
 Could you try googling for more information and let me know if
 you have specific questions? You could also try emailing the authors
 directly if you have specific questions.
--->
+{% endcomment %}
 
 **I heared you use instances in AWS for development and testing. Could
 you tell more?**
@@ -91,7 +91,7 @@ I think so, but I am not sure of the details.
 
 We run tests on every commit. See [treeherder.mozilla.org](http://treeherder.mozilla.org).
 
-<!--
+{% comment %}
 **What tool do you use for tracking open bugs? Who is responsible in
 tracking of open bugs?**
 
@@ -105,7 +105,7 @@ Yes, details depend on specific project.
 Do you have a "Bug bounty" program?**
 
 Yes, don't know many details. Google can tell you more.
--->
+{% endcomment %}
 
 **What is the process for releasing update with security fix?**
 
@@ -118,14 +118,14 @@ Please tell about  involving volunteers in testing of Mozilla projects.**
 I can only speak for my team, but you can find some info
 [here](https://wiki.mozilla.org/Auto-tools#Want_to_Help.3F).
 
-<!--
+{% comment %}
 **Do you use negative testing techniques (like fuzz testing, fault injection etc)?
 Do you use static code analysis tools or services like Coverity? Or
 maybe another techniques directed to improving quality of code?**
 
 I believe the answer to all of these is "yes" but I don't know the details.
 Google may be able to tell you more.
--->
+{% endcomment %}
 
 **Who is responsible for releasing of new version?
 What are the release criterias?**
@@ -142,8 +142,6 @@ app we used to communicate which was trying to ping some unreachable server.
 When they weren't able to, they would assume that they had lost
 network connectivity and rebooted themselves. This was pretty deeply
 buried and not very well understood, took a while to go figure it out.
-
-<!-- Will -->
 
 # Дополнительные ссылки:<br><br>
 

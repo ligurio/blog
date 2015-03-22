@@ -77,8 +77,10 @@ title: Недостатки OpenBSD как десктопной ОС
 почтой. Я почту читаю в mutt.
 * Портирование редактора для epub - [Sigil](http://code.google.com/p/sigil/)
 * Портирование простого редактора [Gnome Paint](https://code.google.com/p/gnome-paint/)
-<!-- * мне не нравится недружелюбность разработчиков к конечным пользователям -->
-<!-- * warn when battery is over [shutdownd](https://github.com/jcs/shutdownd) -->
+{% comment %}
+* мне не нравится недружелюбность разработчиков к конечным пользователям
+* warn when battery is over [shutdownd](https://github.com/jcs/shutdownd)
+{% endcomment %}
 
 P.S. Заметка приурочена к [новому релизу OpenBSD 5.6](http://www.openbsd.org/56.html).
 

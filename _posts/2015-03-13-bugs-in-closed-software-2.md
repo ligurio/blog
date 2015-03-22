@@ -48,12 +48,12 @@ Tim Burks, ментейнер проекта немного рассказал �
 > > больше ничего не предпринимается для раскрутки проекта. В проекте отсутствует модерация,
 > > но иногда люди указывает мне на проблемы и я разбираюсь с ними или связываюсь с автором.
 
-<!--
+{% comment %}
 People usually find out about OpenRadar on Twitter - that's generally
 all that we do to promote it. There's no moderation other than
 occasionally someone points out a problem post to me and I take it
 down or contact the poster.
--->
+{% endcomment %}
 
 > Какая статистика посещений OpenRadar и есть ли информация о посещениях
 > OpenRadar с внутренних адресов компании Apple?
@@ -63,12 +63,12 @@ down or contact the poster.
 > > знают об OpenRadar, но я думаю, что они в основном используют официальный багтрекер, как
 > > официальный источник о проблемах.
 
-<!--
+{% comment %}
 I don't watch traffic closely but App Engine reports a few hundred
 hits a day on the main page. I know many people in Apple who are aware
 of Open Radar, but I think they use the official Radar as their
 official source of problem reports.
--->
+{% endcomment %}
 
 Планировалось сделать приложение, которое будет заводить дефекты в обоих багтрекерах,
 но воз и ныне там:
@@ -77,7 +77,9 @@ official source of problem reports.
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Но зато есть приложение под Mac OS - [QuickRadar](https://github.com/amyworrall/QuickRadar).
-<!-- <https://github.com/rentzsch/OpenRadarApp -->
+{% comment %}
+<https://github.com/rentzsch/OpenRadarApp
+{% endcomment %}
 
 Немного статистики и технических деталей:
 По состоянию на 2009-й год было добавлено 862 дефектов 244 пользователями.
@@ -87,7 +89,9 @@ official source of problem reports.
 трансляцию всех новых дефектов в Twitter, но оба твиттера давно не обновлялись:
 ни [@openradarstream](https://twitter.com/openradarstream), ни [@openradar](https://twitter.com/openradar).
 
-<!-- старый вариант багтрекера http://open-radar.lighthouseapp.com/ -->
+{% comment %}
+старый вариант багтрекера http://open-radar.lighthouseapp.com/
+{% endcomment %}
 
 ## Google bugs
 
@@ -104,7 +108,7 @@ official source of problem reports.
 P.S. Для меня удивительно, что оба проекта используют закрытые платформы других компаний -
 Google Code и Google Apps. Я бы для таких проектов выбирал что-то более независимое :)
 
-<!--
+{% comment %}
 ## Панбагон
 
 - <http://habrahabr.ru/post/63430/>
@@ -125,4 +129,4 @@ Google Code и Google Apps. Я бы для таких проектов выби�
 ## Геоинформационный портал «Наш город»
 
 Портал Наш город создан для <http://gorod.mos.ru/?show=problem>
--->
+{% endcomment %}

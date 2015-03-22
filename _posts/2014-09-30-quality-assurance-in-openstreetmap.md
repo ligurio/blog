@@ -5,7 +5,6 @@ title: Обеспечение качества данных в проекте Op
 
 <p class="meta">30 сентября 2014 - Москва</p>
 
-<!--<img src="http://blog.bronevichok.ru/images/logo-openstreetmap.png" alt="OpenStreetMap" style="float:left">-->
 <img src="{{ site.url }}/images/logo-openstreetmap.png" alt="OpenStreetMap" style="float:left">
 
 [OpenStreetMap](https://www.openstreetmap.org) - это проект по созданию
@@ -153,7 +152,9 @@ title: Обеспечение качества данных в проекте Op
 - [Quality Assurance Tools script](http://wiki.openstreetmap.org/wiki/Quality_Assurance_Tools_script)
 - [OSM Wiki: Quality assurance](http://wiki.openstreetmap.org/wiki/Quality_assurance)
 - [Инструменты контроля качества](http://osm.amdmi3.ru)
-<!-- - Проект [OpenStreetBugs](http://wiki.openstreetmap.org/wiki/OpenStreetBugs) -->
+{% comment %}
+- Проект [OpenStreetBugs](http://wiki.openstreetmap.org/wiki/OpenStreetBugs)
+{% endcomment %}
 - [Notes](http://wiki.openstreetmap.org/wiki/Notes) - инструмент для сообщения о неточностях на карте
 
 Fin

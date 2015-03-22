@@ -5,12 +5,12 @@ title: Тестирование в проекте FFmpeg
 
 <p class="meta">14 сентября 2014 - Москва</p>
 
-<!--
+{% comment %}
 http://samples.mplayerhq.hu
 FATE http://www.opennet.ru/opennews/art.shtml?num=38832
 https://github.com/vivienschilis/ffmpeg/blob/master/doc/fate.txt
 http://cybersip.googlecode.com/git/ffmpeg/doc/fate.html
--->
+{% endcomment %}
 
 <img src="http://blog.bronevichok.ru/images/logo-ffmpeg.png" alt="FFmpeg" style="float:left">
 

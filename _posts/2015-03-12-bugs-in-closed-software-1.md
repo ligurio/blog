@@ -31,7 +31,7 @@ title: Примеры открытых баз данных дефектов в �
 выявлено [145 проблем](https://code.google.com/p/google-security-research/issues/list?can=1&q=&colspec=ID+Type+Status+Priority+Milestone+Owner+Summary&cells=tiles) из которых только две проблемы
 на данный момент не исправлены.
 
-<!--
+{% comment %}
 Каждый проект выявляет проблемы в безопасности ПО, которые могут повлечь
 потери для компаний, использующих такое ПО. Обычно разглашение используется в
 целях оказания давления на производителей ПО.
@@ -40,4 +40,4 @@ title: Примеры открытых баз данных дефектов в �
 - [Schneier: Full Disclosure of Security Vulnerabilities a 'Damned Good Idea'](https://www.schneier.com/essays/archives/2007/01/schneier_full_disclo.html)
 - [Coordinated Vulnerability Disclosure](https://technet.microsoft.com/en-us/security/dn467923.aspx)
 - [A Call for Better Coordinated Vulnerability Disclosure](http://blogs.technet.com/b/msrc/archive/2015/01/11/a-call-for-better-coordinated-vulnerability-disclosure.aspx)
--->
+{% endcomment %}

@@ -78,9 +78,9 @@ I don't have the number handy for a recent coverage run
 
 [coverage.py](https://pypi.python.org/pypi/coverage)
 
-<!--
+{% comment %}
 ** How looks development and testing of new feature? **
--->
+{% endcomment %}
 
 ** Do you involve volunteers to testing? I mean things like 'crowd sourcing'.
 (For example Perl community uses volunteers resources to test CPAN modules.
@@ -108,10 +108,10 @@ They did a press release about our very low defect rate:
 
 (Interviewer's note: see also [Coverity Scan report](http://wpcme.coverity.com/wp-content/uploads/2013-Coverity-Scan-Spotlight-Python.pdf) (PDF))
 
-<!--
+{% comment %}
 ** Do you use static or dynamic code analysis tools or services like Coverity?
 Or maybe another techniques directed to improving quality of code? **
--->
+{% endcomment %}
 
 ** Who is responsible for releasing of new version? What are the release criterias? **
 
@@ -119,8 +119,8 @@ We have a release manager. Release criteria is technically
 no release blockers, but otherwise it is up to the RM to make that call.
 There is always a PEP written to outline what the targeted release dates are.
 
-<!--
+{% comment %}
 ** What was the most interesting bug in your practice? :) **
--->
+{% endcomment %}
 
 ** Thanks for your answers. **

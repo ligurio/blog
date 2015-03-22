@@ -14,7 +14,9 @@ title: Что пишут в разделе BUGS в документации
 Но разработчики её используют по-разному. Одни используют по назначению
 и пишут ограничения, иногда с воркэраундами, как например здесь:
 
-<!-- LIMITATIONS -->
+{% comment %}
+LIMITATIONS
+{% endcomment %}
 
 [calendar.1](http://www.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man1/calendar.1?query=calendar)
 
@@ -75,7 +77,7 @@ title: Что пишут в разделе BUGS в документации
 > The list of built-in mappings doesn't follow any logic.
 > It grew as people submitted what they needed.
 
-<!--
+{% comment %}
 [dhcpd.8](http://www.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man8/dhcpd.8?query=dhcpd)
 
 > We realize that it would be nice if one could send
@@ -181,9 +183,11 @@ title: Что пишут в разделе BUGS в документации
 
 > To maintain backward compatibility, the relationships
 > between the many options are quite complex.
--->
+{% endcomment %}
 
-<!-- VENDOR's BULLSHIT -->
+{% comment %}
+VENDOR's BULLSHIT
+{% endcomment %}
 
 ...упоминание нерадивых вендоров и паршивых стандартов:
 
@@ -203,7 +207,9 @@ title: Что пишут в разделе BUGS в документации
 > host operating systems. Please consider that the security of
 > the OpenBSD guest can be circumvented by attacking the host environment.
 
-<!-- DOCUMENTATION -->
+{% comment %}
+DOCUMENTATION
+{% endcomment %}
 
 ...недостатков самой документации:
 
@@ -235,7 +241,9 @@ title: Что пишут в разделе BUGS в документации
 
 > This manual page is incomplete.
 
-<!-- BUGS -->
+{% comment %}
+BUGS
+{% endcomment %}
 
 Кто-то признает в своём коде наличие багов:
 
@@ -288,7 +296,9 @@ title: Что пишут в разделе BUGS в документации
 
 > This section intentionally left blank.
 
-<!-- UNIQUE -->
+{% comment %}
+UNIQUE
+{% endcomment %}
 
 Только один раз я видел, чтобы в документации отсутствие теста
 считалось недостатком, это было в [urandom(4)](http://www.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man4/urandom.4?query=urandom):
@@ -307,7 +317,9 @@ title: Что пишут в разделе BUGS в документации
 > Perl actually stands for Pathologically Eclectic
 > Rubbish Lister, but don't tell anyone I said that.
 
-<!-- PLANS TO FUTURE -->
+{% comment %}
+PLANS TO FUTURE
+{% endcomment %}
 
 Иногда секция BUGS описывает планы на будущее и текущий статус.
 И тогда некоторые утилиты только подтверждают пословицу "Нет ничего более постоянного, чем временное":
@@ -337,7 +349,7 @@ fsck_msdos.8 ([OpenBSD](http://www.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/m
 
 <br><br>
 
-<!--
+{% comment %}
 [mailwrapper(8)](http://www.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man8/mailwrapper.8?query=mailwrapper)
 
 > The entire reason this program exists is a crock.
@@ -362,4 +374,4 @@ fsck_msdos.8 ([OpenBSD](http://www.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/m
 > As BSD is not licensed to distribute SCCS.
 > This is a rewrite of the what command which is part of SCCS;
 > it may not behave in exactly the same manner as that command does.
--->
+{% endcomment %}

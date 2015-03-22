@@ -15,9 +15,9 @@ title: Проблемы с приложением Bookmate
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 По мере использования Bookmate я стал натыкаться на разные баги в приложении
-и попробовал их решить через тех. поддержку Bookmate.
-<!--и так как тех. поддержка Bookmate не помогла мне с решением этих проблем,
-то я опишу их здесь, чтобы остальные пользователи их сервиса были в курсе этих проблем.-->
+и попробовал их решить через тех. поддержку Bookmate,
+но так как тех. поддержка Bookmate не помогла мне с решением этих проблем,
+то я опишу их здесь, чтобы остальные пользователи их сервиса были в курсе этих проблем.
 
 <blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/BookmateSupport">@BookmateSupport</a> отправил письмо с темой &quot;проблемы в работе приложения Bookmate под Android&quot; на support<a href="https://twitter.com/Bookmate">@bookmate</a>.com</p>&mdash; Sergey Bronnikov (@estet) <a href="https://twitter.com/estet/status/521606945833517056">October 13, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
