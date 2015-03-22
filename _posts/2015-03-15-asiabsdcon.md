@@ -3,9 +3,6 @@ layout: post
 title: AsiaBSDCon 2015
 ---
 
-{{ page.title }}
-================
-
 <p class="meta">15 марта 2015 - Москва</p>
 
 На этих выходных в Токио проходит [популярная конференция AsiaBSDCon](http://2015.asiabsdcon.org/timetable.html.en).

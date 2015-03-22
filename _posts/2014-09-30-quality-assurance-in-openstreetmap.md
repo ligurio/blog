@@ -3,9 +3,6 @@ layout: post
 title: Обеспечение качества данных в проекте OpenStreetMap
 ---
 
-{{ page.title }}
-================
-
 <p class="meta">30 сентября 2014 - Москва</p>
 
 <!--<img src="http://blog.bronevichok.ru/images/logo-openstreetmap.png" alt="OpenStreetMap" style="float:left">-->

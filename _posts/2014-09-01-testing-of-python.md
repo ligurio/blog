@@ -3,9 +3,6 @@ layout: post
 title: Тестирование Python
 ---
 
-{{ page.title }}
-================
-
 <p class="meta">1 сентября 2014 - Москва</p>
 
 <img src="http://blog.bronevichok.ru/images/logo-python.png" alt="Python" style="float:left">

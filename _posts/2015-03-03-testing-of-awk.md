@@ -3,9 +3,6 @@ layout: post
 title: Тестирование утилиты awk
 ---
 
-{{ page.title }}
-================
-
 <p class="meta">4 марта 2015 - Москва</p>
 
 Организация [Usenix](https://www.usenix.org/) издаёт журнал ;login:

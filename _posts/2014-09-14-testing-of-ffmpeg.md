@@ -3,9 +3,6 @@ layout: post
 title: Тестирование в проекте FFmpeg
 ---
 
-{{ page.title }}
-================
-
 <p class="meta">14 сентября 2014 - Москва</p>
 
 <!--

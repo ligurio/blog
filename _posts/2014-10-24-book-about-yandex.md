@@ -3,9 +3,6 @@ layout: post
 title: Яндекс.Книга
 ---
 
-{{ page.title }}
-================
-
 <p class="meta">24 октября 2014 - Москва</p>
 
 <!-- <img src="http://blog.bronevichok.ru/images/logo-yandex.png" alt="Яндекс" style="float:left"> -->

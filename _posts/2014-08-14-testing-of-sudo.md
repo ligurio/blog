@@ -3,9 +3,6 @@ layout: post
 title: Тестирование sudo
 ---
 
-{{ page.title }}
-================
-
 <p class="meta">14 июля 2014 - Москва</p>
 
 <img src="http://blog.bronevichok.ru/images/logo-sudo.png" alt="Sudo" style="float:left">

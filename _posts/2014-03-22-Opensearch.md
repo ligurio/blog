@@ -3,9 +3,6 @@ layout: post
 title: Добавление поиска по блогу
 ---
 
-{{ page.title }}
-================
-
 <p class="meta">22 марта 2014 - Москва</p>
 
 Для удобства поиска по блогу добавил [OpenSearch](http://ru.wikipedia.org/wiki/OpenSearch),

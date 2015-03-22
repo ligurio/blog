@@ -3,9 +3,6 @@ layout: post
 title: Дефекты в закрытом ПО
 ---
 
-{{ page.title }}
-================
-
 <p class="meta">25 февраля 2015 - Москва</p>
 
 <img src="http://blog.bronevichok.ru/images/beets.png" width="600" alt="Баги, очень много багов">

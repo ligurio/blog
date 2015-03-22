@@ -3,9 +3,6 @@ layout: post
 title: Тестирование Wine
 ---
 
-{{ page.title }}
-================
-
 <p class="meta">23 сентября 2014 - Москва</p>
 
 <img src="http://blog.bronevichok.ru/images/logo-winehq.png" alt="Wine" style="float:left">

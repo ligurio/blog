@@ -3,9 +3,6 @@ layout: post
 title: Тестирование X.Org
 ---
 
-{{ page.title }}
-================
-
 <p class="meta">06 июля 2014 - Москва</p>
 
 <img src="http://blog.bronevichok.ru/images/logo-xorg.png" alt="Xorg" style="float:left">

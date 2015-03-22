@@ -3,9 +3,6 @@ layout: post
 title: Обеспечение качества в проекте OpenBSD
 ---
 
-{{ page.title }}
-================
-
 <p class="meta">23 мая 2014 - Москва</p>
 
 Так как я давно слежу за проектом OpenBSD и даже [немного участвую](http://openports.se/search.php?stype=maintainer&so=estetus) в нём,

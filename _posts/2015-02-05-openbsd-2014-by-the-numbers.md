@@ -3,9 +3,6 @@ layout: post
 title: OpenBSD 2014 в цифрах (англ.)
 ---
 
-{{ page.title }}
-================
-
 <p class="meta">5 февраля 2015 - Москва</p>
 
 *«If you can’t measure it, you can’t improve it»* — Peter Drucker

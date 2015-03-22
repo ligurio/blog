@@ -3,9 +3,6 @@ layout: post
 title: Открытые базы данных дефектов в закрытом ПО
 ---
 
-{{ page.title }}
-================
-
 <p class="meta">13 марта 2015 - Москва</p>
 
 В [предыдущем посте](http://blog.bronevichok.ru/2015/03/12/bugs-in-closed-software-1.html)

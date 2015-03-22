@@ -3,9 +3,6 @@ layout: post
 title: Тестирование LustreFS
 ---
 
-{{ page.title }}
-================
-
 <p class="meta">26 января 2015 - Москва</p>
 
 <img src="http://blog.bronevichok.ru/images/logo-lustrefs.png" height="210" alt="Lustre FS" style="float:left">

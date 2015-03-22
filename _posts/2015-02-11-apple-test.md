@@ -3,9 +3,6 @@ layout: post
 title: Как обеспечивается качество продуктов Apple
 ---
 
-{{ page.title }}
-================
-
 <p class="meta">11 февраля 2015 - Москва</p>
 
 Вчера [опубликовали](http://siliconrus.com/2015/02/apple-test/) мою статью

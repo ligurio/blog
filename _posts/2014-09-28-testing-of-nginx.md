@@ -3,9 +3,6 @@ layout: post
 title: Тестирование веб сервера nginx
 ---
 
-{{ page.title }}
-================
-
 <p class="meta">28 сентября 2014 - Москва</p>
 
 <!-- <img src="http://blog.bronevichok.ru/images/logo-nginx.png" alt="Nginx logo" style="float:left"> -->

@@ -3,9 +3,6 @@ layout: post
 title: Эволюция интерфейса Parallels Desktop
 ---
 
-{{ page.title }}
-================
-
 <p class="meta">24 февраля 2015 - Москва</p>
 
 Нашёл старые скриншоты продуктов Parallels - Workstation и Desktop и

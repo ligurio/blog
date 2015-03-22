@@ -3,9 +3,6 @@ layout: post
 title: Как найти аккаунты друзей во всех социальных сетях
 ---
 
-{{ page.title }}
-================
-
 <p class="meta">26 марта 2014 - Москва</p>
 
 Может вы уже слышали, что компания [Amazing Hiring](http://amazinghiring.com)

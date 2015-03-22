@@ -3,9 +3,6 @@ layout: post
 title: Тестирование MVP (Minimum viable product)
 ---
 
-{{ page.title }}
-================
-
 <p class="meta">24 февраля 2015 - Москва</p>
 
 Глава про тестирование [MVP (Minimum viable product)](https://en.wikipedia.org/wiki/Minimum_viable_product)

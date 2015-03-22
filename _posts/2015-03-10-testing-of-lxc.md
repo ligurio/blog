@@ -3,9 +3,6 @@ layout: post
 title: Тестирование LXC (Linux Containers)
 ---
 
-{{ page.title }}
-================
-
 <p class="meta">10 марта 2015 - Москва</p>
 
 [LXC](https://linuxcontainers.org/) - это проект по разработке технологии

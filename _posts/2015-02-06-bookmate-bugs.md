@@ -3,9 +3,6 @@ layout: post
 title: Проблемы с приложением Bookmate
 ---
 
-{{ page.title }}
-================
-
 <p class="meta">6 февраля 2015 - Москва</p>
 
 Некоторое время назад я написал о том, что нашёл читалку своей мечты. Ею стало приложение [Bookmate](https://bookmate.com), [установленное](http://lifehacker.ru/2013/01/28/bookmate-nook/) на Nook Simple Touch.

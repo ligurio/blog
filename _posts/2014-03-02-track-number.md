@@ -3,9 +3,6 @@ layout: post
 title: Число грузовика и «self-employed business»
 ---
 
-{{ page.title }}
-================
-
 <p class="meta">02 марта 2014 - Москва</p>
 
 В управлении проектами есть такое понятие как [«bus factor»](http://en.wikipedia.org/wiki/Bus_factor).
