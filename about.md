@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 Я работаю в компании Parallels Inc. в должности менеджера по качеству ПО
-и занимаюсь продуктами [Parallels Cloud Server](http://sp.parallels.com/products/pcs/)
+и занимаюсь продуктами [Virtuozzo](http://sp.parallels.com/products/pcs/) (Parallels Cloud Server)
 и Parallels Containers for Windows.
 
 - [Моя домашняя страница](https://bronevichok.ru/)

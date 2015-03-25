@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Открытые базы данных дефектов в закрытом ПО
-comments: true
 ---
 
 В [предыдущем посте]({{ site.baseurl }}/2015/03/12/bugs-in-closed-software-1.html)
