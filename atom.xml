@@ -11,11 +11,11 @@ layout: null
     <image>
     <url>{{ site.url }}{{ site.baseurl }}/images/bronevichok.png</url>
     <title>{{ site.title | xml_escape }}</title>
-    <link>{{ site.url }}{{ site.baseurl }}/</link>
+    <link>{{ site.url }}{{ site.baseurl }}</link>
     <width>160</width>
     <height>160</height>
     </image>
-    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml" />
+    <atom:link href="{{ "/atom.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml" />
     {% for post in site.posts limit:10 %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
