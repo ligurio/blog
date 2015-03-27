@@ -20,3 +20,5 @@ Ted Unangst в докладе ["Pruning and Polishing: Keeping OpenBSD Modern"](
 Из представленных докладов мне также показался интересным
 ["kcgi: securing CGI applications in C"](http://2015.asiabsdcon.org/timetable.html.en#P2B),
 но слайды пока недоступны.
+
+**Добавлено:** Страница проекта kcgi - [http://kristaps.bsd.lv/kcgi/](http://kristaps.bsd.lv/kcgi/).
