@@ -1,27 +1,29 @@
 ---
 layout: null
 ---
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
- 
- <title>Сергей Бронников</title>
- <link href="http://ligurio.github.io/atom.xml" rel="self"/>
- <link href="http://ligurio.github.io/"/>
- <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://ligurio.github.io/</id>
- <author>
-   <name>Сергей Бронников</name>
-   <email>estetus@gmail.com</email>
- </author>
-
- {% for post in site.posts %}
- <entry>
-   <title>{{ post.title }}</title>
-   <link href="http://ligurio.github.io{{ post.url }}"/>
-   <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>http://ligurio.github.io{{ post.id }}</id>
-   <content type="html">{{ post.content | xml_escape }}</content>
- </entry>
- {% endfor %}
- 
-</feed>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>{{ site.title | xml_escape }}</title>
+    <description>{{ site.description | xml_escape }}</description>
+    <link>{{ site.url }}{{ site.baseurl }}/</link>
+    <managingEditor>estetus@gmail.com</managingEditor>
+    <image>
+    <url>{{ site.url }}{{ site.baseurl }}/images/bronevichok.png</url>
+    <title>{{ site.title | xml_escape }}</title>
+    <link>{{ site.url }}{{ site.baseurl }}/</link>
+    <width>160</width>
+    <height>160</height>
+    </image>
+    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml" />
+    {% for post in site.posts limit:10 %}
+      <item>
+        <title>{{ post.title | xml_escape }}</title>
+        <description>{{ post.content | xml_escape }}</description>
+        <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
+        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
+      </item>
+    {% endfor %}
+  </channel>
+</rss>
