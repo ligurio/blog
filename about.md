@@ -4,9 +4,9 @@ title: Обо мне
 permalink: /about/
 ---
 
-Я работаю в компании Parallels Inc. в должности менеджера по качеству ПО
-и занимаюсь продуктами [Virtuozzo](http://sp.parallels.com/products/pcs/) (Parallels Cloud Server)
-и Parallels Containers for Windows.
+Я работаю в компании [Odin](http://www.odin.com/) в должности менеджера по качеству ПО
+и занимаюсь продуктами [Virtuozzo](http://www.odin.com/products/virtuozzo/)
+и [Parallels Containers for Windows](http://www.odin.com/support/virtualization-suite/pcw/).
 
 - [Моя домашняя страница](https://bronevichok.ru/)
 - Мой твиттер [@estet](https://twitter.com/estet).
