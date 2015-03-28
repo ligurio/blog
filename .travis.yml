@@ -16,6 +16,7 @@ install:
   - sudo npm install yaspeller -g
 
 script:
+  #- python w3c-validator.py http://blog.bronevichok.ru
   - python mft.py http://blog.bronevichok.ru
   #- python check_urls.py _posts/*.md
   # Language Tool
