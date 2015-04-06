@@ -5,6 +5,7 @@ python:
 before_install:
   - sudo apt-get update
   - sudo apt-get install pandoc openjdk-7-jre
+  #- sudo apt-get install aspell aspell-en aspell-ru
   - curl -O https://languagetool.org/download/LanguageTool-2.7.zip && unzip LanguageTool-2.7.zip -d ~
 
 install:
@@ -23,6 +24,7 @@ script:
   #- java -jar ~/LanguageTool-2.7/languagetool-commandline.jar --autoDetect _posts/*.md
   # Yaspeller
   - yaspeller .
+  #- find . -name "*.md" -exec aspell --lang=en --mode=tex check "{}" \;
 
 notifications:
   email: false
