@@ -3,7 +3,7 @@ layout: post
 title: Тестирование ReactOS
 ---
 
-<img src="http://blog.bronevichok.ru/images/logo-reactos.png" height="110" alt="ReactOS" style="float:left">
+<img src="{{ site.baseurl }}/images/logo-reactos.png" height="110" alt="ReactOS" style="float:left">
 
 [ReactOS](https://www.reactos.org) - это современная, свободная и открытая операционная система,
 основанная на лучших принципах архитектуры Windows NT. Система была разработана с нуля,
@@ -17,8 +17,6 @@ title: Тестирование ReactOS
 
 Кстати, благодаря своим знаниям о Windows, Алексей успел и поработать и над нашим продуктом
 [Containers for Windows](http://www.odin.com/uk/support/virtualization-suite/pvc/).
-
-<img src="http://blog.bronevichok.ru/images/reactos-screenshot.jpg" height="500" alt="Steam в ReactOS" style="float:left">
 
 **Пожалуйста представьтесь.**
 
@@ -195,3 +193,6 @@ P.S. Несмотря на то, что сейчас ReactOS находится 
 что означает отсутствие некоторых функциональных возможностей, её можно
 попробовать уже сейчас. Для ознакомления [доступны](https://www.reactos.org/ru/download-reactos)
 как установочный образ, так и Live CD.
+
+Демонстрация работы [Steam](https://ru.wikipedia.org/wiki/Steam) в ReactOS:
+<a href="{{ site.baseurl }}/images/reactos-screenshot.jpg"><img src="{{ site.baseurl }}/images/reactos-screenshot.jpg" height="500" alt="Steam в ReactOS" style="float:left"></a><br><br>
