@@ -18,6 +18,7 @@ title: Тестирование ReactOS
 Кстати, благодаря своим знаниям о Windows, Алексей успел и поработать и над нашим продуктом
 [Containers for Windows](http://www.odin.com/uk/support/virtualization-suite/pvc/).
 
+<img src="http://blog.bronevichok.ru/images/reactos-screenshot.jpg" height="500" alt="Steam в ReactOS" style="float:left">
 
 **Пожалуйста представьтесь.**
 
