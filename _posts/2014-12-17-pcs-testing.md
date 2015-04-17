@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Automatic testing of Parallels Cloud Server
+title: Автоматическое тестирование Parallels Cloud Server (англ.)
 ---
 
 
