@@ -123,7 +123,7 @@ perform security audits and notify in case of security issues.
 See also: [http://ffmpeg.org/security.html](http://ffmpeg.org/security.html)
 
 *Interviewer's note: Google told about it in
-[http://googleonlinesecurity.blogspot.ru/2014/01/ffmpeg-and-thousand-fixes.html](his own blog).*
+[their blog](http://googleonlinesecurity.blogspot.ru/2014/01/ffmpeg-and-thousand-fixes.html).*
 
 **Do you use static or dynamic code analysis?**
 
@@ -141,7 +141,7 @@ Can't really say, also I'm more a documentation/API geek so I'm not
 the most active on interesting bug fixes resolution.
 
 Compatibility bugs are interesting:
-[http://trac.ffmpeg.org/ticket/2672](http://trac.ffmpeg.org/ticket/2672)
+[Ticket #2672](http://trac.ffmpeg.org/ticket/2672)
 
 Also integer overflows are subtle and cool:
 
