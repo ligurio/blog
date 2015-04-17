@@ -20,8 +20,8 @@ Xorg остаётся живее всех живых.
 Также доступен [перевод интервью](http://habrahabr.ru/post/234291/).
 
 
-** Xorg (the X-server) is a big and complex beast.
-How does development process of it look like? **
+**Xorg (the X-server) is a big and complex beast.
+How does development process of it look like?**
 
 It's not that big compared to many more recent projects (like firefox,
 chrome or even Gnome/KDE)
@@ -53,23 +53,23 @@ And to be complete, nowadays development of the active drivers almost
 completely driven by the companies (Intel, AMD, VMWare), so it's
 engineers from those companies who do most of the commits and pushes.
 
-** How many developers involved in the development? **
+**How many developers involved in the development?**
 
 If we include the Mesa, Linux kernel graphics stack and X people there
 are around 50-60 people who commit on a regular basis to one of the
 repositories.
 
-** How does testing process look like? Do you use regular testing
-(for example for each commit) or it is time from time testing? **
+**How does testing process look like? Do you use regular testing
+(for example for each commit) or it is time from time testing?**
 
 We have some tools to do regular, automated testing in place, but they
 are not as efficient as we'd like them to be.
 
-** What tools, tests and testing frameworks do you use?
+**What tools, tests and testing frameworks do you use?
 I have found a lot of tests (like XTS, rendercheck, glean, piglit etc)
 in [repository](http://cgit.freedesktop.org/)
 but some of them looks outdated. Do developers create tests on regular basis
-for new functionality and bugfixes? **
+for new functionality and bugfixes?**
 
 In addition to all those existing test suites, which are usually quite
 cumbersome to set up and run on a regular basis, Peter Hutterer has
@@ -94,26 +94,26 @@ exotic architectures like VAX, m88k or even sparc32), or just because
 our system's malloc() is able to catch errors that escape other tools
 used on Linux.
 
-** What kind of testing do they use (performance, functional,
-compatibility, stability, unit testing etc)? **
+**What kind of testing do they use (performance, functional,
+compatibility, stability, unit testing etc)?**
 
 The new X server test framework is mostly a unit and functional
 testing framework to make sure that the X servers components behave
 the way they are supposed to in a driver independent manner.
 
-** In case of using tests do you measure code coverage? **
+**In case of using tests do you measure code coverage?**
 
 Not really. Since the people who wrote the code and the test are often
 the same, they have some notion of the coverage of their tests, but
 there is no formal tool used AFAIK.
 
-** How often do you use it: time from time or on regular basis? **
+**How often do you use it: time from time or on regular basis?**
 
 Again, the tinderbox platform is supposed to run the tests as often as
 possible, but much of the other tests are run manually from time to
 time.
 
-** How new features tested? **
+**How new features tested?**
 
 New features, in X, you're kidding, right ? More seriously they have
 been a number of new features mostly at the Mesa (OpenGL)
@@ -121,21 +121,21 @@ level and at the input driver level. Either new tests for the features
 are added to the test suite at the same time of the code, or, for the
 OpenGL case, external compliance tests are used.
 
-** Do you use Continuous Integration in development process? **
+**Do you use Continuous Integration in development process?**
 
 Yes, I've mentioned the tinderbox system a number of times already,
 even if it's far from perfect.
 
-** What tool do you use for tracking open bugs? Who is responsible in
-tracking of open bugs? **
+**What tool do you use for tracking open bugs? Who is responsible in
+tracking of open bugs?**
 
 We have a Bugzilla hosted at [freedesktop.org](http://freedesktop.org)
 ([bugs.freedesktop.org](http://bugs.freedesktop.org)),
 completed by a patch tracking system (patchwork) that tries to ensure
 that no submitted patch gets forgotten or unhandled.
 
-** Sometimes X.Org has [security flaws](http://www.x.org/wiki/Development/Security/)
-Do you use regular security audit of code? **
+**Sometimes X.Org has [security flaws](http://www.x.org/wiki/Development/Security/)
+Do you use regular security audit of code?**
 
 No and yes :) AFAIK X.Org has no one explicitly dedicated to do code
 audits on a regular basis. But some distributions (for example
@@ -156,7 +156,7 @@ vulnerabilities in both X libraries and in the X server, mainly
 rotating around the lack of enough validation of the X protocol
 messages.
 
-** Do you use static code analysis? **
+**Do you use static code analysis?**
 
 The answer is similar to my previous one. The tinderbox system is not
 running any specific static code analyzer beside gcc with -Wall plus a
@@ -168,9 +168,9 @@ Coverity has a program to do analysis for free software
 organizations. X.Org has been part of this program and they helped us
 to find a fix a number of issues.
 
-** X.Org supports all more or less popular operating systems:
+**X.Org supports all more or less popular operating systems:
 Linux, FreeBSD, NetBSD, OpenBSD, Solaris, Microsoft Windows.
-How you provide confidence in stable work for all these OSes? **
+How you provide confidence in stable work for all these OSes?**
 
 As I explained above this is handled by volunteers (or paid employees
 in some cases) from the various projects. The main developers mostly
@@ -182,8 +182,8 @@ developing with more than one system in mind, and from the security
 point of view diversity has a great value (even if it has some cost on
 the development process)
 
-** Who is responsible for releasing of new version? What are the release
-criterias? **
+**Who is responsible for releasing of new version? What are the release
+criterias?**
 
 There is a maintainer for the X server who also is in charge of doing
 the release. We currently work on a 6 month cycle with a new X server
@@ -202,7 +202,7 @@ The times where the XFree86 project was providing binary distributions for
 most of its supported systems (from SVR4 to Linux, including NetBSD,
 OS/2 and a few others) is definitely over.
 
-** What was the most interesting bug in your practice? :) **
+**What was the most interesting bug in your practice? :)**
 
 Working with code that was designed and implemented while security
 didn't matter is always "interesting". X was initially a really
@@ -240,7 +240,7 @@ for security, allowing ".." escapes in a path passed directly to
 open(O_RDWR) as root. The problem was thankfully spotted before an
 official release of the Intel driver by Adam Sampson by end of June.
 
-** Thanks for answers and wish you less bugs in your code! **
+**Thanks for answers and wish you less bugs in your code!**
 
 Thank you.
 
