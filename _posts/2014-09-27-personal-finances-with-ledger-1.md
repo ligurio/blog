@@ -4,7 +4,6 @@ title: Финансовый учёт с ledger
 ---
 
 
-
 Несколько лет назад передо мной встала задача вести учёт денежных
 расходов, чтобы в конце месяца понимать сколько и куда денег тратится.
 Перебрав самые известные приложения ([GnuCash](http://www.gnucash.org),
@@ -13,10 +12,7 @@ title: Финансовый учёт с ledger
 [cbb](http://gna.org/projects/cbb/), ledger) мне по тем или иным причинами ни одно не понравилось.
 Кроме последнего - ledger.
 
-<img src="{{ site.baseurl }}/images/russian_ruble.png" alt="ledger" style="float:left">
-{% comment %}
-http://assets.knowledge.allianz.com/img/behavioral_finance_money_mistakes_rtr22oov_ah_55316.jpg
-{% endcomment %}
+<img src="{{ site.baseurl }}/images/franklin.jpg">
 
 [Ledger](http://www.ledger-cli.org) - это консольная утилита, которая поможет контролировать ваши личные финансы.
 Моё знакомство с ней началось со статьи в блоге
