@@ -45,7 +45,7 @@ share_stumbleupon: false
 # Build settings
 markdown:     redcarpet
 redcarpet:
-  extensions: ['smart', 'tables', 'with_toc_data']
+  extensions: ['smart', 'tables', 'with_toc_data', 'footnotes']
 permalink:    date
 paginate:     3
 sass:
