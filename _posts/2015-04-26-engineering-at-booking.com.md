@@ -206,6 +206,9 @@ mySQL[f][g], будет понятный процесс подъёма его о
 Технических специалистов находят как на [отдельном
 сайте](https://workingatbooking.com/), так и внутри своего:
 
+<img src="{{ site.baseurl }}/images/hiring-at-booking.png">
+
+
 ### Как устроился
 
 Отправил резюме в середине декабря.  Позвонили в середине января, договорились
@@ -232,8 +235,8 @@ mySQL[f][g], будет понятный процесс подъёма его о
 что-то делать, если ты не согласен.  Не обязательно переходить из разработки в
 менеджеры (что традиционно происходит в других компаниях), существуют
 
-Technical Track: developer → senior developer → team lead → senior team lead →
-principal developer (5 человек) и Management Track
+*Technical Track*: developer → senior developer → team lead → senior team lead →
+principal developer (5 человек) и *Management Track*.
 
 Работаю в команде без РО, поэтому про них сложно рассказать.
 
