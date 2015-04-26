@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Первые проблемы с Apple iWatch
+title: Первые проблемы с Apple Watch
 ---
 
 Я ранее [писал]({{ site.url }}/2015/03/21/known-defects-in-proprietary-software.html)
 о пользе багтрекера с открытой информацией о проблемах в ПО с закрытым исходным
-кодом. На примере с [iWatch](https://www.apple.com/ru/watch/) можно объяснить
+кодом. На примере с [Watch](https://www.apple.com/ru/watch/) можно объяснить
 практическую пользу.
 
 Первые часы производства Apple поступили пользователям в прошлую пятницу,
