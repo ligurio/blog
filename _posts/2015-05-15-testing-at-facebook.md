@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Тестирование в Facebook
+title: Тестирование ПО в Facebook
 ---
 
 Инженер из Facebook рассказывает о тестировании в компании:
