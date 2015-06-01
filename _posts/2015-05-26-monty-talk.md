@@ -34,3 +34,5 @@ title: "Выступление Майкла Видеуса, разработчи
 
 Часть слайдов из выступления можно найти [здесь](https://bronevichok.ru/trash/Monty/),
 [блог Майкла](http://monty-says.blogspot.ru/).
+
+*Добавлено:* выложили [запись выступления](https://www.youtube.com/watch?v=4xJVsCIK2zg).
