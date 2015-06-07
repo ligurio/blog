@@ -9,9 +9,7 @@ permalink: /about/
 опытом и мыслями с другими людьми.
 
 Я работаю в компании [Odin](http://www.odin.com/) (подразделение компании Parallels Inc.,
-разрабатывающее серверные продукты) в должности менеджера по качеству ПО
-и занимаюсь продуктами [Virtuozzo](http://www.odin.com/products/virtuozzo/)
-и [Containers for Windows](http://www.odin.com/support/virtualization-suite/pcw/).
+разрабатывающее серверные продукты) в должности менеджера проекта [OpenVZ](https://openvz.org/).
 
 - [Моя домашняя страница](https://bronevichok.ru/)
 - Мой твиттер [@estet](https://twitter.com/estet).
