@@ -12,7 +12,5 @@ title: Тестирование ПО в Atlassian
 - модели разработки: Водопад vs Agile
 - могут ли разработчики тестировать эффективно?
 - Нет, не могут. Потому что для эффективного тестирования необходимо специфический опыт и мышление.
-- в качестве решения предлагается т.н. Quality Assistance: short-term protect our customers,
-long-term - educate our developers
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yRP29wFqu20" frameborder="0" allowfullscreen></iframe>
