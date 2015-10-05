@@ -14,4 +14,4 @@ title: Последние новости
 контейнерами на ядре RHEL7.
 Устанавливать на сервер вовсе необязательно, можно взять [собрать
 образ](https://github.com/ligurio/openvz-packer-templates) для Vagrant или поднять
-виртуальную машину в [Amazon EC2](https://openvz.org/Using_Virtuozzo_in_the_Amazon_EC2).
+виртуальную машину в [Amazon EC2](https://lists.openvz.org/pipermail/users/2015-October/006548.html).
