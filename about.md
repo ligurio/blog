@@ -18,6 +18,19 @@ permalink: /about/
 На блог можно подписаться используя [RSS](http://feeds.feedburner.com/bronevichok)
 или [получать новые посты по почте]({{ site.baseurl }}/2014/04/04/email-subscription.html).
 
+Иногда я появляюсь в СМИ или пишу для них статьи. Вот самое интересное:
+
+- [Встреча разработчиков Linux-контейнеров](http://habrahabr.ru/company/parallels/blog/266089/)
+- [Пять заблуждений об открытом ПО](http://habrahabr.ru/company/parallels/blog/261609/)
+- [Зачем мы открыли код Virtuozzo](http://habrahabr.ru/company/parallels/blog/259385/)
+- [Coming Soon: A More Open Platform for OpenVZ](http://blog.odin.com/serviceprovider/2015/7/14/coming-soon-a-more-open-platform-for-openvz)
+- [Virtuozzo переходит на открытую модель разработки](http://habrahabr.ru/company/parallels/blog/256279/)
+- [Открытая база данных дефектов в закрытом ПО](http://habrahabr.ru/post/253009/)
+- [Tapper — система тестирования ПО полного цикла](http://pragmaticperl.com/authors/28)
+- [От дизайна до производства: Как обеспечивается качество продуктов Apple](http://siliconrus.com/2015/02/apple-test/)
+- [Автоматическое тестирование Parallels Cloud Server](http://habrahabr.ru/post/204292/)
+- Развитие популяций бактерий Lactococcus lactus SSP. lactis на агаризованных средах, моделирующих естественный субстрат.
+
 ----
 
 #### Авторские права
