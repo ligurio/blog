@@ -4,8 +4,8 @@ email:       estetus@gmail.com
 author:      Sergey Bronnikov
 description: "блог о тестировании, продуктивности"
 baseurl:     "/blog"
-url:         https://www.bronevichok.ru/
-enforce_ssl: https://www.bronevichok.ru/
+url:         http://www.bronevichok.ru/
+enforce_ssl: http://www.bronevichok.ru/
 
 # Google analytics
 google_analytics: UA-47888478-2
