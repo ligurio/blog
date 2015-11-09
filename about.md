@@ -27,7 +27,7 @@ permalink: /about/
 - [Virtuozzo переходит на открытую модель разработки](http://habrahabr.ru/company/parallels/blog/256279/)
 - [Открытая база данных дефектов в закрытом ПО](http://habrahabr.ru/post/253009/)
 - [Tapper — система тестирования ПО полного цикла](http://pragmaticperl.com/authors/28)
-- [От дизайна до производства: Как обеспечивается качество продуктов Apple](http://siliconrus.com/2015/02/apple-test/)
+- [От дизайна до производства: Как обеспечивается качество продуктов Apple](https://vc.ru/p/apple-test)
 - [Автоматическое тестирование Parallels Cloud Server](http://habrahabr.ru/post/204292/)
 - Развитие популяций бактерий Lactococcus lactus SSP. lactis на агаризованных средах, моделирующих естественный субстрат.
 
