@@ -16,7 +16,7 @@ permalink: /about/
 - [Все посты]({{ site.baseurl }}/archive/)
 
 На блог можно подписаться используя [RSS](http://feeds.feedburner.com/bronevichok)
-или [получать новые посты по почте]({{ site.baseurl }}/2014/04/04/email-subscription.html).
+или [получать новые посты по почте](http://feedburner.google.com/fb/a/mailverify?uri=bronevichok).
 
 Иногда я появляюсь в СМИ или пишу для них статьи. Вот самое интересное:
 
