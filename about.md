@@ -20,16 +20,18 @@ permalink: /about/
 
 Иногда я появляюсь в СМИ или пишу для них статьи. Вот самое интересное:
 
-- [Встреча разработчиков Linux-контейнеров](http://habrahabr.ru/company/parallels/blog/266089/)
-- [Пять заблуждений об открытом ПО](http://habrahabr.ru/company/parallels/blog/261609/)
-- [Зачем мы открыли код Virtuozzo](http://habrahabr.ru/company/parallels/blog/259385/)
-- [Coming Soon: A More Open Platform for OpenVZ](http://blog.odin.com/serviceprovider/2015/7/14/coming-soon-a-more-open-platform-for-openvz)
-- [Virtuozzo переходит на открытую модель разработки](http://habrahabr.ru/company/parallels/blog/256279/)
-- [Открытая база данных дефектов в закрытом ПО](http://habrahabr.ru/post/253009/)
-- [Tapper — система тестирования ПО полного цикла](http://pragmaticperl.com/authors/28)
-- [От дизайна до производства: Как обеспечивается качество продуктов Apple](https://vc.ru/p/apple-test)
-- [Автоматическое тестирование Parallels Cloud Server](http://habrahabr.ru/post/204292/)
-- Развитие популяций бактерий Lactococcus lactus SSP. lactis на агаризованных средах, моделирующих естественный субстрат.
+- Простая возможность приобрести опыт в IT. // Журнал Хакер
+- [Twisource: A lightweight, open source social media solution](https://opensource.com/business/15/11/twisource-lightweight-open-source-social-media-solution) // [opensource.com](http://opensource.com/)
+- [Встреча разработчиков Linux-контейнеров](http://habrahabr.ru/company/parallels/blog/266089/) // Блог компании Parallels Inc.
+- [Пять заблуждений об открытом ПО](http://habrahabr.ru/company/parallels/blog/261609/) // Блог компании Parallels Inc.
+- [Зачем мы открыли код Virtuozzo](http://habrahabr.ru/company/parallels/blog/259385/) // Блог компании Parallels Inc.
+- [Coming Soon: A More Open Platform for OpenVZ](http://blog.odin.com/serviceprovider/2015/7/14/coming-soon-a-more-open-platform-for-openvz) // Блог компании Odin
+- [Virtuozzo переходит на открытую модель разработки](http://habrahabr.ru/company/parallels/blog/256279/) // Блог компании Parallels Inc.
+- [Открытая база данных дефектов в закрытом ПО](http://habrahabr.ru/post/253009/) // Хабрахабр
+- [Tapper — система тестирования ПО полного цикла](http://pragmaticperl.com/authors/28) // Журнал Pragmatic Perl, [выпуск 23](http://pragmaticperl.com/issues/23).
+- [От дизайна до производства: Как обеспечивается качество продуктов Apple](https://vc.ru/p/apple-test) // Цукерберг позвонит
+- [Автоматическое тестирование Parallels Cloud Server](http://habrahabr.ru/post/204292/) // Хабрахабр
+- Тренина М.А., Складнев Д.А., Бронников  С.В., Устюгова Е.А., Стоянова Л.Г. Развитие популяций бактерий Lactococcus lactis ssp. lactis на агаризованных питательных средах, моделирующих естественный субстрат // Экология и промышленность России, май 2009.
 
 ----
 
