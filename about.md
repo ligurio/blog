@@ -21,7 +21,7 @@ permalink: /about/
 Иногда я появляюсь в СМИ или пишу для них статьи. Вот самое интересное:
 
 - Простая возможность приобрести опыт в IT // Журнал Хакер
-- Twisource: A lightweight, open source social media solution // [opensource.com](http://opensource.com/)
+- [Twisource: A lightweight, open source social media solution](http://opensource.com/business/15/11/twisource-lightweight-open-source-social-media-solution) // [opensource.com](http://opensource.com/)
 - [Встреча разработчиков Linux-контейнеров](http://habrahabr.ru/company/parallels/blog/266089/) // Блог компании Parallels Inc.
 - [Пять заблуждений об открытом ПО](http://habrahabr.ru/company/parallels/blog/261609/) // Блог компании Parallels Inc.
 - [Зачем мы открыли код Virtuozzo](http://habrahabr.ru/company/parallels/blog/259385/) // Блог компании Parallels Inc.
