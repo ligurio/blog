@@ -8,8 +8,9 @@ permalink: /about/
 реанимировать свой блог, чтобы иметь возможность делиться
 опытом и мыслями с другими людьми.
 
-Я работаю в компании [Virtuozzo](http://www.virtuozzo.com/) (подразделение компании Parallels Inc.,
-разрабатывающее серверные продукты) в должности менеджера проекта [OpenVZ](https://openvz.org/).
+Я работаю менеджером проекта [OpenVZ](https://openvz.org/) в компании
+[Virtuozzo](http://www.virtuozzo.com/), входящей в состав холдинга Parallels Inc.
+и разрабатывающей серверные продукты.
 
 - [Моя домашняя страница](https://bronevichok.ru/)
 - Мой твиттер [@estet](https://twitter.com/estet).
@@ -20,6 +21,7 @@ permalink: /about/
 
 Иногда я появляюсь в СМИ или пишу для них статьи. Вот самое интересное:
 
+- Интервью для журнала [Linux Format](http://www.linuxformat.ru/)
 - A Great Way to Gain IT Skills // [opensource.com](http://opensource.com/)
 - Простая возможность приобрести опыт в IT // Журнал Хакер
 - [Twisource: A lightweight, open source social media solution](http://opensource.com/business/15/11/twisource-lightweight-open-source-social-media-solution) // [opensource.com](http://opensource.com/)
