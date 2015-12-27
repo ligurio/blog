@@ -91,8 +91,7 @@ Microsoft Windows, Intel ACPICA и от команды OpenBSD, потому ч�
 
 Часто спрашивают, кому нужны эти BSD системы и кто ими пользуется.
 Из самых известных примеров, которые я знаю, это [Netflix](https://www.netflix.com/openconnect/software),
-[Mercedes Benz](http://www4.mercedes-benz.com/manual-cars/ba/foss/content/en/assets/FOSS_licences.pdf) (pdf)
-и Apple.
+[Mercedes Benz](http://www4.mercedes-benz.com/manual-cars/ba/foss/content/en/assets/FOSS_licences.pdf) (pdf) и Apple.
 
 Вот ещё списки пользователей:
 

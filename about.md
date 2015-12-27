@@ -22,9 +22,9 @@ permalink: /about/
 Иногда я появляюсь в СМИ или пишу для них статьи. Вот самое интересное:
 
 - Интервью для журнала [Linux Format](http://www.linuxformat.ru/)
-- A Great Way to Gain IT Skills // [opensource.com](http://opensource.com/)
-- Простая возможность приобрести опыт в IT // Журнал Хакер
-- [Twisource: A lightweight, open source social media solution](http://opensource.com/business/15/11/twisource-lightweight-open-source-social-media-solution) // [opensource.com](http://opensource.com/)
+- A Great Way to Gain IT Skills // opensource.com
+- [Как стать участником опенсорсного проекта, даже если не умеешь писать код.](http://issuu.com/sersvop/docs/haker_12-2015?e=19335014/31864689) // Журнал Хакер
+- [Twisource: A lightweight, open source social media solution](http://opensource.com/business/15/11/twisource-lightweight-open-source-social-media-solution) // opensource.com
 - [Встреча разработчиков Linux-контейнеров](http://habrahabr.ru/company/parallels/blog/266089/) // Блог компании Parallels Inc.
 - [Пять заблуждений об открытом ПО](http://habrahabr.ru/company/parallels/blog/261609/) // Блог компании Parallels Inc.
 - [Зачем мы открыли код Virtuozzo](http://habrahabr.ru/company/parallels/blog/259385/) // Блог компании Parallels Inc.
