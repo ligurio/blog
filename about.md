@@ -23,7 +23,8 @@ permalink: /about/
 
 - Интервью для журнала [Linux Format](http://www.linuxformat.ru/)
 - A Great Way to Gain IT Skills // opensource.com
-- [Как стать участником опенсорсного проекта, даже если не умеешь писать код.](http://issuu.com/sersvop/docs/haker_12-2015?e=19335014/31864689) // Журнал Хакер
+- Интервью для журнала [Business Fun](http://issuu.com/anna924/docs/__.__________________)
+- Как стать участником опенсорсного проекта, даже если не умеешь писать код. ([PDF](http://issuu.com/sersvop/docs/haker_12-2015?e=19335014/31864689), [HTML](https://xakep.ru/2015/12/29/open-source-career/)) // Журнал Хакер
 - [Twisource: A lightweight, open source social media solution](http://opensource.com/business/15/11/twisource-lightweight-open-source-social-media-solution) // opensource.com
 - [Встреча разработчиков Linux-контейнеров](http://habrahabr.ru/company/parallels/blog/266089/) // Блог компании Parallels Inc.
 - [Пять заблуждений об открытом ПО](http://habrahabr.ru/company/parallels/blog/261609/) // Блог компании Parallels Inc.
