@@ -22,7 +22,8 @@ permalink: /about/
 Иногда я появляюсь в СМИ или пишу для них статьи. Вот самое интересное:
 
 - Интервью для журнала [Linux Format](http://www.linuxformat.ru/)
-- A Great Way to Gain IT Skills // opensource.com
+- [How getting started in open source can help your career](https://opensource.com/life/16/1/3-new-open-source-contributors-share-their-experiences) // opensource.com
+- [How to improve tech skills while contributing to open source projects](https://opensource.com/life/16/1/open-source-skills) // opensource.com
 - Интервью для журнала [Business Fun](http://issuu.com/anna924/docs/__.__________________)
 - Как стать участником опенсорсного проекта, даже если не умеешь писать код. ([PDF](http://issuu.com/sersvop/docs/haker_12-2015?e=19335014/31864689), [HTML](https://xakep.ru/2015/12/29/open-source-career/)) // Журнал Хакер
 - [Twisource: A lightweight, open source social media solution](http://opensource.com/business/15/11/twisource-lightweight-open-source-social-media-solution) // opensource.com
