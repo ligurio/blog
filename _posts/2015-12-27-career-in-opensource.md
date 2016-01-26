@@ -3,6 +3,8 @@ layout: post
 title: Простая возможность приобрести опыт в IT
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F3s74-iMt4s" frameborder="0" allowfullscreen></iframe>
+
 *Статья впервые была опубликована в [декабрьском номере](https://xakep.ru/issues/xa/203)
 журнала Хакер. В журнал вошла немного изменённая версия; ниже — оригинальный вариант.*
 
