@@ -21,7 +21,7 @@ permalink: /about/
 
 Иногда я появляюсь в СМИ или пишу для них статьи. Вот самое интересное:
 
-- Интервью для журнала [Linux Format](http://www.linuxformat.ru/)
+- Интервью о проекте OpenVZ для журнала Linux Format // [Linux Format](http://www.linuxformat.ru/anons204.phtml)
 - [How getting started in open source can help your career](https://opensource.com/life/16/1/3-new-open-source-contributors-share-their-experiences) // opensource.com
 - [How to improve tech skills while contributing to open source projects](https://opensource.com/life/16/1/open-source-skills) // opensource.com
 - Интервью для журнала [Business Fun](http://issuu.com/anna924/docs/__.__________________)
