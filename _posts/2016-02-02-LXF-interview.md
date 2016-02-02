@@ -3,11 +3,15 @@ layout: post
 title: Интервью в Linux Format
 ---
 
+В январском номере журнала Linux Format напечатали интервью о проекте OpenVZ.
+
+<!--
 Сергей Бронников, менеджер Open-Source-проекта OpenVZ, занимается развитием
 OpenVZ и взаимодействием с сообществом. Ранее в компании Parallels как
 SQA-менеджер [SQA — Software Quality Assurance, контроль качества ПО]
 занимался тестированием облачного сервера Virtuozzo и Virtuozzo for Windows
 (ранее — Parallels Cloud Server и Parallels Containers for Windows).
+-->
 
 **Linux Format:** Расскажите, чем вы занимаетесь в Open Source.
 
