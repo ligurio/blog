@@ -22,12 +22,12 @@ title: Клуб по интересам
 на такую же тематику.
 К счастью по выбранным проектам мы почти не пересеклись:
 
-* [Perl5](http://szabgab.com/quality-assurance-of-perl-5.html)
-* [Parrot](http://szabgab.com/smoked-parrot.html)
-* [SQLite](http://szabgab.com/testing-sqlite.html)
-* [Network UPS Tools](http://szabgab.com/testing-nut-the-network-ups-tools.html)
-* [Glasgow Haskell Compiler](http://szabgab.com/testing-ghc-the-glasgow-haskell-compiler.html)
-* [Ruby](http://szabgab.com/testing-ruby.html)
-* [Perl6](http://szabgab.com/testing-pugs-and-perl-6.html)
+* [интерпретатор языка Perl5](http://szabgab.com/quality-assurance-of-perl-5.html)
+* [интерпретатор языка Perl 6 Parrot](http://szabgab.com/smoked-parrot.html)
+* база данных [SQLite](http://szabgab.com/testing-sqlite.html)
+* [программа для управления UPS](http://szabgab.com/testing-nut-the-network-ups-tools.html)
+* [компилятор языка Haskell](http://szabgab.com/testing-ghc-the-glasgow-haskell-compiler.html)
+* интерпретатор языка [Ruby](http://szabgab.com/testing-ruby.html)
+* [интерпретатор языка Perl6](http://szabgab.com/testing-pugs-and-perl-6.html)
 
 Fin
