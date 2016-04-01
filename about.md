@@ -21,7 +21,8 @@ permalink: /about/
 
 Иногда я появляюсь в СМИ или пишу для них статьи. Вот самое интересное:
 
-- Интервью о проекте OpenVZ для журнала Linux Format // [Linux Format](http://www.linuxformat.ru/anons204.phtml)
+- Одну неделю был ведущим твиттера "Разработчик бэкенда" // [@backendsecret](http://backendsecret.ru/estet/)
+- Интервью о проекте OpenVZ для журнала Linux Format // ["Linux Format" №01 (204) Январь 2016](http://www.linuxformat.ru/anons204.phtml)
 - [How getting started in open source can help your career](https://opensource.com/life/16/1/3-new-open-source-contributors-share-their-experiences) // opensource.com
 - [How to improve tech skills while contributing to open source projects](https://opensource.com/life/16/1/open-source-skills) // opensource.com
 - Интервью для журнала [Business Fun](http://issuu.com/anna924/docs/__.__________________)
@@ -32,6 +33,7 @@ permalink: /about/
 - [Зачем мы открыли код Virtuozzo](http://habrahabr.ru/company/parallels/blog/259385/) // Блог компании Parallels Inc.
 - [Coming Soon: A More Open Platform for OpenVZ](http://blog.odin.com/serviceprovider/2015/7/14/coming-soon-a-more-open-platform-for-openvz) // Блог компании Odin
 - [Virtuozzo переходит на открытую модель разработки](http://habrahabr.ru/company/parallels/blog/256279/) // Блог компании Parallels Inc.
+- Новости для [портала Opennet](http://www.opennet.ru/~sergeyb).
 - [Открытая база данных дефектов в закрытом ПО](http://habrahabr.ru/post/253009/) // Хабрахабр
 - [Tapper — система тестирования ПО полного цикла](http://pragmaticperl.com/authors/28) // Журнал Pragmatic Perl, [выпуск 23](http://pragmaticperl.com/issues/23).
 - [От дизайна до производства: Как обеспечивается качество продуктов Apple](https://vc.ru/p/apple-test) // Цукерберг позвонит
