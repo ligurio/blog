@@ -196,4 +196,4 @@ P.S. Несмотря на то, что сейчас ReactOS находится 
 как установочный образ, так и Live CD.
 
 Демонстрация работы [Steam](https://ru.wikipedia.org/wiki/Steam) в ReactOS:
-<a href="/images/reactos-screenshot.jpg"><img src="{{ site.baseurl }}/images/reactos-screenshot.jpg" height="500" alt="Steam в ReactOS" style="float:left"></a><br><br>
+<a href="/images/reactos-screenshot.jpg"><img src="/images/reactos-screenshot.jpg" height="500" alt="Steam в ReactOS" style="float:left"></a><br><br>
