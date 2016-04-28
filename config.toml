@@ -1,0 +1,24 @@
+baseurl = ""
+languageCode = "en-us"
+title = "Сергей Бронников"
+theme = "hugo-zen"
+uglyurls = true
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+canonifyurls = true
+disablePathToLower = true
+MetaDataFormat = "toml"
+copyright = "2014-2016 Сергей Бронников"
+[indexes] 
+    category = "categories" 
+    tag = "tags" 
+[author] 
+    name = "Сергей Бронников" 
+[permalinks]
+	page = "/:title/"
+	post = "/:year/:month/:day/:title/"
+	about = "/:filename/"
+[params]
+  logo      = "/images/logo.jpg"
+  analytics = "UA-47888478-2"
