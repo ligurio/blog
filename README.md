@@ -1,8 +1,6 @@
 blog.bronevichok.ru
 =================
 
-[![Build Status](https://travis-ci.org/ligurio/blog.bronevichok.ru.svg?branch=master)](https://travis-ci.org/ligurio/ligurio.github.io)
-
 This is a source texts of my blog [bronevichok.ru/blog](https://bronevichok.ru/blog/).
 
 Author: Sergey Bronnikov [@estet](https://twitter.com/estet) (estetus@gmail.com)
