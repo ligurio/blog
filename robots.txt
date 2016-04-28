@@ -1,4 +1,0 @@
-# robots.txt for http://blog.bronevichok.ru
-User-agent: *
-Disallow:
-Sitemap: {{ site.url }}/sitemap.xml
