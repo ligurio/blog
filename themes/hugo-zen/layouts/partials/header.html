@@ -11,7 +11,7 @@
 <link rel="stylesheet" href="/css/custom.css">
 <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-precomposed.png">
 <link rel="shortcut icon" href="/favicon.ico">
-<link rel="alternate" href="/index.xml" type="application/rss+xml" title="{{ .Site.Title }}">
+<link rel="alternate" href="/feed.xml" type="application/rss+xml" title="{{ .Site.Title }}">
 <title>{{ $isHomePage := eq .Title .Site.Title }}{{ .Title }}{{ if eq $isHomePage false }} - {{ .Site.Title }}{{ end }}</title>
 </head>
 <body>
@@ -19,8 +19,17 @@
 <div class="container">
 
 	<header role="banner">
+<!--
 		<div class="header-logo">
 			<a href="/"><img src="{{ .Site.Params.logo }}" width="60" height="60" alt="{{ .Site.Title }}"></a>
 		</div>
-		{{ if eq $isHomePage true }}<h1 class="site-title">{{ .Site.Title }}</h1>{{ end }}
+-->
+		<div id="header">
+			<a href="/">Последнее</a> &#183;
+			<a href="/about/">Кто автор?</a> &#183;
+			<a href="/posts.html">Архив</a> &#183;
+			<a href="https://feeds.feedburner.com/bronevichok">RSS</a> &#183;
+			<a href="https://twitter.com/estet">Твиттер</a> &#183;
+			<a href="http://feedburner.google.com/fb/a/mailverify?uri=bronevichok">Подписаться</a>
+		</div>
 	</header>

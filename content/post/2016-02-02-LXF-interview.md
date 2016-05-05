@@ -4,7 +4,9 @@ title: Интервью в Linux Format
 url: /2016/02/02/LXF-interview/
 ---
 
-В январском номере журнала Linux Format напечатали интервью о проекте OpenVZ.
+В [январском номере журнала Linux
+Format](http://www.linuxformat.ru/anons204.phtml) напечатали интервью о проекте
+OpenVZ.
 
 <!--
 Сергей Бронников, менеджер Open-Source-проекта OpenVZ, занимается развитием

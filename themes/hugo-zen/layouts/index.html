@@ -1,12 +1,11 @@
 {{ partial "header.html" . }}
 
-	<main role="main">
-{{ range (where .Data.Pages ".Params.hidefromhome" "!=" "true") }}
-		<article itemscope itemtype="http://schema.org/Blog">
-			<h2 class="entry-title" itemprop="headline"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-			<span class="entry-meta"><time itemprop="datePublished" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}</time></span>
-		</article>
-{{ end }}
-	</main>
+<main role="main">
+	<div>
+		{{ range first 10 .Data.Pages }}
+			{{ if eq .Section "posts" }}{{ .Render "li"}}{{ end }}
+		{{ end }}
+	</div>
+</main>
 
 {{ partial "footer.html" . }}

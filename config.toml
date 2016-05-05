@@ -1,24 +1,25 @@
-baseurl = ""
-languageCode = "en-us"
+#baseurl = "https://bronevichok.ru/blog/"
+baseurl = "."
+languagecode = "en-us"
 title = "Сергей Бронников"
 theme = "hugo-zen"
-uglyurls = true
 contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
 canonifyurls = true
+uglyurls = true
 disablePathToLower = true
 MetaDataFormat = "toml"
-copyright = "2014-2016 Сергей Бронников"
-[indexes] 
-    category = "categories" 
-    tag = "tags" 
-[author] 
-    name = "Сергей Бронников" 
+copyright = "2014-2016 <a rel='author' href='/about/'>Сергей Бронников</a>"
+rssuri = "feed.xml"
+[indexes]
+	category = "categories"
+	tag = "tags"
+[author]
+	name = "Сергей Бронников"
 [permalinks]
-	page = "/:title/"
-	post = "/:year/:month/:day/:title/"
-	about = "/:filename/"
+	posts = "/:year/:month/:day/:filename/"
+	books = "/:year/:month/:day/:filename/"
 [params]
-  logo      = "/images/logo.jpg"
-  analytics = "UA-47888478-2"
+	logo      = "/images/logo.jpg"
+	analytics = "UA-47888478-2"
