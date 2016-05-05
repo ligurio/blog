@@ -1,0 +1,10 @@
+	<main role="main">
+		<article itemscope itemtype="http://schema.org/BlogPosting">
+			<h1 class="entry-title" itemprop="headline"><a href="{{ .Permalink }}">{{ .Title }}{{ if .Draft }} (Черновик){{ end }}</a></h1>
+			<span class="entry-meta"></span>
+			<section itemprop="entry-text">
+				{{ .Content }}
+				{{ .Date.Format "02.01.2006" }}
+			</section>
+		</article>
+	</main>
