@@ -11,7 +11,7 @@ uglyurls = true
 disablePathToLower = true
 MetaDataFormat = "toml"
 copyright = "2014-2016 <a rel='author' href='/about/'>Сергей Бронников</a>"
-rssuri = "feed.xml"
+rssuri = "atom.xml"
 [indexes]
 	category = "categories"
 	tag = "tags"
