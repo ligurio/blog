@@ -1,6 +1,6 @@
 ---
 date: 2015-12-27T00:00:00Z
-tags = ["openbsd", ""]
+tags: ["openbsd", ""]
 title: Простая возможность приобрести опыт в IT
 url: /2015/12/27/career-in-opensource/
 ---

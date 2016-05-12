@@ -1,6 +1,6 @@
 ---
 date: 2015-03-15T00:00:00Z
-tags = ["openbsd", ""]
+tags: ["openbsd", ""]
 title: AsiaBSDCon 2015
 url: /2015/03/15/asiabsdcon/
 ---
