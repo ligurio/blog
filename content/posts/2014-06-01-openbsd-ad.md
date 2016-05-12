@@ -1,5 +1,6 @@
 ---
 date: 2014-06-01T00:00:00Z
+tags = ["openbsd", ""]
 title: Реклама OpenBSD
 url: /2014/06/01/openbsd-ad/
 ---
