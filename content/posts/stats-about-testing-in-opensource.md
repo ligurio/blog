@@ -51,7 +51,7 @@ tags: ["junit", "subunit", "testformats"]
 | ReactOS | Собственный? | [Нет](https://www.reactos.org/testman) | Нет
 | OpenResty | [TAP](https://openresty.gitbooks.io/programming-openresty/content/testing/running-tests.html) | [Да](http://qa.openresty.org/) | Нет
 | Redis | [Собственный](http://download.redis.io/redis-stable/tests/unit/)? | [Да](http://ci.redis.io/) | Нет
-| OpenStack | SubUnit (Tempest) | [Да](http://logs.openstack.org/periodic-qa/) | Нет?
+| OpenStack | SubUnit (Tempest, testr) | [Да](http://logs.openstack.org/periodic-qa/) | Нет?
 | LLVM     | Собственный в функциональных тестах ([1](http://llvm.org/docs/CommandGuide/lit.html#test-run-output-format), [2](http://llvm.org/docs/TestSuiteMakefileGuide.html#generating-test-output)) и TAP/JUnit в юнит-тестах (Google Test) | Нет | Нет?
 | QEMU     | [Собственный](http://git.qemu.org/?p=qemu-test.git;a=summary) | Нет | Нет?
 | Xen      | Собственный | Да ([HTML](http://logs.test-lab.xenproject.org/osstest/), [xen-devel@](http://lists.xen.org/archives/html/xen-devel/)) | [Да](http://xenbits.xen.org/gitweb/?p=osstest.git;a=blob;f=README.email;h=e14a8160aac355dda2fa7b8636fb7162b70235b7;hb=HEAD) | Да?
