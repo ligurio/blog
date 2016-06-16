@@ -2,7 +2,7 @@
 date: 2014-11-03T00:00:00Z
 tags: ["openbsd", ""]
 title: Недостатки OpenBSD как десктопной ОС
-url: /2014/11/03/openbsd-disadvantages/
+url: /2014/11/03/openbsd-disadvantages.html
 ---
 
 Во время использования OpenBSD как десктопной операционной системы

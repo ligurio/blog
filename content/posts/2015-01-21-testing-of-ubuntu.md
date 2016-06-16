@@ -1,7 +1,7 @@
 ---
 date: 2015-01-21T00:00:00Z
 title: Тестирование Ubuntu
-url: /2015/01/21/testing-of-ubuntu/
+url: /2015/01/21/testing-of-ubuntu.html
 ---
 
 <img src="/images/logo-ubuntu.png" height="210" alt="Ubuntu" style="float:left">

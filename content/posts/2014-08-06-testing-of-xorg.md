@@ -1,7 +1,7 @@
 ---
 date: 2014-08-06T00:00:00Z
 title: Тестирование X.Org
-url: /2014/08/06/testing-of-xorg/
+url: /2014/08/06/testing-of-xorg.html
 ---
 
 <img src="/images/logo-xorg.png" alt="Xorg" style="float:left">

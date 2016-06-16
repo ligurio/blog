@@ -1,7 +1,7 @@
 ---
 date: 2016-02-02T00:00:00Z
 title: Интервью в Linux Format
-url: /2016/02/02/LXF-interview/
+url: /2016/02/02/LXF-interview.html
 ---
 
 В [январском номере журнала Linux

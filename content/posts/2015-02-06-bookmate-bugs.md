@@ -1,7 +1,7 @@
 ---
 date: 2015-02-06T00:00:00Z
 title: Проблемы с приложением Bookmate
-url: /2015/02/06/bookmate-bugs/
+url: /2015/02/06/bookmate-bugs.html
 ---
 
 Некоторое время назад я написал о том, что нашёл читалку своей мечты. Ею стало приложение [Bookmate](https://bookmate.com), [установленное](http://lifehacker.ru/2013/01/28/bookmate-nook/) на Nook Simple Touch.

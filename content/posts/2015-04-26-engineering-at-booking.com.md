@@ -1,7 +1,7 @@
 ---
 date: 2015-04-26T00:00:00Z
 title: Как устроен инжиниринг в Booking.com
-url: /2015/04/26/engineering-at-booking.com/
+url: /2015/04/26/engineering-at-booking.com.html
 ---
 
 [Алексей Махоткин](https://plus.google.com/events/cjqb4f10bgifntgol64120ue3p0)

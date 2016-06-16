@@ -1,7 +1,7 @@
 ---
 date: 2015-08-13T00:00:00Z
 title: Ещё один
-url: /2015/08/13/unofficial-bugtrackers/
+url: /2015/08/13/unofficial-bugtrackers.html
 ---
 
 Забавно видеть, что [идея](http://bugs.bronevichok.ru/wiki?name=FAQ) создания

@@ -1,7 +1,7 @@
 ---
 date: 2015-05-25T00:00:00Z
 title: 'OpenVZ: контейнеры не только для хостинга'
-url: /2015/05/25/openvz-users/
+url: /2015/05/25/openvz-users.html
 ---
 
 Так как я теперь много времени посвящаю проекту [OpenVZ](https://openvz.org/),

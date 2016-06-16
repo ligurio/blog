@@ -1,7 +1,7 @@
 ---
 date: 2016-03-11T00:00:00Z
 title: Тестируйте промежуточные версии
-url: /2016/03/11/myth-about-test-versions/
+url: /2016/03/11/myth-about-test-versions.html
 ---
 
 На этой неделе мы

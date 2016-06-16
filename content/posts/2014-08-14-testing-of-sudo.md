@@ -1,7 +1,7 @@
 ---
 date: 2014-08-14T00:00:00Z
 title: Тестирование sudo
-url: /2014/08/14/testing-of-sudo/
+url: /2014/08/14/testing-of-sudo.html
 ---
 
 <img src="/images/logo-sudo.png" alt="Sudo" style="float:left">

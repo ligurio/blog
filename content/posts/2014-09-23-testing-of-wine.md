@@ -1,7 +1,7 @@
 ---
 date: 2014-09-23T00:00:00Z
 title: Тестирование Wine
-url: /2014/09/23/testing-of-wine/
+url: /2014/09/23/testing-of-wine.html
 ---
 
 <img src="/images/logo-winehq.png" alt="Wine" style="float:left">

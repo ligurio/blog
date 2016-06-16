@@ -1,7 +1,7 @@
 ---
 date: 2015-05-15T00:00:00Z
 title: Тестирование ПО в Facebook
-url: /2015/05/15/testing-at-facebook/
+url: /2015/05/15/testing-at-facebook.html
 ---
 
 Инженер из Facebook рассказывает о тестировании в компании:

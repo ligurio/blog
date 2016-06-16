@@ -1,7 +1,7 @@
 ---
 date: 2015-04-16T00:00:00Z
 title: Тестирование ReactOS
-url: /2015/04/16/testing-of-reactos/
+url: /2015/04/16/testing-of-reactos.html
 ---
 
 <img src="/images/logo-reactos.png" height="110" alt="ReactOS" style="float:left">

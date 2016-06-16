@@ -2,7 +2,7 @@
 date: 2015-07-20T00:00:00Z
 tags: ["openbsd", ""]
 title: Порты для OpenBSD
-url: /2015/07/20/openbsd-ports/
+url: /2015/07/20/openbsd-ports.html
 ---
 
 Занимаясь

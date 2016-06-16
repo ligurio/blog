@@ -1,7 +1,7 @@
 ---
 date: 2015-02-11T00:00:00Z
 title: Тестирование продуктов Mozilla
-url: /2015/02/11/testing-at-mozilla/
+url: /2015/02/11/testing-at-mozilla.html
 ---
 
 Один из разработчиков продуктов Mozilla Foundation ответил на вопросы о тестировании

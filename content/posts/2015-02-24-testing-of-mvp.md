@@ -1,7 +1,7 @@
 ---
 date: 2015-02-24T00:00:00Z
 title: Тестирование MVP (Minimum viable product)
-url: /2015/02/24/testing-of-mvp/
+url: /2015/02/24/testing-of-mvp.html
 ---
 
 Глава про тестирование [MVP (Minimum viable product)](https://en.wikipedia.org/wiki/Minimum_viable_product)

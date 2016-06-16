@@ -1,7 +1,7 @@
 ---
 date: 2015-03-10T00:00:00Z
 title: Тестирование LXC (Linux Containers)
-url: /2015/03/10/testing-of-lxc/
+url: /2015/03/10/testing-of-lxc.html
 ---
 
 [LXC](https://linuxcontainers.org/) - это проект по разработке технологии

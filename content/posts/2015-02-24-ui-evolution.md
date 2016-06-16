@@ -1,7 +1,7 @@
 ---
 date: 2015-02-24T00:00:00Z
 title: Эволюция интерфейса Parallels Desktop
-url: /2015/02/24/ui-evolution/
+url: /2015/02/24/ui-evolution.html
 ---
 
 Нашёл старые скриншоты продуктов Parallels - Workstation и Desktop и

@@ -1,7 +1,7 @@
 ---
 date: 2015-03-03T00:00:00Z
 title: Тестирование утилиты awk
-url: /2015/03/03/testing-of-awk/
+url: /2015/03/03/testing-of-awk.html
 ---
 
 Организация [Usenix](https://www.usenix.org/) издаёт журнал ;login:

@@ -1,7 +1,7 @@
 ---
 date: 2015-05-26T00:00:00Z
 title: Выступление Майкла Видеуса, разработчика MySQL и MariaDB
-url: /2015/05/26/monty-talk/
+url: /2015/05/26/monty-talk.html
 ---
 
 Вчера мне [предоставилась](http://habrahabr.ru/company/acronis/blog/258601/)

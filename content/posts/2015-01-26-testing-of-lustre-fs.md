@@ -1,7 +1,7 @@
 ---
 date: 2015-01-26T00:00:00Z
 title: Тестирование LustreFS
-url: /2015/01/26/testing-of-lustre-fs/
+url: /2015/01/26/testing-of-lustre-fs.html
 ---
 
 <img src="/images/logo-lustrefs.png" height="210" alt="Lustre FS" style="float:left">

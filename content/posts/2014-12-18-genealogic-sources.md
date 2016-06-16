@@ -1,7 +1,7 @@
 ---
 date: 2014-12-18T00:00:00Z
 title: Генеалогические источники
-url: /2014/12/18/genealogic-sources/
+url: /2014/12/18/genealogic-sources.html
 ---
 
 При информации о родственниках для

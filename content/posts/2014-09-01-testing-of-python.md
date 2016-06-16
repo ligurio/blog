@@ -1,7 +1,7 @@
 ---
 date: 2014-09-01T00:00:00Z
 title: Тестирование Python
-url: /2014/09/01/testing-of-python/
+url: /2014/09/01/testing-of-python.html
 ---
 
 <img src="/images/logo-python.png" alt="Python" style="float:left">

@@ -1,7 +1,7 @@
 ---
 date: 2014-04-25T00:00:00Z
 title: r/fosstesting
-url: /2014/04/25/subreddit-about-foss-testing/
+url: /2014/04/25/subreddit-about-foss-testing.html
 ---
 
 Мир открытого ПО полон хороших проектов, а вместе с самими проектами

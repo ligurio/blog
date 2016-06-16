@@ -1,7 +1,7 @@
 ---
 date: 2014-08-21T00:00:00Z
 title: Тестирование ClamAV
-url: /2014/08/21/testing-of-clamav/
+url: /2014/08/21/testing-of-clamav.html
 ---
 
 <img src="/images/logo-clamav.jpg" alt="ClamAV" style="float:left">

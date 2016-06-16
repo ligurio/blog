@@ -1,7 +1,7 @@
 ---
 date: 2014-09-28T00:00:00Z
 title: Тестирование веб сервера nginx
-url: /2014/09/28/testing-of-nginx/
+url: /2014/09/28/testing-of-nginx.html
 ---
 
 В декабре 2013 года я был на [конференции ruBSD](https://tech.yandex.ru/events/yagosti/ruBSD/),

@@ -2,7 +2,7 @@
 date: 2015-02-05T00:00:00Z
 tags: ["openbsd", ""]
 title: OpenBSD 2014 в цифрах (англ.)
-url: /2015/02/05/openbsd-2014-by-the-numbers/
+url: /2015/02/05/openbsd-2014-by-the-numbers.html
 ---
 
 *«If you can’t measure it, you can’t improve it»* — Peter Drucker

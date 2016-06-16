@@ -1,7 +1,7 @@
 ---
 date: 2015-02-11T00:00:00Z
 title: Как обеспечивается качество продуктов Apple
-url: /2015/02/11/apple-test/
+url: /2015/02/11/apple-test.html
 ---
 
 Вчера [опубликовали](http://siliconrus.com/2015/02/apple-test/) мою статью

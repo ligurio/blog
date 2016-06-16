@@ -1,7 +1,7 @@
 ---
 date: 2014-07-29T00:00:00Z
 title: Тестирование OpenSMTPD
-url: /2014/07/29/testing-of-opensmtpd/
+url: /2014/07/29/testing-of-opensmtpd.html
 ---
 
 Я нахожу интересным узнавать о том, как тестируются открытые проекты.

@@ -2,7 +2,7 @@
 date: 2015-12-27T00:00:00Z
 tags: ["openbsd", ""]
 title: Простая возможность приобрести опыт в IT
-url: /2015/12/27/career-in-opensource/
+url: /2015/12/27/career-in-opensource.html
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F3s74-iMt4s" frameborder="0" allowfullscreen></iframe>

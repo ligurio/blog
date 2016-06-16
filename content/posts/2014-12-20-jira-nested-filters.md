@@ -1,7 +1,7 @@
 ---
 date: 2014-12-20T00:00:00Z
 title: Использование вложенных фильтров в Jira
-url: /2014/12/20/jira-nested-filters/
+url: /2014/12/20/jira-nested-filters.html
 ---
 
 **Внимание:**

@@ -1,7 +1,7 @@
 ---
 date: 2014-03-02T00:00:00Z
 title: Число грузовика и «self-employed business»
-url: /2014/03/02/track-number/
+url: /2014/03/02/track-number.html
 ---
 
 В управлении проектами есть такое понятие как [«bus factor»](http://en.wikipedia.org/wiki/Bus_factor).
