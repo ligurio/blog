@@ -46,7 +46,7 @@ tags: ["junit", "subunit", "testformats"]
 | Piglit | Собственный? | [Да](http://people.freedesktop.org/~nh/piglit/results/all/index.html) | Нет
 | Boost | Собственный? | [Да](http://www.boost.org/development/tests/develop/developer/summary.html) | Нет
 | FFMpeg | [Собственный](https://github.com/FFmpeg/FFmpeg/tree/master/tests)? | [Да](http://fate.ffmpeg.org/) | [Да](https://ffmpeg.org/fate.html) |
-| Ubuntu | [SubUnit/JUnit](http://www.tech-foo.net/making-the-most-of-subunit.html) | [Да](http://ci.ubuntu.com/) | Да ([1](https://launchpad.net/ubuntu-manual-tests), [2](http://www.theorangenotebook.com/2015/10/introducing-pilot.html), [3](https://launchpad.net/ubuntu-community-testing)) |
+| Ubuntu | [Раньше использовали JUnit, потом перешли на SubUnit](http://www.tech-foo.net/making-the-most-of-subunit.html) | [Да](http://ci.ubuntu.com/) | Да ([1](https://launchpad.net/ubuntu-manual-tests), [2](http://www.theorangenotebook.com/2015/10/introducing-pilot.html), [3](https://launchpad.net/ubuntu-community-testing)) |
 | PostgreSQL | Собственный? | Да ([1](http://www.pgbuildfarm.org/), [2](http://pgfoundry.org/mail/?group_id=1000040)) | [Да](http://www.pgbuildfarm.org/cgi-bin/register-form.pl)
 | ReactOS | Собственный? | [Нет](https://www.reactos.org/testman) | Нет
 | OpenResty | [TAP](https://openresty.gitbooks.io/programming-openresty/content/testing/running-tests.html) | [Да](http://qa.openresty.org/) | Нет
