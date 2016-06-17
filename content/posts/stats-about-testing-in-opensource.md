@@ -26,7 +26,7 @@ tags: ["junit", "subunit", "testformats"]
 | LTP (Linux Test Project) | [TAP](https://www.mail-archive.com/ltp-list@lists.sourceforge.net/msg21870.html)? | [Да](http://www.lineo.co.jp/ltp/linux-4.3-results/result.html) | Нет |
 | [CRIU](https://criu.org/)	  | [TAP](https://github.com/xemul/criu/commit/c4e13bc92816fa049a46fbc491a62098e422948c) | [Да](https://ci.openvz.org/view/CRIU/job/CRIU/job/CRIU-ppc64le/branch/criu-dev/102/tapResults/) | Нет |
 | OpenVZ  | - | Нет | Нет |
-| FreeBSD | [TAP](https://lists.freebsd.org/pipermail/freebsd-testing/2013-November/000095.html)? | [Да](https://jenkins.freebsd.org/job/FreeBSD_HEAD/95/testReport/) | Нет
+| FreeBSD | [JUnit](https://www.freebsd.org/news/status/report-2014-10-2014-12.html#Jenkins-Continuous-Integration-for-FreeBSD)/[TAP](https://lists.freebsd.org/pipermail/freebsd-testing/2013-November/000095.html) (используется фреймворк [kyua](https://github.com/jmmv/kyua)) | [Да](https://jenkins.freebsd.org/job/FreeBSD_HEAD/95/testReport/) | Нет
 | GIT SCM | [TAP](https://github.com/git/git/tree/master/t) | Нет | Нет
 | NGINX   | [TAP](http://hg.nginx.org/nginx-tests/)  | Нет | Нет
 | Perl 6  | [TAP](https://github.com/perl6/roast)  | [Да](http://www.cpantesters.org/) | [Да](http://wiki.cpantesters.org/wiki/QuickStart) |
