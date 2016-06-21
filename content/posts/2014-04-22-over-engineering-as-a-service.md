@@ -3,6 +3,7 @@ date: 2014-04-22T00:00:00Z
 hidefromhome: true
 title: Разница в подходах
 url: /2014/04/22/over-engineering-as-a-service.html
+draft: true
 ---
 
 Простой пример, демонстрирующий разницу в подходах к реализации получения *random seed*
