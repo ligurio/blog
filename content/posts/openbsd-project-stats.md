@@ -1,6 +1,6 @@
 +++
 date = "2016-05-18T18:39:24+03:00"
-tags = ["openbsd", ""]
+tags = ["openbsd", "opensource"]
 draft = true
 title = "Метрики проекта OpenBSD"
 +++

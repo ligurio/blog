@@ -1,6 +1,7 @@
 ---
 date: 2015-04-26T00:00:00Z
 title: Как устроен инжиниринг в Booking.com
+tags: ["softwaretesting"]
 url: /2015/04/26/engineering-at-booking.com.html
 ---
 

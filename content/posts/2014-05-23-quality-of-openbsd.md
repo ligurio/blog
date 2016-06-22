@@ -1,6 +1,6 @@
 ---
 date: 2014-05-23T00:00:00Z
-tags: ["openbsd", ""]
+tags: ["openbsd", "softwaretesting"]
 title: Обеспечение качества в проекте OpenBSD
 url: /2014/05/23/quality-of-openbsd.html
 ---

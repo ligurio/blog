@@ -1,6 +1,7 @@
 ---
 date: 2015-01-26T00:00:00Z
 title: Тестирование LustreFS
+tags: ["opensource", "interview", "softwaretesting"]
 url: /2015/01/26/testing-of-lustre-fs.html
 ---
 

@@ -1,6 +1,7 @@
 ---
 date: 2014-09-30T00:00:00Z
 title: Обеспечение качества данных в проекте OpenStreetMap
+tags: ["opensource", "interview"]
 url: /2014/09/30/quality-assurance-in-openstreetmap.html
 ---
 

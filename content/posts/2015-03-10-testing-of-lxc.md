@@ -1,6 +1,7 @@
 ---
 date: 2015-03-10T00:00:00Z
 title: Тестирование LXC (Linux Containers)
+tags: ["opensource", "interview", "softwaretesting"]
 url: /2015/03/10/testing-of-lxc.html
 ---
 

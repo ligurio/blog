@@ -1,6 +1,7 @@
 ---
 date: 2015-05-15T00:00:00Z
 title: Тестирование ПО в Facebook
+tags: ["softwaretesting"]
 url: /2015/05/15/testing-at-facebook.html
 ---
 

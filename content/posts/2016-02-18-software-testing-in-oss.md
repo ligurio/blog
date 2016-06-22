@@ -1,6 +1,7 @@
 ---
 date: 2016-02-18T00:00:00Z
 title: Клуб по интересам
+tags: ["opensource", "softwaretesting"]
 url: /2016/02/18/software-testing-in-oss.html
 ---
 

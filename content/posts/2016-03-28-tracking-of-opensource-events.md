@@ -1,6 +1,7 @@
 ---
 date: 2016-03-28T00:00:00Z
 title: Мониторинг событий в мире opensource
+tags: ["opensource"]
 url: /2016/03/28/tracking-of-opensource-events.html
 ---
 

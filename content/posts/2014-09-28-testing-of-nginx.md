@@ -1,6 +1,7 @@
 ---
 date: 2014-09-28T00:00:00Z
 title: Тестирование веб сервера nginx
+tags: ["opensource", "softwaretesting"]
 url: /2014/09/28/testing-of-nginx.html
 ---
 

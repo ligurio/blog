@@ -1,6 +1,7 @@
 ---
 date: 2015-04-02T00:00:00Z
 title: Тестирование Oracle VirtualBox
+tags: ["softwaretesting"]
 url: /2015/04/02/testing-of-virtualbox.html
 ---
 

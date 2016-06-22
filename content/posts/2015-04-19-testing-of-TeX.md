@@ -1,6 +1,7 @@
 ---
 date: 2015-04-19T00:00:00Z
 title: Тестирование системы компьютерной вёрстки TeX
+tags: ["opensource", "softwaretesting"]
 url: /2015/04/19/testing-of-TeX.html
 ---
 

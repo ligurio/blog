@@ -1,6 +1,7 @@
 ---
 date: 2014-09-23T00:00:00Z
 title: Тестирование Wine
+tags: ["opensource", "interview", "softwaretesting"]
 url: /2014/09/23/testing-of-wine.html
 ---
 

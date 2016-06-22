@@ -1,6 +1,7 @@
 ---
 date: 2015-04-16T00:00:00Z
 title: Тестирование ReactOS
+tags: ["opensource", "softwaretesting", "interview"]
 url: /2015/04/16/testing-of-reactos.html
 ---
 
