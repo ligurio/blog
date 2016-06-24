@@ -75,3 +75,4 @@ tags: ["junit", "subunit", "testformats", "opensource"]
 | runc      | [TAP](https://github.com/opencontainers/runc/pull/659) | Нет | Нет
 | Samba     | [SubUnit](https://www.jelmer.uk/262-subunit-usage-in-Samba.html) | [Нет](https://build.samba.org/build.cgi/build/58cb8d1cc9ab241c01b5e18d68aa2add6786ffab) | Нет?
 | Apache    | [TAP](http://svn.apache.org/viewvc/httpd/test/framework/trunk/) | Нет? | Нет
+| KVM		| [Собственный](http://www.linux-kvm.org/page/KVM-unit-tests) | Нет | Нет
