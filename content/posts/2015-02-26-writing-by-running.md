@@ -15,6 +15,7 @@ url: /2015/02/26/writing-by-running.html
 но в целом получается разборчиво.
 
 *Добавлено*: Claire Wyckoff делает [похожие
-рисунки](http://runningdrawing.tumblr.com/), но с использованием Nike+.
+рисунки](http://runningdrawing.tumblr.com/), но с использованием Nike+,
+а Стивен Лунд [рисует скетчи](https://img.dirty.ru/gps-art-1007400/).
 
 Fin
