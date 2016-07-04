@@ -19,9 +19,9 @@ url: /2016/04/04/backendsecret.html
 
 Мои твиты [доступны](http://backendsecret.ru/estet/) на сайте проекта.
 
-Есть и другие коллективные твиттеры: [переезд в другую страну](https://twitter.com/abroadunderhood),
-[твиттер жителей Питера](https://twitter.com/spbunderhood), разработчиков CSS,
-[дизайнеров](https://twitter.com/iamspacegray), [разработчиков на Javascript](https://twitter.com/jsunderhood)
-и [Ruby](https://twitter.com/rubyunderhood).  По-моему здесь не хватает
-коллективного твиттера для тестировщиков и системных разработчиков. И те и
-другие имеют богатые темы для обсуждения.
+Есть и другие коллективные твиттеры: [про опыт миграции в другую
+страну](https://twitter.com/abroadunderhood), [коллективный твиттер жителей
+Питера](https://twitter.com/spbunderhood) и
+[другие](https://twitter.com/estet/lists/list4/members). По-моему здесь не
+хватает коллективного твиттера для тестировщиков и системных разработчиков. И те
+и другие имеют богатые темы для обсуждения.
