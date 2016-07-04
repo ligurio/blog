@@ -1,5 +1,5 @@
-#baseurl = "https://bronevichok.ru/blog/"
-baseurl = "."
+baseurl = "https://bronevichok.ru/blog/"
+#baseurl = "."
 languagecode = "en-us"
 title = "Сергей Бронников"
 theme = "hugo-zen"
