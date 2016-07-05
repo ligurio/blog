@@ -76,3 +76,4 @@ tags: ["junit", "subunit", "testformats", "opensource"]
 | Samba     | [SubUnit](https://www.jelmer.uk/262-subunit-usage-in-Samba.html) | [Нет](https://build.samba.org/build.cgi/build/58cb8d1cc9ab241c01b5e18d68aa2add6786ffab) | Нет?
 | Apache    | [TAP](http://svn.apache.org/viewvc/httpd/test/framework/trunk/) | Нет? | Нет
 | KVM		| [Собственный](http://www.linux-kvm.org/page/KVM-unit-tests) | Нет | Нет
+| Bazaar	| [SubUnit](http://doc.bazaar.canonical.com/bzr.2.6/downloads/pdf-developers/bzr-en-testing-guide.pdf) | Нет | Нет
