@@ -77,3 +77,4 @@ tags: ["junit", "subunit", "testformats", "opensource"]
 | Apache    | [TAP](http://svn.apache.org/viewvc/httpd/test/framework/trunk/) | Нет? | Нет
 | KVM		| [Собственный](http://www.linux-kvm.org/page/KVM-unit-tests) | Нет | Нет
 | Bazaar	| [SubUnit](http://doc.bazaar.canonical.com/bzr.2.6/downloads/pdf-developers/bzr-en-testing-guide.pdf) | Нет | Нет
+| libinput  | TAP/SubUnit ([используется](https://wayland.freedesktop.org/libinput/doc/0.20.0/test-suite.html) фреймворк [Check](http://check.sourceforge.net/doc/check_html/check_4.html#Subunit-Support)) | Нет | Нет
