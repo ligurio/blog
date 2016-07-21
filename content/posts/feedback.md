@@ -25,7 +25,7 @@ Cбор данных об использовании ПО это прерога�
 NetBSD](http://dmesgd.nycbug.org/index.cgi?action=dmesgd&do=index&fts=netbsd)
 (интересно, что репортов от пользователей OpenBSD там
 [больше](http://dmesgd.nycbug.org/index.cgi?action=dmesgd&do=stats), чем для
-FreeBSD), [Syncthing](https://data.syncthing.net/),
+FreeBSD), [BSDStats](http://bsdstats.org/), [Syncthing](https://data.syncthing.net/),
 [MariaDB](https://mariadb.org/feedback_plugin/),
 [OpenVZ](http://stats.openvz.org/),
 [ClamAV](http://www.clamav.net/documents/clamav-community-threat-tracking-system).
