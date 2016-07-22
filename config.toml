@@ -10,7 +10,7 @@ canonifyurls = true
 uglyurls = true
 disablePathToLower = true
 MetaDataFormat = "toml"
-copyright = "2014-2016 <a rel='author' href='/about/'>Сергей Бронников</a>"
+copyright = "Сергей Бронников, 2014-2016"
 rssuri = "atom.xml"
 [indexes]
 	category = "categories"
