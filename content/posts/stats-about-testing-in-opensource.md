@@ -1,7 +1,7 @@
 ---
 date: 2016-06-10T00:00:00Z
 title: Статистика о тестировании в открытых проектах
-tags: ["junit", "subunit", "testformats", "opensource"]
+tags: ["junit", "subunit", "testformats", "opensource", "openvz"]
 ---
 
 Мне нужно написать парсеры тестовых отчётов в форматах JUnit, TAP и SubUnit.

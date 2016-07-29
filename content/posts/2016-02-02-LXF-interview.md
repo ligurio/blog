@@ -1,7 +1,7 @@
 ---
 date: 2016-02-02T00:00:00Z
 title: Интервью в Linux Format
-tags: ["opensource", "interview"]
+tags: ["opensource", "interview", "openvz"]
 url: /2016/02/02/LXF-interview.html
 ---
 
