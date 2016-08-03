@@ -11,7 +11,9 @@ tags: ["opensource", "openvz"]
 [блоге компании](https://habrahabr.ru/company/virtuozzo/blog/306466/),
 [LWN](http://lwn.net/Articles/695362/),
 [InfoWorld](http://www.infoworld.com/article/3099981/virtualization/openvz-70-runs-linux-vms-like-containers.html),
-почтовые рассылки, подкасты [SDcast](https://sdcast.ksdaemon.ru/) и Радио-Т,
+почтовые рассылки, подкасты
+[SDcast](https://sdcast.ksdaemon.ru/2016/08/sdcast-47/) и
+[Радио-Т](https://radio-t.com/p/2016/07/31/podcast-506/),
 [Опеннет](https://www.opennet.ru/opennews/art.shtml?num=44848) и
 [ЛОР](https://www.linux.org.ru/news/linux-general/12764585).
 
