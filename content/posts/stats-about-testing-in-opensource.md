@@ -78,3 +78,4 @@ tags: ["junit", "subunit", "testformats", "opensource", "openvz"]
 | KVM		| [Собственный](http://www.linux-kvm.org/page/KVM-unit-tests) | Нет | Нет
 | Bazaar	| [SubUnit](http://doc.bazaar.canonical.com/bzr.2.6/downloads/pdf-developers/bzr-en-testing-guide.pdf) | Нет | Нет
 | libinput  | TAP/SubUnit ([используется](https://wayland.freedesktop.org/libinput/doc/0.20.0/test-suite.html) фреймворк [Check](http://check.sourceforge.net/doc/check_html/check_4.html#Subunit-Support)) | Нет | Нет
+| xfs-tests | [Собственный](http://www.xfs.org/index.php/Getting_the_latest_source_code)  | |
