@@ -2,6 +2,7 @@
 date: 2016-03-24T00:00:00Z
 title: Музыка для тяжёлых тренировок
 url: /2016/03/24/running-music.html
+tags: ["running", "personal"]
 ---
 
 Простите что снова о беге. ©

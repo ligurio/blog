@@ -1,7 +1,7 @@
 ---
 date: 2015-03-03T00:00:00Z
 title: Тестирование утилиты awk
-tags: ["opensource", "interview", "softwaretesting"]
+tags: ["opensource", "softwaretesting"]
 url: /2015/03/03/testing-of-awk.html
 ---
 

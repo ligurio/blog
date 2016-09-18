@@ -1,8 +1,8 @@
 ---
 date: 2014-05-23T00:00:00Z
-tags: ["openbsd", "softwaretesting"]
 title: Обеспечение качества в проекте OpenBSD
 url: /2014/05/23/quality-of-openbsd.html
+tags: ["openbsd", "softwaretesting"]
 ---
 
 Так как я давно слежу за проектом OpenBSD и даже [немного участвую](http://openports.se/search.php?stype=maintainer&so=estetus) в нём,

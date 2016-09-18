@@ -2,6 +2,7 @@
 date: 2015-03-21T00:00:00Z
 title: Открытые дефекты в закрытом ПО (Community bug reports)
 url: /2015/03/21/known-defects-in-proprietary-software.html
+tags: ["softwaretesting"]
 ---
 
 В предыдущих своих постах я рассказал о существующих базах данных о дефектах

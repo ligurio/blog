@@ -2,6 +2,7 @@
 date: 2015-04-26T00:00:00Z
 title: Первые проблемы с Apple Watch
 url: /2015/04/26/Apple-iWatch-bugs.html
+tags: ["softwaretesting"]
 ---
 
 Я ранее [писал](/2015/03/21/known-defects-in-proprietary-software.html)

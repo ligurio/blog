@@ -2,6 +2,7 @@
 date: 2016-03-11T00:00:00Z
 title: Тестируйте промежуточные версии
 url: /2016/03/11/myth-about-test-versions.html
+tags: ["opensource", "softwaretesting", "openvz"]
 ---
 
 На этой неделе мы

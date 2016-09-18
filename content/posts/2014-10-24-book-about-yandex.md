@@ -2,6 +2,7 @@
 date: 2014-10-24T00:00:00Z
 title: Яндекс.Книга
 url: /2014/10/24/book-about-yandex.html
+tags: ["book"]
 ---
 
 На днях дочитал книжку

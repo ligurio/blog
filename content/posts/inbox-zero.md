@@ -1,6 +1,7 @@
 ---
 date: 2016-07-25T00:00:00Z
 title: Inbox Zero не только для почты
+tags: ["productivity"]
 ---
 
 В мае прошлого года [написал](/2015/05/27/lifehacks.html), что опробовал

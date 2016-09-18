@@ -2,6 +2,7 @@
 date: 2014-09-11T00:00:00Z
 title: Повышение качества кода с минимальными затратами
 url: /2014/09/11/quality-of-code.html
+tags: ["opensource", "opensmtpd", "openbsd", "interview", "softwaretesting"]
 ---
 
 <img src="/images/continuous-integration.png" alt="Continuous Integration" style="float:left">

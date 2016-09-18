@@ -2,6 +2,7 @@
 date: 2015-03-13T00:00:00Z
 title: Открытые базы данных дефектов в закрытом ПО
 url: /2015/03/13/bugs-in-closed-software-2.html
+tags: ["softwaretesting"]
 ---
 
 В [предыдущем посте](/2015/03/12/bugs-in-closed-software-1.html)

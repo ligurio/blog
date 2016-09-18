@@ -1,6 +1,7 @@
 ---
 date: 2016-07-04T00:00:00Z
 title: Обратная связь для разработчика ПО
+tags: ["opensource", "softwaretesting"]
 ---
 
 <!--

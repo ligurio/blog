@@ -2,6 +2,7 @@
 date: 2014-04-27T00:00:00Z
 title: Как найти аккаунты друзей во всех социальных сетях
 url: /2014/04/27/amazing-hiring-plugin.html
+tags: ["productivity"]
 ---
 
 Может вы уже слышали, что компания [Amazing Hiring](http://amazinghiring.com)

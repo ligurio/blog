@@ -2,6 +2,7 @@
 date: 2014-09-27T00:00:00Z
 title: Финансовый учёт с ledger
 url: /2014/09/27/personal-finances-with-ledger-1.html
+tags: ["opensource", "openbsd", "productivity"]
 ---
 
 Несколько лет назад передо мной встала задача вести учёт денежных

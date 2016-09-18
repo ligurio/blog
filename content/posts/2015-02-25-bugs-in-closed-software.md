@@ -2,6 +2,7 @@
 date: 2015-02-25T00:00:00Z
 title: Дефекты в закрытом ПО
 url: /2015/02/25/bugs-in-closed-software.html
+tags: ["softwaretesting"]
 ---
 
 <img src="/images/beets.png" width="600" alt="Баги, очень много багов">

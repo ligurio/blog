@@ -2,6 +2,7 @@
 date: 2015-07-15T00:00:00Z
 title: Полезности в .profile
 url: /2015/07/15/useful-shell-config.html
+tags: ["opensource", "productivity", "openbsd", "personal"]
 ---
 
 Я всё ещё активно пользуюсь командной строкой несмотря на то, что за последнее

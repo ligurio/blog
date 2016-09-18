@@ -2,6 +2,7 @@
 date: 2016-04-04T00:00:00Z
 title: Ведущий коллективного твиттера
 url: /2016/04/04/backendsecret.html
+tags: ["opensource", "softwaretesting"]
 ---
 
 На прошлой неделе я вёл совместный твиттер [разработчиков

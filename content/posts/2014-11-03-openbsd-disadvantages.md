@@ -1,6 +1,6 @@
 ---
 date: 2014-11-03T00:00:00Z
-tags: ["openbsd"]
+tags: ["openbsd", "productivity"]
 title: Недостатки OpenBSD как настольной ОС
 url: /2014/11/03/openbsd-disadvantages.html
 ---

@@ -2,6 +2,7 @@
 date: 2015-03-29T00:00:00Z
 title: Качество кода в Гугл
 url: /2015/03/29/code-quality-at-google.html
+tags: ["interview", "softwaretesting"]
 ---
 
 Инженеры и интерны из Google [рассказывают](https://www.quora.com/What-is-the-code-quality-at-Google-like)

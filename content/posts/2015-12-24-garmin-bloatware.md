@@ -2,6 +2,7 @@
 date: 2015-12-24T00:00:00Z
 title: Особенности ПО от Garmin
 url: /2015/12/24/garmin-bloatware.html
+tags: ["softwaretesting"]
 ---
 
 Спортивными часами от Garmin я пользуюсь уже

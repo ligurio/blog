@@ -2,6 +2,7 @@
 date: 2014-05-01T00:00:00Z
 title: Предсказание количества дефектов в тестировании
 url: /2014/05/01/software-reliability-model.html
+tags: ["softwaretesting"]
 ---
 
 Несмотря на то, что мы мы используем ручное тестирование для Parallels Cloud Server,

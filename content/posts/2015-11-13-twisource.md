@@ -2,6 +2,7 @@
 date: 2015-11-13T00:00:00Z
 title: Про Twisource на английском
 url: /2015/11/13/twisource.html
+tags: ["opensource", "productivity"]
 ---
 
 Недавно я [рассказал](http://blog.bronevichok.ru/2015/10/23/twisource.html) про

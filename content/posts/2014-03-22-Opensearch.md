@@ -2,6 +2,7 @@
 date: 2014-03-22T00:00:00Z
 title: Добавление поиска по блогу
 url: /2014/03/22/Opensearch.html
+tags: ["blog"]
 ---
 
 Для удобства поиска по блогу добавил [OpenSearch](http://ru.wikipedia.org/wiki/OpenSearch),

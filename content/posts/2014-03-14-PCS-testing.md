@@ -2,6 +2,7 @@
 date: 2014-03-14T00:00:00Z
 title: Тестирование Parallels Cloud Server
 url: /2014/03/14/PCS-testing.html
+tags: ["softwaretesting"]
 ---
 
 Вот уже пять лет как я занимаюсь тестированием нашего флагманского продукта -

@@ -1,6 +1,7 @@
 ---
 date: 2016-09-18T00:00:00Z
 title: На работу на велосипеде
+tags: ["bike", "personal"]
 ---
 
 <img src="/images/fixed-gear-1.jpg" align="center">

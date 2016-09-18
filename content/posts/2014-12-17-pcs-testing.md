@@ -2,6 +2,7 @@
 date: 2014-12-17T00:00:00Z
 title: Автоматическое тестирование Parallels Cloud Server (англ.)
 url: /2014/12/17/pcs-testing.html
+tags: ["opensource", "softwaretesting"]
 ---
 
 Полгода назад я опубликовал статью о [тестировании Parallels Cloud Server](http://habrahabr.ru/post/204292/).

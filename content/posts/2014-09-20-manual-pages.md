@@ -2,6 +2,7 @@
 date: 2014-09-20T00:00:00Z
 title: Что пишут в разделе BUGS в документации
 url: /2014/09/20/manual-pages.html
+tags: ["opensource", "openbsd", "softwaretesting"]
 ---
 
 В документации есть секция BUGS, которая, согласно

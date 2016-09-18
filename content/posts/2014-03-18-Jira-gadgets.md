@@ -2,6 +2,7 @@
 date: 2014-03-18T00:00:00Z
 title: Гаджеты в Джире
 url: /2014/03/18/Jira-gadgets.html
+tags: ["projectmanagement", "softwaretesting"]
 ---
 
 В нашей компании в качестве таск- и багтрекера используется Atlassian Jira.

@@ -2,6 +2,7 @@
 date: 2014-12-15T00:00:00Z
 title: Форматы тестовых результатов
 url: /2014/12/15/test-results-formats.html
+tags: ["opensource", "softwaretesting", "recidive"]
 ---
 
 Каждый более-менее серьёзный тест после завершения тестирования

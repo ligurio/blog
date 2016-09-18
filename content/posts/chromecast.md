@@ -3,6 +3,7 @@ date: 2016-04-25T00:00:00Z
 title: Использование Chromecast
 draft: true
 url: /2016/04/25/chromecast/
+tags: ["opensource"]
 ---
 
 Chromecast

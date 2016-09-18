@@ -2,6 +2,7 @@
 date: 2014-04-04T00:00:00Z
 title: Новые статьи по почте
 url: /2014/04/04/email-subscription.html
+tags: ["blog"]
 ---
 
 Продолжаю обживать блог.

@@ -1,7 +1,7 @@
 ---
 date: 2015-10-23T00:00:00Z
 title: Клиент мечты
-tags: ["opensource", "openvz"]
+tags: ["opensource", "openvz", "productivity"]
 url: /2015/10/23/twisource.html
 ---
 

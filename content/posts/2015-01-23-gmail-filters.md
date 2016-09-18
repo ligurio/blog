@@ -2,6 +2,7 @@
 date: 2015-01-23T00:00:00Z
 title: Фильтры для почты в GMail
 url: /2015/01/23/gmail-filters.html
+tags: ["productivity", "personal"]
 ---
 
 Если вы активный пользователь GMail, то вам пригодятся знания

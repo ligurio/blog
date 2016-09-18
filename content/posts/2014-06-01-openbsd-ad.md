@@ -1,8 +1,8 @@
 ---
 date: 2014-06-01T00:00:00Z
-tags: ["openbsd", ""]
 title: Реклама OpenBSD
 url: /2014/06/01/openbsd-ad.html
+tags: ["openbsd", "opensource"]
 ---
 
 *«Если бы у меня было девять часов на то, чтобы срубить дерево,
