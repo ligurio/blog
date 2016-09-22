@@ -1,41 +1,129 @@
 +++
 date = "2050-02-28T18:39:24+03:00"
-slug = ""
 tags = ["", ""]
-title = "Списки для чтения (прикреплено)"
+title = "Список для чтения (прикреплено)"
+showthedate = false
 +++
 
+## Почитать
+
+* Я здесь, чтобы победить
+* Будь лучшей версией себя
+* PR высокого полета
+* Волшебство по расчету
+* Виктор Папанек. Дизайн для реального мира.
+* Дональд Норман. Дизайн привычных вещей.
+* Адриан Форти. Объекты желания: дизайн и общество с 1750.
+* Edward Tufte The Visual Display of Quantitative Information
+Envisioning Information. Visual Explanations: Images and Quantities, Evidence and Narrative Beautiful Evidence.
+* Н. Н. Талеб. Одураченные случайностью. Скрытая роль шанса на рынках и в жизни.
+* Джим Кемп. Сначала скажите "Нет"
+* Г. П. Щедровицкий Организация, руководство, управление
+* А. П. Прохоров Русская модель управления
+* Arthur Levitt "Take on the Street: What Wall Street and Corporate America Dont Want You to Know"
+* Cristiane Correa "DREAM BIG"
+* Howard Marks "The Most Important Thing Illuminated: Uncommon Sense for the Thoughtful Investor"
+* Peter D. Kaufman "Poor Charlies Almanack: The Wit and Wisdom of Charles T. Munger"
+* Джон К. Богл "Руководство разумного инвестора. Надежный способ получения прибыли на фондовом рынке"
+* Джон Мейнард Кейнс "Essays In Persuasion"
+* Fred Schwed "Where Are the Customers Yachts: or A Good Hard Look at Wall Street"
+* Джон Брукс "Бизнес-приключения. 12 классических историй Уолл-cтрит"
+* Джон Богл "Инвесторы против спекулянтов"
+* Уильям Торндайк "Правила лучших CEO"
+* Джек Уэлч, Джон А. Бирн "Джек. Мои годы в GE"
+* Warren E. Buffett (Author), Lawrence A. Cunningham "The Essays of Warren Buffett: Lessons for Corporate America"
+* Timothy F. Geithner "Stress Test: Reflections on Financial Crises"
+* Филип А. Фишер "Обыкновенные акции и необыкновенные доходы"
+* Бенджамин Грэхем, Дэвид Додд "Анализ ценных бумаг"
+* Бенджамин Грэм "Разумный инвестор. Полное руководство по стоимостному инвестированию"
+* Джин Ким, Джордж Спаффорд, Кевин Бер "Проект «Феникс». Роман о том, как DevOps меняет бизнес к лучшему."
+* Роберт И. Саттон "Не работайте с м*даками. И что делать, если они вокруг вас."
+* Коллинз "От хорошего к великому"
+* Гоулмен "Эмоциональный интеллект в бизнесе"
+* Ленсиони "Пять пороков команды. Притчи о лидерстве"
+* Джордж Оруэлл "1984"
+* Рэй Брэдбери "451 градус по Фаренгейту"
+* Симон Соловейчик "Учение с увлечением"
+* Илья Ильф "Из записных книжек 1925 – 1937 гг."
+* Татьяна Задорожная "Как нарисовать любую историю"
+* Арбон Д.., Каролло Д.., Уиттакер Д. "Как тестируют в Google"
+* Павел Безручко "Без воды: Как писать предложения и отчеты для первых лиц"
+* Бриджид Шульте "Мне некогда!"
+* Константин Харский "Ценностное управление для бизнеса"
+* Джозеф Гренни, Керри Паттерсон, Рон Макмиллан, Эл Свитцлер "Трудные диалоги"
+* Девора Зак "Управление для тех, кто не любит управлять"
+* Сирил Норткот Паркинсон "Законы Паркинсона"
+* Logo "The Open Source Way"
+* William Strunk "The Elements of Style"
+* Ог Мандино "Величайший торговец в мире"
+* Кеннет Бланшар, Спенсер Джонсон "Одноминутный менеджер"
+* Спенсер Джонсон "Познай свою мечту, или где мой Сыр"
+* Джеймс Аллен "Как человек мыслит"
+* Джим Роджерс "Будущее глазами одного из самых влиятельных инвесторов в мире"
+* Элина Слободянюк "Настольная книга копирайтера"
+* Снайдер "Курс выживания для подростков"
+* Сергей Довлатов "Заповедник"
+* Адам Грант "Брать или отдавать? Новый взгляд на психологию отношений"
+* Д.С. Букин "Развитие памяти по методикам спецслужб"
+* Евгений Карасюк "Слон на танцполе. Как Герман Греф и его команда учат Сбербанк танцевать"
+* Дэвид Кушнер "Властелины Doom. Как двое парней создали игровую индустрию и воспитали целое поколение геймеров"
+* Корней Чуковский "Высокое искусство"
+* Ричард Докинз "Самое грандиозное шоу на Земле: доказательства эволюции"
+* Ицхак Калдерон Адизес "Стили менеджмента – эффективные и неэффективные"
+* Ицхак Калдерон Адизес "Идеальный руководитель"
+* Дэн Хёрли "Стань умнее"
+* Эдвардс Деминг "Выход из кризиса. Новая парадигма управления людьми, системами и процессами."
+* Гарри Лорейн "Развитие памяти"
+* Дэн Кеннеди "Секретное оружие маркетолога. Найдите ваше уникальное прeимущество, превратите его в мощное рекламное сообщение и донесите до правильных клиентов"
+* Дмитрий Чернышев "Чем заняться вечером с семьей на даче без интернета"
+* Дмитрий Чернышев "Как люди думают?"
+* Фил Барден "Взлом маркетинга"
+* Габриэль Гарсиа Маркес "Осень патриарха"
+* Борис Акунин "Черный город"
+* Дэн Хиз, Чип Хиз "Ловушки мышления. Как принимать решения, о которых вы не пожалеете."
+* Пит Фитзингер, Скотт Дуглас "Бег по шоссе для серьезных бегунов."
+* Пол Экман "Психология эмоций. Я знаю, что ты чувствуешь"
+* Том Демарко, Тимоти Листер, Стив Макменамин, Джеймс Робертсон, Сьюзан Робертсон, Питер Хрущка
+"Балдеющие от адреналина и зомбированные шаблонами. Паттерны поведения проектных команд."
+* Леннарт Дальгрен "Вопреки абсурду, или как я покорял Россию, а она – меня. Воспоминания бывшего генерального директора IKEA в России"
+* Пол Джоанидис "Библия секса"
+* Кейт Фокс "Наблюдая за англичанами. Скрытые правила поведения."
+* Джек Кэнфилд, Лес Хьюитт, Марк Виктор Хансен "Цельная жизнь. Ключевые навыки для достижения ваших целей"
+
+## Списки книг
+
+* [100 лучших романов ⅩⅩⅠ века от Афиши](http://mag.afisha.ru/stories/100-luchshih-romanov-veka/100-luchshih-romanov-veka/)
+* [Рекомендации от Галина Юзефович](https://meduza.io/specials/books)
 * [Источники книг](http://bibla.ru/estet/lists/%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8-%D0%BA%D0%BD%D0%B8%D0%B3/)
 * [Рекомендательный сервис](http://nocover.ru/)
-
-* [Белоусов](https://vc.ru/p/belousov-recommends)
+* [Сергей Белоусов](https://vc.ru/p/belousov-recommends)
 * [8 books to make you a more open leader](https://opensource.com/open-organization/15/12/8-books-make-you-better-leader)
 * [Best business books for a startup CEO](http://schoolofherring.com/2015/03/01/best-business-books-for-a-startup-ceo/)
 * [Книг о детях](http://medium.com/@v.tvoih.rukah/%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8-%D0%BE-%D0%B4%D0%B5%D1%82%D1%8F%D1%85-a8ce1b7b79ae#.1xc9tz3lm)
 * [10 Books that will Substitute A Computer Science Degree](http://www.techoozie.com/10-books-that-will-substitute-a-computer-science-degree/)
 * [30 books everyone in software business should read (and why)](http://www.dextronet.com/micro-isv-insights/2012/01/30-books-everyone-in-software-business-should-read-and-why/)
-* [whichbook](http://www.openingthebook.com/whichbook/)
+* [Whichbook](http://www.openingthebook.com/whichbook/)
 * ["Ask HN: What is the most mind blowing book you've ever read?"](https://news.ycombinator.com/item?id=9674080)
 * [Book reviews from Joel Spolsky](http://www.joelonsoftware.com/navLinks/fog0000000262.html)
 * [Downloadable GNU/Linux books](http://cfajohnson.com/computers/pdflinks.shtml)
-* [N+1 полезных книг о бизнесе](http://habrahabr.ru/company/mosigra/blog/110797/)
+* [Хабрахабр: N+1 полезных книг о бизнесе](http://habrahabr.ru/company/mosigra/blog/110797/)
 * [OpenBSD books](http://www.openbsd.org/books.html)
 * [Science Fiction](http://www.box.net/shared/static/a6omcl2la0ivlxsn3o8m.jpg)
-* [Software testing](http://www.testingreferences.com/testingliterature.php)
-* [Software testing](http://www.satisfice.com/bibliography.shtml)
-* [Tavis Ormandy](http://taviso.decsystem.org/books.html)
+* [Тестирование ПО](http://www.testingreferences.com/testingliterature.php)
+* [Тестирование ПО](http://www.satisfice.com/bibliography.shtml)
+* [Книги от Tavis Ormandy](http://taviso.decsystem.org/books.html)
 * [The Hacker Shelf](http://hackershelf.com/browse/)
 * [Воспитание детей](http://bibla.ru/estet/lists/%D0%B2%D0%BE%D1%81%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B4%D0%B5%D1%82%D0%B5%D0%B9/)
 * [Детская литература](http://www.g0l.ru/blog/n3029)
-* [Для начинающих изучать программирование](http://habrahabr.ru/post/143737/)
-* [Изучение ассемблера](http://habrahabr.ru/blogs/asm/131971/)
+* [Хабрахабр: Для начинающих изучать программирование](http://habrahabr.ru/post/143737/)
 * [Книги для родителей](http://bibla.ru/estet/lists/%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8-%D0%B4%D0%BB%D1%8F-%D1%80%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%B9/)
-* [Книги для стартаперов](http://habrahabr.ru/blogs/books/117681/)
 * [Книжки по программированию для маленьких](http://sdfgh153.livejournal.com/95604.html)
 * [Книжная полка Сергея Бронникова](http://bibla.ru/estet/lists/%D0%BA%D0%BD%D0%B8%D0%B6%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%BB%D0%BA%D0%B0-%D1%81%D0%B5%D1%80%D0%B3%D0%B5%D1%8F-%D0%B1%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0/)
 * [Мигель де Икаса](http://habrahabr.ru/blogs/UNIX/127970/)
 * [Список 100 книг для школьников](http://ksonin.livejournal.com/422794.html)
 * [Стратоплан](http://www.stratoplan.ru/books/)
-* [Много книг, хороших и разных](http://geektimes.ru/post/77016/)
-* [Запасаемся на зиму](http://geektimes.ru/post/76714/)
+* [Geektimes: Много книг, хороших и разных](http://geektimes.ru/post/77016/)
+* [Geektimes: Запасаемся на зиму](http://geektimes.ru/post/76714/)
 * [Бесплатные книги](http://habrahabr.ru/post/128280/)
+* [N+1 полезных книг о бизнесе](https://habrahabr.ru/company/mosigra/blog/110797/)
+* [Моя библиотека для IT-менеджера](https://habrahabr.ru/post/239425/)
