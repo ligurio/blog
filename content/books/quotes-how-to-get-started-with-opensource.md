@@ -1,6 +1,5 @@
 +++
 date = "2015-06-25T18:39:24+03:00"
-slug = ""
 tags = ["", ""]
 title = "Open Voices, Issue 9: How to get started with open source"
 +++

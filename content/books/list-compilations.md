@@ -7,6 +7,7 @@ showthedate = false
 
 ## Почитать
 
+* Джек Дэниелс От 800 метров до марафона
 * Максим Ильяхов Пиши, сокращай
 * Йона Бергер Заразительный
 * Джеральд Вайнберг Закон малинового варенья и еще 103 секрета консалтинга
@@ -96,37 +97,31 @@ Envisioning Information. Visual Explanations: Images and Quantities, Evidence an
 ## Списки книг
 
 * [100 лучших романов ⅩⅩⅠ века от Афиши](http://mag.afisha.ru/stories/100-luchshih-romanov-veka/100-luchshih-romanov-veka/)
-* [Рекомендации от Галина Юзефович](https://meduza.io/specials/books)
+* [Рекомендации от Галины Юзефович](https://meduza.io/specials/books)
 * [Источники книг](http://bibla.ru/estet/lists/%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8-%D0%BA%D0%BD%D0%B8%D0%B3/)
 * [Рекомендательный сервис](http://nocover.ru/)
 * [Сергей Белоусов](https://vc.ru/p/belousov-recommends)
 * [8 books to make you a more open leader](https://opensource.com/open-organization/15/12/8-books-make-you-better-leader)
 * [Best business books for a startup CEO](http://schoolofherring.com/2015/03/01/best-business-books-for-a-startup-ceo/)
-* [Книг о детях](http://medium.com/@v.tvoih.rukah/%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8-%D0%BE-%D0%B4%D0%B5%D1%82%D1%8F%D1%85-a8ce1b7b79ae#.1xc9tz3lm)
-* [10 Books that will Substitute A Computer Science Degree](http://www.techoozie.com/10-books-that-will-substitute-a-computer-science-degree/)
 * [30 books everyone in software business should read (and why)](http://www.dextronet.com/micro-isv-insights/2012/01/30-books-everyone-in-software-business-should-read-and-why/)
 * [Whichbook](http://www.openingthebook.com/whichbook/)
 * ["Ask HN: What is the most mind blowing book you've ever read?"](https://news.ycombinator.com/item?id=9674080)
 * [Book reviews from Joel Spolsky](http://www.joelonsoftware.com/navLinks/fog0000000262.html)
-* [Downloadable GNU/Linux books](http://cfajohnson.com/computers/pdflinks.shtml)
 * [Хабрахабр: N+1 полезных книг о бизнесе](http://habrahabr.ru/company/mosigra/blog/110797/)
 * [OpenBSD books](http://www.openbsd.org/books.html)
-* [Science Fiction](http://www.box.net/shared/static/a6omcl2la0ivlxsn3o8m.jpg)
 * [Тестирование ПО](http://www.testingreferences.com/testingliterature.php)
 * [Тестирование ПО](http://www.satisfice.com/bibliography.shtml)
 * [Книги от Tavis Ormandy](http://taviso.decsystem.org/books.html)
 * [The Hacker Shelf](http://hackershelf.com/browse/)
 * [Воспитание детей](http://bibla.ru/estet/lists/%D0%B2%D0%BE%D1%81%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B4%D0%B5%D1%82%D0%B5%D0%B9/)
-* [Детская литература](http://www.g0l.ru/blog/n3029)
 * [Хабрахабр: Для начинающих изучать программирование](http://habrahabr.ru/post/143737/)
-* [Книги для родителей](http://bibla.ru/estet/lists/%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8-%D0%B4%D0%BB%D1%8F-%D1%80%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%B9/)
-* [Книжки по программированию для маленьких](http://sdfgh153.livejournal.com/95604.html)
 * [Книжная полка Сергея Бронникова](http://bibla.ru/estet/lists/%D0%BA%D0%BD%D0%B8%D0%B6%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%BB%D0%BA%D0%B0-%D1%81%D0%B5%D1%80%D0%B3%D0%B5%D1%8F-%D0%B1%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0/)
-* [Мигель де Икаса](http://habrahabr.ru/blogs/UNIX/127970/)
-* [Список 100 книг для школьников](http://ksonin.livejournal.com/422794.html)
-* [Стратоплан](http://www.stratoplan.ru/books/)
 * [Geektimes: Много книг, хороших и разных](http://geektimes.ru/post/77016/)
 * [Geektimes: Запасаемся на зиму](http://geektimes.ru/post/76714/)
 * [Бесплатные книги](http://habrahabr.ru/post/128280/)
-* [N+1 полезных книг о бизнесе](https://habrahabr.ru/company/mosigra/blog/110797/)
 * [Моя библиотека для IT-менеджера](https://habrahabr.ru/post/239425/)
+* [Книг о детях](http://medium.com/@v.tvoih.rukah/%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8-%D0%BE-%D0%B4%D0%B5%D1%82%D1%8F%D1%85-a8ce1b7b79ae#.1xc9tz3lm)
+* [Книжки по программированию для маленьких](http://sdfgh153.livejournal.com/95604.html)
+* [Список 100 книг для школьников](http://ksonin.livejournal.com/422794.html)
+* [Книги для родителей](http://bibla.ru/estet/lists/%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8-%D0%B4%D0%BB%D1%8F-%D1%80%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%B9/)
+* [Детская литература](http://www.g0l.ru/blog/n3029)

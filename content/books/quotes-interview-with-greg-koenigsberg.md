@@ -1,6 +1,5 @@
 +++
 date = "2015-05-06T18:39:24+03:00"
-slug = ""
 tags = ["", ""]
 title = "Interview with Greg DeKoenigsberg of Eucalyptus"
 +++
