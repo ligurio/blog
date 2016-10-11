@@ -1,7 +1,7 @@
 ---
 date: 2016-10-10T00:00:00Z
 title: Коллективный твиттер о тестировании ПО
-tags: ["software testing"]
+tags: ["softwaretesting"]
 ---
 
 <img src="http://i.imgur.com/xFO7xex.jpg" width="20%" style="float:left" vspace="5" hspace="6">
