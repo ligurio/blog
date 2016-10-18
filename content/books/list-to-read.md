@@ -2,6 +2,7 @@
 date = "2050-02-28T18:39:24+03:00"
 tags = ["books", ""]
 title = "Прочитанное (прикреплено)"
+url = "/read/"
 showthedate = false
 +++
 
