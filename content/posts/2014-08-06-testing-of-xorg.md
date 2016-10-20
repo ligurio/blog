@@ -1,7 +1,7 @@
 ---
 date: 2014-08-06T00:00:00Z
 title: Тестирование X.Org
-tags: ["opensource", "openbsd", "interview", "softwaretesting"]
+tags: ["opensource", "openbsd", "interview", "softwaretesting", "openbsd-en"]
 url: /2014/08/06/testing-of-xorg.html
 ---
 
