@@ -19,13 +19,13 @@ Caroline](https://ru.wikipedia.org/wiki/Radio_Caroline) и я хочу слуш�
 помощью стандартного HTML5 плеера в веб-браузере:
 
 	  <div>Radio Caroline</div>
-		 <audio controls id="episode_player_39" preload="none">
+		 <audio controls preload="none">
 		 <source src="http://sc2.radiocaroline.net:8100/;stream.mp3" type="audio/mpeg">
 		 Your browser does not support the audio element.
 		 </audio>
 	  </div>
 
-<audio controls id="episode_player_39" preload="none">
+<audio controls preload="none">
 <source src="http://sc2.radiocaroline.net:8100/;stream.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
