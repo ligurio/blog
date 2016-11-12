@@ -20,13 +20,13 @@ Caroline](https://ru.wikipedia.org/wiki/Radio_Caroline) и я хочу слуш�
 
 	  <div>Radio Caroline</div>
 		 <audio controls preload="none">
-		 <source src="http://sc2.radiocaroline.net:8100/;stream.mp3" type="audio/mpeg">
+		 <source src="http://sc6.radiocaroline.net:8040/;stream.mp3" type="audio/mpeg">
 		 Your browser does not support the audio element.
 		 </audio>
 	  </div>
 
 <audio controls preload="none">
-<source src="http://sc2.radiocaroline.net:8100/;stream.mp3" type="audio/mpeg">
+<source src="http://sc6.radiocaroline.net:8040/;stream.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
