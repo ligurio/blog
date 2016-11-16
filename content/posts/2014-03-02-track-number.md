@@ -5,7 +5,7 @@ url: /2014/03/02/track-number.html
 tags: ["projectmanagement"]
 ---
 
-В управлении проектами есть такое понятие как [«bus factor»](http://en.wikipedia.org/wiki/Bus_factor).
+В управлении проектами есть такое понятие как [«bus factor»](https://en.wikipedia.org/wiki/Bus_factor).
 Но мне больше нравится термин «число грузовика», хотя это и одно и тоже.
 Определение гласит:
 

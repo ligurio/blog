@@ -5,7 +5,7 @@ url: /2014/03/22/Opensearch.html
 tags: ["blog"]
 ---
 
-Для удобства поиска по блогу добавил [OpenSearch](http://ru.wikipedia.org/wiki/OpenSearch),
+Для удобства поиска по блогу добавил [OpenSearch](https://ru.wikipedia.org/wiki/OpenSearch),
 который позволяет вводить слова поиска в адресной строке браузера.
 
 <img src="/images/opensearch.png" alt="OpenSearch в блоге">
@@ -15,5 +15,5 @@ tags: ["blog"]
 Не понимаю почему OpenSearch не используют авторы других блогов.
 
 Число посетителей блога растёт и, если вам нравятся статьи,
-подписывайтесь на [RSS канал](http://feeds.feedburner.com/bronevichok).
+подписывайтесь на [RSS канал](https://feeds.feedburner.com/bronevichok).
 Так вы сможете оперативно получать новые посты из блога.

@@ -5,7 +5,7 @@ url: /2015/05/12/chrome-extension.html
 tags: ["openstreetmap"]
 ---
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=37.504920959472656%2C55.715604833104%2C37.709197998046875%2C55.78159308992029&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/#map=13/55.7486/37.6071">Открыть в полном размере</a></small>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=37.504920959472656%2C55.715604833104%2C37.709197998046875%2C55.78159308992029&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/#map=13/55.7486/37.6071">Открыть в полном размере</a></small>
 
 Несколько лет назад я успел
 [поучаствовать](https://www.openstreetmap.org/user/Sergey%20Bronnikov) в
