@@ -11,9 +11,9 @@ tags: ["opensource", "openbsd", "productivity"]
 По мере того, как на компьютере стали скапливаться данные, которые представляли
 для меня ценность, я стал задумываться о том, как бы их не потерять.
 Я перепробовал множество программ: использовал
-[backupfs](http://sourceforge.net/projects/backupfs), про которую я прочитал в
+[backupfs](https://sourceforge.net/projects/backupfs), про которую я прочитал в
 [интервью с Дональдом
-Кнутом](http://www.informit.com/articles/article.aspx?p=1193856), потом была
+Кнутом](https://www.informit.com/articles/article.aspx?p=1193856), потом была
 утилита [dump](http://man.openbsd.org/OpenBSD-current/man8/dump.8), настраивал на
 домашнем сервере монстра Bacula, потом был rsnapshot. Ещё были tarsnap и
 s3cmd. У всех этих инструментов были те или иные недостатки: отсутствие
@@ -36,7 +36,7 @@ s3cmd. У всех этих инструментов были те или ины
 бэкапов. Многие хостеры предлагают дешёвые VPS с большим диском, их предложения
 можно поискать на [serverbear.com](http://serverbear.com/compare/vps/storage)
 или lowendstock.com. Я выбрал для себя хостинг
-[BuyVM](http://buyvm.net/storage-vps/), который предлагает виртуальную машину с
+[BuyVM](https://buyvm.net/storage-vps/), который предлагает виртуальную машину с
 диском в 250 Gb и возможностью установить любую ОС. Стоит всего лишь 7$ в месяц.
 Установил туда OpenBSD c Attic и настроил регулярный запуск Attic на ноутбуке.
 Ключи для шифрования имеет смысл распечатать и хранить в сухом, тёмном и

@@ -14,14 +14,14 @@ tags: ["openbsd", "softwaretesting"]
 ## Юнит-тесты
 
 В базовой системе есть простой фреймворк для написания тестов
-[bsd.regress.mk(5)](http://www.openbsd.org/cgi-bin/man.cgi?query=bsd.regress.mk&apropos=0&sektion=0&manpath=OpenBSD+Current&arch=i386&format=html).
+[bsd.regress.mk(5)](https://www.openbsd.org/cgi-bin/man.cgi?query=bsd.regress.mk&apropos=0&sektion=0&manpath=OpenBSD+Current&arch=i386&format=html).
 Разработчики по возможности пишут тесты в
-[src/regress](http://www.openbsd.org/cgi-bin/cvsweb/src/regress/).
+[src/regress](https://www.openbsd.org/cgi-bin/cvsweb/src/regress/).
 Правда в основной своей массе они представляют собой достаточно простые тесты,
 и, как следствие, не покрывают сложные конфигурации и не требуют
 настройки сложного окружения для запуска теста.
-Для Xenocara есть свои [небольшие тесты](http://www.openbsd.org/cgi-bin/cvsweb/X11/test/),
-унаследованные от [X.org](http://www.x.org/wiki/).
+Для Xenocara есть свои [небольшие тесты](https://www.openbsd.org/cgi-bin/cvsweb/X11/test/),
+унаследованные от [X.org](https://www.x.org/wiki/).
 
 ## Использование встроенных тестов в портах
 
@@ -32,7 +32,7 @@ tags: ["openbsd", "softwaretesting"]
 Я посчитал, что в -current OpenBSD около 8700 портов, и только в 2444 из них нет регресионных тестов.
 Таким образом гарантируется, что прохождение тестов гарантирует успешную работу ПО на новой платформе.
 
-Механизм запуска тестов интегрирован в [bsd.port.mk(5)](http://www.openbsd.org/cgi-bin/man.cgi?query=bsd.port.mk&apropos=0&sektion=0&manpath=OpenBSD+Current&arch=i386&format=html).
+Механизм запуска тестов интегрирован в [bsd.port.mk(5)](https://www.openbsd.org/cgi-bin/man.cgi?query=bsd.port.mk&apropos=0&sektion=0&manpath=OpenBSD+Current&arch=i386&format=html).
 
 ## Call for testing
 
@@ -46,7 +46,7 @@ tags: ["openbsd", "softwaretesting"]
 
 На всех машинах, составляющих инфраструктуру проекта, используется OpenBSD
 и это само по себе является тестированием ОС.
-Вот комментарий на эту тему от [espie@](http://marc.info/?l=openbsd-misc&m=139012690903249&w=2):
+Вот комментарий на эту тему от [espie@](https://marc.info/?l=openbsd-misc&m=139012690903249&w=2):
 
  «You guys got to realize that   actual builds, on real hardware, find _a lot
  of bugs_. In particular, missing dependencies in Makefiles and variations of
@@ -86,7 +86,7 @@ Bluetooth, [altq](http://undeadly.org/cgi?action=article&sid=20140419151959), [A
  Both Coherent/Incoherent DMA (ie i386/sparc64);
  Strict Memory Alignment architecture (ie sparc64/alpha);
  32/64 bit clean (ie i386/amd64); Big/Little Endian (ie sparc64/i386).»
-- [Driver Architecture and Implementation in OpenBSD](http://openbsd.org/papers/opencon06-drivers/mgp00018.html):
+- [Driver Architecture and Implementation in OpenBSD](https://openbsd.org/papers/opencon06-drivers/mgp00018.html):
 
 ## Ежедневные снапшоты
 
@@ -94,9 +94,9 @@ Bluetooth, [altq](http://undeadly.org/cgi?action=article&sid=20140419151959), [A
 
 Полезные презентации:
 
-* [The OpenBSD Culture](http://www.openbsd.org/papers/opencon06-culture.pdf) (pdf) David Gwynne
-* [OpenBSD as a Development Environment](http://www.openbsd.org/papers/asiabsdcon07-development/index.html) Ryan McBride
-* [The OpenBSD release process](http://www.openbsd.org/papers/asiabsdcon2009-release_engineering) Theo de Raadt
+* [The OpenBSD Culture](https://www.openbsd.org/papers/opencon06-culture.pdf) (pdf) David Gwynne
+* [OpenBSD as a Development Environment](https://www.openbsd.org/papers/asiabsdcon07-development/index.html) Ryan McBride
+* [The OpenBSD release process](https://www.openbsd.org/papers/asiabsdcon2009-release_engineering) Theo de Raadt
 * [How OpenBSD is made](http://undeadly.org/cgi?action=article&sid=20080911114306&mode=expanded)
 
 <br>

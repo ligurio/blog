@@ -28,8 +28,8 @@ NetBSD](http://dmesgd.nycbug.org/index.cgi?action=dmesgd&do=index&fts=netbsd)
 [больше](http://dmesgd.nycbug.org/index.cgi?action=dmesgd&do=stats), чем для
 FreeBSD), [BSDStats](http://bsdstats.org/), [Syncthing](https://data.syncthing.net/),
 [MariaDB](https://mariadb.org/feedback_plugin/),
-[OpenVZ](http://stats.openvz.org/),
-[ClamAV](http://www.clamav.net/documents/clamav-community-threat-tracking-system),
+[OpenVZ](https://stats.openvz.org/),
+[ClamAV](https://www.clamav.net/documents/clamav-community-threat-tracking-system),
 [QubesOS](https://www.qubes-os.org/counter/).
 
 Если информация обезличивается и никак не нарушает вашу privacy, то нет причин

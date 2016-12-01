@@ -6,7 +6,7 @@ tags: ["life"]
 ---
 
 Недавно в структуре компании Parallels произошли изменения и на свет появились
-две новых компании: [Virtuozzo](http://virtuozzo.com/) и Plesk.
+две новых компании: [Virtuozzo](https://virtuozzo.com/) и Plesk.
 
 До этого уже были попытки разделить бизнесы на серверный и пользовательский (SP
 и CP) и выделить подразделение по разработке серверного ПО в в отдельный бренд
@@ -15,7 +15,7 @@ Odin.  Чтобы не путаться что и в какой последов
 
 www.parallels.com -> sp.parallels.com -> www.odin.com -> www.virtuozzo.com
 
-	$ curl -L -I http://www.parallels.com/products/pcs/
+	$ curl -L -I https://www.parallels.com/products/pcs/
 
 	HTTP/1.1 301 Moved Permanently
 	Server: nginx/1.8.0
@@ -29,7 +29,7 @@ www.parallels.com -> sp.parallels.com -> www.odin.com -> www.virtuozzo.com
 	Server: squid/3.1.10
 	Date: Thu, 24 Dec 2015 08:05:39 GMT
 	Content-Length: 0
-	Location: http://www.odin.com/products/pcs/
+	Location: https://www.odin.com/products/pcs/
 	X-Cache: MISS from sp.parallels.com
 	X-Cache-Lookup: MISS from sp.parallels.com:80
 	Connection: keep-alive
@@ -51,7 +51,7 @@ www.parallels.com -> sp.parallels.com -> www.odin.com -> www.virtuozzo.com
 	Date: Thu, 24 Dec 2015 08:05:40 GMT
 	Server: Apache/2.2.3 (CentOS)
 	Content-Type: text/html; charset=iso-8859-1
-	Location: http://www.odin.com/products/virtuozzo/
+	Location: https://www.odin.com/products/virtuozzo/
 	X-Cache: MISS from www.odin.com
 	X-Cache-Lookup: MISS from www.odin.com:80
 	Connection: close
@@ -62,7 +62,7 @@ www.parallels.com -> sp.parallels.com -> www.odin.com -> www.virtuozzo.com
 	Vary: Accept-Encoding
 	Content-Length: 0
 	Content-Type: text/html; charset=UTF-8
-	Location: http://www.virtuozzo.com
+	Location: https://www.virtuozzo.com
 	Age: 78
 	X-Cache: HIT from www.odin.com
 	X-Cache-Lookup: HIT from www.odin.com:80

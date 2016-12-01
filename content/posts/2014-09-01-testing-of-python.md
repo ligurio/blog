@@ -50,7 +50,7 @@ The buildbots handle compatibility. Otherwise it's mostly unit and functional
 testing.
  
 **Python has [performance test
-suite](http://hg.python.org/benchmarks/file/9a1136898539/README.txt) How often
+suite](https://hg.python.org/benchmarks/file/9a1136898539/README.txt) How often
 do you run it?**
 
 Whenever someone chooses to run it (no continuous run of it).
@@ -96,7 +96,7 @@ PyPI is run independently from python-dev so that doesn't apply here.
 We do include the test suite with Python so users can run it and report any issues they have.
 
 **It seems you keep all bugs in bug tracker on
-[http://bugs.python.org/](http://bugs.python.org/).  Who is responsible for
+[https://bugs.python.org/](https://bugs.python.org/).  Who is responsible for
 tracking of open bugs?**
 
 Everyone and no one. =) As a group we try to track bugs, but no one individual owns it.
@@ -110,7 +110,7 @@ Yes, and it's covered in the devguide.
 We have a Coverity project set up which regularly
 scans the code (maintained by Christian Heimes).
 They did a press release about our very low defect rate:
-[http://www.coverity.com/press-releases/coverity-finds-python-sets-new-level-of-quality-for-open-source-software/](http://www.coverity.com/press-releases/coverity-finds-python-sets-new-level-of-quality-for-open-source-software/).
+[https://www.coverity.com/press-releases/coverity-finds-python-sets-new-level-of-quality-for-open-source-software/](http://www.coverity.com/press-releases/coverity-finds-python-sets-new-level-of-quality-for-open-source-software/).
 
 (Interviewer's note: see also [Coverity Scan report](http://wpcme.coverity.com/wp-content/uploads/2013-Coverity-Scan-Spotlight-Python.pdf) (PDF))
 

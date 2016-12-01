@@ -31,6 +31,6 @@ Your browser does not support the audio element.
 </audio>
 
 Но страницу делать самому вовсе не обязательно, можно воспользоваться
-каталогами: [Community Radio Browser](http://www.radio-browser.info/), [Icecast
+каталогами: [Community Radio Browser](https://www.radio-browser.info/), [Icecast
 directory](http://dir.xiph.org/) и плейлистами на
 [iptv.zone](https://iptv.zone).

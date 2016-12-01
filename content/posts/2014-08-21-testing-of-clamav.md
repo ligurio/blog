@@ -7,7 +7,7 @@ url: /2014/08/21/testing-of-clamav.html
 
 <img src="/images/logo-clamav.jpg" alt="ClamAV" style="float:left">
 
-[ClamAV](http://www.clamav.net/lang/en/about/) -
+[ClamAV](https://www.clamav.net/lang/en/about/) -
 это антивирусный инструмент для UNIX с открытым исходным кодом (GPL).
 Он предоставляет несколько утилит, включая гибкий и
 масштабируемый многопоточный демон, сканер для командной строки
@@ -96,9 +96,9 @@ Please participate in our beta testing. If you have samples to share,
 please post on clamav-devel and the appropriate team will contact you.
 There is also the clamav-community signature effort where members
 of the community may submit detection for us to ship:
-[http://www.clamav.net/lang/en/sendvirus/](http://www.clamav.net/lang/en/sendvirus/).
+[https://www.clamav.net/lang/en/sendvirus/](http://www.clamav.net/lang/en/sendvirus/).
 
-**I see a long list of ClamAV users on [site](http://www.clamav.net/lang/en/about/who-use-clamav/).
+**I see a long list of ClamAV users on [site](https://www.clamav.net/lang/en/about/who-use-clamav/).
 Do they contribute to project quality?**
 
 They do or did. Recently, we’re giving creds to contributors on a release by release basis.
@@ -108,7 +108,7 @@ They do or did. Recently, we’re giving creds to contributors on a release by r
 Yes, mostly during beta and release candidate phases, but it is pretty much on going.
 If you are interested, please watch the clamav mailing list
 for beta and release candidate announcements. Bugs may be opened
-by community members at [http://bugzilla.clamav.net](http://bugzilla.clamav.net).
+by community members at [https://bugzilla.clamav.net](http://bugzilla.clamav.net).
 Patches to fix bugs may be submitted as well.
 
 **I remember an [incident](https://archive.fosdem.org/2006/2006/index/interviews/interviews_kojm.html)

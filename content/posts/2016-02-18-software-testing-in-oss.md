@@ -20,16 +20,16 @@ url: /2016/02/18/software-testing-in-oss.html
 * почтовый сервер [OpenSMTPD](/2014/07/29/testing-of-opensmtpd.html)
 
 Сегодня наткнулся на блог Gabor Szabo, который тоже [написал несколько
-статей](http://szabgab.com/quality-assurance-and-automated-testing-in-open-source-software.html)
+статей](https://szabgab.com/quality-assurance-and-automated-testing-in-open-source-software.html)
 на такую же тематику.
 К счастью по выбранным проектам мы почти не пересеклись:
 
-* [интерпретатор языка Perl5](http://szabgab.com/quality-assurance-of-perl-5.html)
-* [интерпретатор языка Perl 6 Parrot](http://szabgab.com/smoked-parrot.html)
-* база данных [SQLite](http://szabgab.com/testing-sqlite.html)
-* [программа для управления UPS](http://szabgab.com/testing-nut-the-network-ups-tools.html)
-* [компилятор языка Haskell](http://szabgab.com/testing-ghc-the-glasgow-haskell-compiler.html)
-* интерпретатор языка [Ruby](http://szabgab.com/testing-ruby.html)
-* [интерпретатор языка Perl6](http://szabgab.com/testing-pugs-and-perl-6.html)
+* [интерпретатор языка Perl5](https://szabgab.com/quality-assurance-of-perl-5.html)
+* [интерпретатор языка Perl 6 Parrot](https://szabgab.com/smoked-parrot.html)
+* база данных [SQLite](https://szabgab.com/testing-sqlite.html)
+* [программа для управления UPS](https://szabgab.com/testing-nut-the-network-ups-tools.html)
+* [компилятор языка Haskell](https://szabgab.com/testing-ghc-the-glasgow-haskell-compiler.html)
+* интерпретатор языка [Ruby](https://szabgab.com/testing-ruby.html)
+* [интерпретатор языка Perl6](https://szabgab.com/testing-pugs-and-perl-6.html)
 
 Fin

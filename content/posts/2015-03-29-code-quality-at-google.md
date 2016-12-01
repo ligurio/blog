@@ -23,6 +23,6 @@ tags: ["interview", "softwaretesting"]
 * распространена культура тестирования: покрытие юнит-тестами очень близко к 100%,
 активно используется техники непрерывной сборки, интеграции и тестирования,
 а также известные постеры в комнатах отдыха из серии "Testing on the Toilet"
-(см. серию постов на эту тему в блоге [Google Testing Blog](http://googletesting.blogspot.ru/search/label/TotT));
+(см. серию постов на эту тему в блоге [Google Testing Blog](https://googletesting.blogspot.ru/search/label/TotT));
 
 Fin

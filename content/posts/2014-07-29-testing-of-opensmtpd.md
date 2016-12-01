@@ -15,7 +15,7 @@ url: /2014/07/29/testing-of-opensmtpd.html
 
 [OpenSMTPD](https://www.opensmtpd.org/) - это проект, начатый в 2002 году
 в рамках создания нового открытого SMTP сервера.
-В 2013 году он полностью заменил Sendmail в [OpenBSD 5.3](http://www.openbsd.org/53.html).
+В 2013 году он полностью заменил Sendmail в [OpenBSD 5.3](https://www.openbsd.org/53.html).
 Больше информации можно узнать из слайдов Éric Faurot на
 [asiabsdcon 2013](https://www.opensmtpd.org/presentations/asiabsdcon2013-smtpd).
 

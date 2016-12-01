@@ -6,10 +6,10 @@ url: /2014/09/14/testing-of-ffmpeg.html
 ---
 
 <!--
-http://samples.mplayerhq.hu
-FATE http://www.opennet.ru/opennews/art.shtml?num=38832
+https://samples.mplayerhq.hu
+FATE https://www.opennet.ru/opennews/art.shtml?num=38832
 https://github.com/vivienschilis/ffmpeg/blob/master/doc/fate.txt
-http://cybersip.googlecode.com/git/ffmpeg/doc/fate.html
+https://cybersip.googlecode.com/git/ffmpeg/doc/fate.html
 -->
 
 <img src="/images/logo-ffmpeg.png" alt="FFmpeg" style="float:left">
@@ -115,17 +115,17 @@ at semi-regular intervals, which span from 3 to 6 months. Then
 critical and security fixes are back-ported to the supported releases.
 
 Typically we only actively maintain a few releases, for details see:
-[http://ffmpeg.org/download.html](http://ffmpeg.org/download.html)
+[https://ffmpeg.org/download.html](http://ffmpeg.org/download.html)
 
 **Do you make security audit of code? Do you have a process to fix
 security vulnerability?**
 
 There are some third parties contributors (e.g. from Google) who
 perform security audits and notify in case of security issues.
-See also: [http://ffmpeg.org/security.html](http://ffmpeg.org/security.html)
+See also: [https://ffmpeg.org/security.html](http://ffmpeg.org/security.html)
 
 *Interviewer's note: Google told about it in
-[their blog](http://googleonlinesecurity.blogspot.ru/2014/01/ffmpeg-and-thousand-fixes.html).*
+[their blog](https://googleonlinesecurity.blogspot.ru/2014/01/ffmpeg-and-thousand-fixes.html).*
 
 **Do you use static or dynamic code analysis?**
 
@@ -143,7 +143,7 @@ Can't really say, also I'm more a documentation/API geek so I'm not
 the most active on interesting bug fixes resolution.
 
 Compatibility bugs are interesting:
-[Ticket #2672](http://trac.ffmpeg.org/ticket/2672)
+[Ticket #2672](https://trac.ffmpeg.org/ticket/2672)
 
 Also integer overflows are subtle and cool:
 

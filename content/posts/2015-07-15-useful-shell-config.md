@@ -39,7 +39,7 @@ topc="history | awk {'print $2'} | sort | uniq -c | sort -k1 -rn | head"
 пароль она берет из .netrc:
 
 ```
-twit='curl -u estet:pass -d status="Tweeting from the shell" http://twitter.com/statuses/update.xml'
+twit='curl -u estet:pass -d status="Tweeting from the shell" https://twitter.com/statuses/update.xml'
 ```
 -->
 
@@ -105,7 +105,7 @@ m { open "http://mdoc.su/-/$1" || exit 1; }
 Проще выложить файл на свой хост и поделиться ссылкой.
 
 ```
-share { scp -r $1 gw.bronevichok.ru:/var/nginx/html/trash/ > /dev/null 2>&1 && echo "http://bronevichok.ru/trash/$(basename $1)" || echo "Failed to share :("; }
+share { scp -r $1 gw.bronevichok.ru:/var/nginx/html/trash/ > /dev/null 2>&1 && echo "https://bronevichok.ru/trash/$(basename $1)" || echo "Failed to share :("; }
 ```
 
 Про команду ssh-copy я знаю, но её нужно дополнительно устанавливать,

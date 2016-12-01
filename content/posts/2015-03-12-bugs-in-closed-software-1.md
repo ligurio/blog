@@ -36,8 +36,8 @@ tags: ["softwaretesting"]
 потери для компаний, использующих такое ПО. Обычно разглашение используется в
 целях оказания давления на производителей ПО.
 
-- [Rebooting Responsible Disclosure: a focus on protecting end users](http://googleonlinesecurity.blogspot.ru/2010/07/rebooting-responsible-disclosure-focus.html)
+- [Rebooting Responsible Disclosure: a focus on protecting end users](https://googleonlinesecurity.blogspot.ru/2010/07/rebooting-responsible-disclosure-focus.html)
 - [Schneier: Full Disclosure of Security Vulnerabilities a 'Damned Good Idea'](https://www.schneier.com/essays/archives/2007/01/schneier_full_disclo.html)
 - [Coordinated Vulnerability Disclosure](https://technet.microsoft.com/en-us/security/dn467923.aspx)
-- [A Call for Better Coordinated Vulnerability Disclosure](http://blogs.technet.com/b/msrc/archive/2015/01/11/a-call-for-better-coordinated-vulnerability-disclosure.aspx)
+- [A Call for Better Coordinated Vulnerability Disclosure](https://blogs.technet.com/b/msrc/archive/2015/01/11/a-call-for-better-coordinated-vulnerability-disclosure.aspx)
 -->

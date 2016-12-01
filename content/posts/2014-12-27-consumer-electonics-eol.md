@@ -10,7 +10,7 @@ tags: ["life"]
 со стороны производителя (EOM, End-of-Maintenance). И на протяжении этого срока
 пользователь может ожидать выпуск обновлений, тех. поддержку и т.д. со стороны производителя.
 Иногда ещё выделяют End-of-Sale и End-of-Life для продуктов.
-Так например у Parallels Inc. объявлены EOL и EOM для продуктов [Parallels Desktop for Mac](http://kb.parallels.com/en/114604), [серверных продуктов для виртуализации](http://sp.parallels.com/hcap/support/policies/server-lifecycle/) и
+Так например у Parallels Inc. объявлены EOL и EOM для продуктов [Parallels Desktop for Mac](https://kb.parallels.com/en/114604), [серверных продуктов для виртуализации](http://sp.parallels.com/hcap/support/policies/server-lifecycle/) и
 [Parallels Plesk Panel](http://sp.parallels.com/au/hcap/support/policies/plesk-lifecycle/).
 Наши клиенты знают, что по окончании срока поддержки им нужно будет
 сделать апгрейд на новую версию или самим поддерживать эти версии.

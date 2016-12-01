@@ -4,7 +4,7 @@ title: Коллективный твиттер о тестировании ПО
 tags: ["softwaretesting"]
 ---
 
-<img src="http://i.imgur.com/xFO7xex.jpg" width="20%" style="float:left" vspace="5" hspace="6">
+<img src="https://i.imgur.com/xFO7xex.jpg" width="20%" style="float:left" vspace="5" hspace="6">
 После того, как я попробовал себя в роли ведущего [коллективного
 твиттера](/2016/04/04/backendsecret.html) мне захотелось сделать такой же
 твиттер, но для инженеров по тестированию ПО. Новый

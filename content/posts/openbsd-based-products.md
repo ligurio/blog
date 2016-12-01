@@ -24,7 +24,7 @@ OpenBSD и составил такой
 - компания [Fox-IT](https://www.fox-it.com/en/) разрабатывает продукт [DataDiode](http://www.datadiode.eu/)
 - компании [Esdenera Networks](https://www.esdenera.com/), [Calyptix](http://www.calyptix.com/products/models/ae800/), [.vantronix GmbH](http://www.vantronix.com/) разрабатывают и продают решения для обеспечения сетевой безопасности на базе OpenBSD
 - [ATMNIS](https://atmnis.com/) разработка защищённой операционной системы в Украине, сертифицированная к использованию при создании комплексных систем защиты информации (КСЗИ) классов 2 и 3
-- компания M:tier занимается внедрением ОС OpenBSD в инфраструктуру компаний: [тонкий клиент](http://www.mtier.org/assets/Uploads/latinoware-2013.pdf) на базе OpenBSD, [рабочие станции на базе OpenBSD](http://www.openbsd.org/papers/opencon07-gnome.pdf) для промышленного применения.
+- компания M:tier занимается внедрением ОС OpenBSD в инфраструктуру компаний: [тонкий клиент](https://www.mtier.org/assets/Uploads/latinoware-2013.pdf) на базе OpenBSD, [рабочие станции на базе OpenBSD](https://www.openbsd.org/papers/opencon07-gnome.pdf) для промышленного применения.
 
 Выводы я сделал такие: большинство коммерческих продуктов на базе OpenBSD это
 файрволлы, все компании, разрабатывающие коммерческие продукты на базе OpenBSD

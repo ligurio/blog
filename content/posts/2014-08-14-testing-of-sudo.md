@@ -7,7 +7,7 @@ url: /2014/08/14/testing-of-sudo.html
 
 <img src="/images/logo-sudo.png" alt="Sudo" style="float:left">
 
-На этот раз я проинтервьюировал создателя и единственного разработчика программы *[sudo](http://www.sudo.ws/)* - Todd C. Miller.
+На этот раз я проинтервьюировал создателя и единственного разработчика программы *[sudo](https://www.sudo.ws/)* - Todd C. Miller.
 Если вы хотя бы раз сталкивались с Mac OS, Linux или BSD, то знаете, что
 утилита sudo позволяет делегировать права одного пользователя другому для запуска
 программ.
@@ -24,7 +24,7 @@ from people and occasionally larger bits of functionality.  For
 example, the initial LDAP support was written by Aaron Spangler and
 the SSSD support was written Daniel Kopecek of RedHat.  The message
 catalog translations are maintained by a number of different groups
-coordinated via [translationproject.org](http://translationproject.org/).
+coordinated via [translationproject.org](https://translationproject.org/).
 
 **How does development process of sudo look like?**
 
@@ -47,7 +47,7 @@ I run the regression tests periodically through the release cycle.
 I also have a build script that compiles sudo and runs the regression
 tests sudo on all the platforms for which I make packages.
 
-**I didn't find any tests in [source code of sudo](http://www.sudo.ws/repos/sudo/).
+**I didn't find any tests in [source code of sudo](https://www.sudo.ws/repos/sudo/).
 Do you really don't have any tests? What tools, tests and testing frameworks
 do you use?**
 
@@ -77,7 +77,7 @@ I don't measure unit test code coverage at this time.
 
 **I know Quest Software and Dell Inc. sponsored development of sudo.
 Does they improve quality of sudo as sudo is a part of commercial product
-(I mean [Privelege manager for Sudo](http://www.quest.com/privilege-manager-for-sudo/))?**
+(I mean [Privelege manager for Sudo](https://www.quest.com/privilege-manager-for-sudo/))?**
 
 Dell (and Quest before it) give me time to work on sudo as part of
 my day to day job which has helped improve the quality of sudo and
@@ -97,7 +97,7 @@ tracking of open bugs?**
 
 I use bugzilla for bug tracking.  All bugs get assigned to me ;-)
 
-**Sometimes sudo has security flaws (I mean a [list on sudo website](http://www.sudo.ws/sudo/alerts/)).
+**Sometimes sudo has security flaws (I mean a [list on sudo website](https://www.sudo.ws/sudo/alerts/)).
 Do you use regular security audit of code?**
 
 I have done several security audits of the code over the years.
@@ -124,7 +124,7 @@ possible and its configure script tries to detect broken implementations.
 Where a needed function does not exist on the system, sudo provides
 its own private version.
 
-**According to official site seems 'sudo' has often [releases](http://www.sudo.ws/sudo/news.html).
+**According to official site seems 'sudo' has often [releases](https://www.sudo.ws/sudo/news.html).
 How you decide that new release is required and you are ready to release?**
 
 I try to do three or four main releases a year. Typically I have

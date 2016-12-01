@@ -5,7 +5,7 @@ url: /2015/08/13/unofficial-bugtrackers.html
 tags: ["softwaretesting"]
 ---
 
-Забавно видеть, что [идея](http://bugs.bronevichok.ru/wiki?name=FAQ) создания
+Забавно видеть, что [идея](https://bugs.bronevichok.ru/wiki?name=FAQ) создания
 разного рода багтрекеров к закрытому ПО до сих пор жива. В этот раз это
 [проект со списком проблем](https://github.com/isaacs/github/issues) в сервисе
 [Github](github.com/).

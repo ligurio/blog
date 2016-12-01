@@ -55,7 +55,7 @@ The most important ones are mochitest, reftest, and talos.
 **Mozilla projects has many self-made infrastructure tools:
 [MozTrap](https://github.com/mozilla/moztrap/), [Perf-O-Matic](http://graphs.mozilla.org/graph.html),
 [MozPool](https://github.com/mozilla/mozpool), [Crash Stats](https://crash-stats.mozilla.com),
-[Minion and Peach](http://www.opennet.ru/opennews/art.shtml?num=37551), [FuzzDB](https://code.google.com/p/fuzzdb/),
+[Minion and Peach](https://www.opennet.ru/opennews/art.shtml?num=37551), [FuzzDB](https://code.google.com/p/fuzzdb/),
 [MozHarness](https://github.com/mozilla/build-mozharness) etc. Could you tell about them?**
 
 I'm only familiar with some of those and I'm not really sure what
@@ -89,13 +89,13 @@ I think so, but I am not sure of the details.
 
 **How do use Continuous Integration in development process?**
 
-We run tests on every commit. See [treeherder.mozilla.org](http://treeherder.mozilla.org).
+We run tests on every commit. See [treeherder.mozilla.org](https://treeherder.mozilla.org).
 
 <!--
 **What tool do you use for tracking open bugs? Who is responsible in
 tracking of open bugs?**
 
-[bugzilla.mozilla.orgi](http://bugzilla.mozilla.org)
+[bugzilla.mozilla.orgi](https://bugzilla.mozilla.org)
 
 **Do you have triage process?**
 
@@ -149,7 +149,7 @@ buried and not very well understood, took a while to go figure it out.
 - [Perf-O-Matic](http://graphs.mozilla.org/graph.html)
 - [MozPool](https://github.com/mozilla/mozpool)
 - [Crash Stats](https://crash-stats.mozilla.com)
-- [Minion and Peach](http://www.opennet.ru/opennews/art.shtml?num=37551)
+- [Minion and Peach](https://www.opennet.ru/opennews/art.shtml?num=37551)
 - [FuzzDB](https://code.google.com/p/fuzzdb/)
 - [MozHarness](https://github.com/mozilla/build-mozharness)
 - [Firefox Release Engineering](http://aosabook.org/en/ffreleng.html)

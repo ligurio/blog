@@ -5,7 +5,7 @@ url: /2014/12/17/pcs-testing.html
 tags: ["opensource", "softwaretesting"]
 ---
 
-Полгода назад я опубликовал статью о [тестировании Parallels Cloud Server](http://habrahabr.ru/post/204292/).
+Полгода назад я опубликовал статью о [тестировании Parallels Cloud Server](https://habrahabr.ru/post/204292/).
 По непонятным для меня причинам к статье был проявлен интерес от
 англоязычных QA инженеров. Ниже перевод этой статьи на английский язык.
 
@@ -13,24 +13,24 @@ I want to tell you about the testing process of Parallels Cloud Server,
 one of the products of Parallels Inc., where I’ve been working since
 2005. I think the majority of our readers are familiar with the
 product, mentioned in such articles as [Parallels рассекретила Cloud
-Server](http://habrahabr.ru/company/parallels/blog/169927/),
-[FastVPS: как мы меняли платформы виртуализации](http://habrahabr.ru/company/parallels/blog/190524/)
-and [Собери сам: как мы сделали хранилище Amazon-style для начинающих хостеров](http://habrahabr.ru/company/parallels/blog/162381/). If you are still puzzled, I would definitely suggest you taking a look at
+Server](https://habrahabr.ru/company/parallels/blog/169927/),
+[FastVPS: как мы меняли платформы виртуализации](https://habrahabr.ru/company/parallels/blog/190524/)
+and [Собери сам: как мы сделали хранилище Amazon-style для начинающих хостеров](https://habrahabr.ru/company/parallels/blog/162381/). If you are still puzzled, I would definitely suggest you taking a look at
 them. There are multiple reasons why the testing process of PCS may be
 interesting, but the main one is, undoubtedly, the nature of the
 products itself. It is complex, consisting of many components and
 developed by several independent teams.
 
 If it seems interesting to you, warm welcome to the next section.
-[Parallels Cloud Server](http://www.parallels.com/ru/products/pcs/)
+[Parallels Cloud Server](https://www.parallels.com/ru/products/pcs/)
 is a _bare metal product_, meaning that it is installed on bare hardware,
 eliminating the need to any intermediate software.  In the heart
 of PCS lays RHEL-based Linux distributive, more precisely Cloud Linux,
 together with integrated components: patched Linux core,
-[Parallels hypervisor](http://www.parallels.com/ru/products/pcs/hypervisor/),
-[Parallels Cloud Storage](http://www.parallels.com/ru/products/pcs/cloud-storage/)
+[Parallels hypervisor](https://www.parallels.com/ru/products/pcs/hypervisor/),
+[Parallels Cloud Storage](https://www.parallels.com/ru/products/pcs/cloud-storage/)
 components, customized installer based on Anaconda, user friendly panel to manage containers
-and virtual machines ([Parallels Virtual Automation](http://www.parallels.com/ru/products/pva/))
+and virtual machines ([Parallels Virtual Automation](https://www.parallels.com/ru/products/pva/))
 and dozens of command line tools to manage and monitor PCS.
 Testing process covers every single component mentioned above.
 
@@ -95,7 +95,7 @@ build with fixed problem appears on builds portal.
 
 Test scheduler is one of the main parts of our automatic test process. And if sometimes it
 is possible to satisfy ones needs with out-of-box working solutions for
-continuous integration tasks (like [Jenkins used by Yandex](http://tech.yandex.ru/events/meetings/testing-environment/talks/1471/)), it is not
+continuous integration tasks (like [Jenkins used by Yandex](https://tech.yandex.ru/events/meetings/testing-environment/talks/1471/)), it is not
 possible is our case, because we have to implement custom logic for test
 planning.
 
@@ -200,4 +200,4 @@ hardware, such as SSD or USB bulk device emulator device, etc).
 And what are your news in automatic testing? :)
 
 
-**Thanks to Galina Polyakova for translation of [original article](http://habrahabr.ru/post/204292/).**
+**Thanks to Galina Polyakova for translation of [original article](https://habrahabr.ru/post/204292/).**

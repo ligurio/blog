@@ -15,9 +15,9 @@ Xorg остаётся живее всех живых.
 По случаю юбилея я задал несколько вопросов человеку, который 23(!) года работает
 над развитием этого проекта. Зовут его [Matthieu Herrb](http://homepages.laas.fr/matthieu/).
 Помимо своего участия в проекте X.Org он также стоит у истоков создания отдельной версии Xorg
-для проекта OpenBSD - [Xenocara](http://xenocara.org/).
+для проекта OpenBSD - [Xenocara](https://xenocara.org/).
 
-Также доступен [перевод интервью](http://habrahabr.ru/post/234291/).
+Также доступен [перевод интервью](https://habrahabr.ru/post/234291/).
 
 
 **Xorg (the X-server) is a big and complex beast.
@@ -67,7 +67,7 @@ are not as efficient as we'd like them to be.
 
 **What tools, tests and testing frameworks do you use?
 I have found a lot of tests (like XTS, rendercheck, glean, piglit etc)
-in [repository](http://cgit.freedesktop.org/)
+in [repository](https://cgit.freedesktop.org/)
 but some of them looks outdated. Do developers create tests on regular basis
 for new functionality and bugfixes?**
 
@@ -129,12 +129,12 @@ even if it's far from perfect.
 **What tool do you use for tracking open bugs? Who is responsible in
 tracking of open bugs?**
 
-We have a Bugzilla hosted at [freedesktop.org](http://freedesktop.org)
-([bugs.freedesktop.org](http://bugs.freedesktop.org)),
+We have a Bugzilla hosted at [freedesktop.org](https://freedesktop.org)
+([bugs.freedesktop.org](https://bugs.freedesktop.org)),
 completed by a patch tracking system (patchwork) that tries to ensure
 that no submitted patch gets forgotten or unhandled.
 
-**Sometimes X.Org has [security flaws](http://www.x.org/wiki/Development/Security/)
+**Sometimes X.Org has [security flaws](https://www.x.org/wiki/Development/Security/)
 Do you use regular security audit of code?**
 
 No and yes :) AFAIK X.Org has no one explicitly dedicated to do code

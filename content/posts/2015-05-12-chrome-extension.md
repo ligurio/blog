@@ -5,7 +5,7 @@ url: /2015/05/12/chrome-extension.html
 tags: ["openstreetmap"]
 ---
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=37.504920959472656%2C55.715604833104%2C37.709197998046875%2C55.78159308992029&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/#map=13/55.7486/37.6071">Открыть в полном размере</a></small>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=37.504920959472656%2C55.715604833104%2C37.709197998046875%2C55.78159308992029&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=13/55.7486/37.6071">Открыть в полном размере</a></small>
 
 Несколько лет назад я успел
 [поучаствовать](https://www.openstreetmap.org/user/Sergey%20Bronnikov) в
@@ -15,7 +15,7 @@ tags: ["openstreetmap"]
 OpenSteetMap меня привлекает по трём причинам:
 
 - первая причина - это простота внесения правок в карты.  Когда ты понимаешь,
-что внесенная правка отобразится на [главном сайте проекта](http://openstreetmap.org/)
+что внесенная правка отобразится на [главном сайте проекта](https://openstreetmap.org/)
 буквально через несколько минут после загрузки изменений, то это сильно
 мотивирует на внесение вклада в проект;
 - вторая причина - это свобода использования карт. Вы вольны делать с этими
@@ -24,7 +24,7 @@ OpenSteetMap меня привлекает по трём причинам:
 [Яндекса](https://legal.yandex.ru/maps_termsofuse/?lang=ru);
 - и наконец третья причина - это красота карт. Мне нравится
 рассматривать карты, особенно когда для их создания [использовали нестандартный
-рендер](http://wiki.openstreetmap.org/wiki/List_of_OSM-based_services).
+рендер](https://wiki.openstreetmap.org/wiki/List_of_OSM-based_services).
 Посмотрите на [акварельные](http://maps.stamen.com/watercolor/),
 [чёрно-белые](http://maps.stamen.com/toner/) или
 [восьмибитные](http://8bitcity.com/embed?New) карты;
@@ -65,4 +65,4 @@ var places = [
 мест в Chrome store.
 
 *Добавлено*: если вы так же любите географические карты как и я, то посмотрите реддит
-[/r/MapPorn](http://www.reddit.com/r/MapPorn/). Вам понравится.
+[/r/MapPorn](https://www.reddit.com/r/MapPorn/). Вам понравится.

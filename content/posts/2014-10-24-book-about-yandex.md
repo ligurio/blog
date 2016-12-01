@@ -62,7 +62,7 @@ tags: ["book"]
 
 Вообщем книга интересная и не менее захватывающая, чем,
 например, книги про историю Apple
-или [«Just for fun»](http://www.amazon.com/Just-Fun-Story-Accidental-Revolutionary/dp/0066620732/)
+или [«Just for fun»](https://www.amazon.com/Just-Fun-Story-Accidental-Revolutionary/dp/0066620732/)
 про Линуса Торвальдса и ядро Linux.
 
 Большим удивлением был для меня тот факт, что до 2007 года в Яндексе
@@ -89,5 +89,5 @@ tags: ["book"]
 > слышат о подвигах бывалых коллег, даже не верят, что такое возможно.
 
 Примерно в то время у них и появился инструмент нагрузочного тестирования
-[Яндекс.Танк](http://habrahabr.ru/company/yandex/blog/202020/),
+[Яндекс.Танк](https://habrahabr.ru/company/yandex/blog/202020/),
 про который они не устают рассказывать на своих конференциях и в блогах.

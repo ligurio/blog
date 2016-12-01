@@ -43,7 +43,7 @@ into the Ubuntu repository. Much of this occurs by syncing with Debian unstable,
 but package updates can come from many sources. From there, traditionally
 a UDS (Ubuntu developer summit) event would occur which allowed teams
 to plan and share there work for the next cycle. These events have been
-replaced by UOS ([Ubuntu online summit](http://summit.ubuntu.com)), which also
+replaced by UOS ([Ubuntu online summit](https://summit.ubuntu.com)), which also
 occur every 6 months and allow the community to plan and share as usual,
 but occur virtually so anyone can participate.
 
@@ -75,7 +75,7 @@ create tests on regular basis for new functionality and bugfixes?**
 [Autopilot](https://wiki.ubuntu.com/Touch/Testing/Autopilot), [PhantomJS](http://phantomjs.org/),
 [googletest](https://code.google.com/p/googletest/) (Google C++ Testing Framework),
 qmltestrunner; all sorts of different testing frameworks and tools.
-For projects which Canonical is owner (such as [Unity](https://unity.ubuntu.com/) and [Mir](http://unity.ubuntu.com/mir/)),
+For projects which Canonical is owner (such as [Unity](https://unity.ubuntu.com/) and [Mir](https://unity.ubuntu.com/mir/)),
 tests are added regularly to deal with regressions (as part of bugfixes),
 and new tests are required for new functionality. The code is reviewed
 before being merged into the project and part of this review is ensuring
@@ -103,13 +103,13 @@ by others to test any GTK or QT application.
 Check it out: [sources](https://launchpad.net/autopilot), [wiki](https://wiki.ubuntu.com/Autopilot)!
 We also use apport and whoopsie which allow us to collect meaningful data
 on crashes and other errors in the released versions of Ubuntu in a seamless
-and automated fashion. Check out [errors.ubuntu.com](http://errors.ubuntu.com/).
+and automated fashion. Check out [errors.ubuntu.com](https://errors.ubuntu.com/).
 
 <img src="/images/Ubuntu-Error-reports.png" width="65%" alt="Ubuntu" style="float:left">
 
 Finally, we use what is called the "CI train", which is intended to provide
 continuous integration and handle our release process.
-The tool lives on [Launchpad](http://launchpad.net/uci-engine).
+The tool lives on [Launchpad](https://launchpad.net/uci-engine).
 Lest I forget, we also make use of [umockdev](https://github.com/martinpitt/umockdev),
 which allows us to mock hardware devices.
 
@@ -159,7 +159,7 @@ is the code driving this.
 
 **What tool do you use for tracking open bugs?**
 
-[Launchpad](http://launchpad.net).
+[Launchpad](https://launchpad.net).
 
 <img src="/images/Ubuntu-Launchpad.png" width="100%" alt="Ubuntu">
 

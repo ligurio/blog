@@ -89,7 +89,7 @@ tags: ["bike", "personal"]
 фиксированной передачи на нём можно ехать в обратную сторону :)
 
 <!--
-http://i.imgur.com/pGOBAx1.gifv
+https://i.imgur.com/pGOBAx1.gifv
 
 <video width="100%" height="100%">
 	<source src="https://i.imgur.com/bubCTL9.mp4" type="video/mp4">
@@ -118,7 +118,7 @@ frameborder="0" allowfullscreen></iframe>
 <!--<iframe width="560" height="315" src="https://www.youtube.com/embed/6BYp8U-Ioxg"
 frameborder="0" allowfullscreen></iframe>-->
 
-<img src="http://67.media.tumblr.com/tumblr_lt6b28DQX61qbkpw0o1_500.gif" align="center">
+<img src="https://67.media.tumblr.com/tumblr_lt6b28DQX61qbkpw0o1_500.gif" align="center">
 
 По умолчанию с моим велосипедом шли ручные тормоза для переднего и заднего
 колеса. Меня при сборке в магазине спрашивали хочу ли я ставить тормоза и я не

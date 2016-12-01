@@ -9,7 +9,7 @@ tags: ["opensource", "opensmtpd", "openbsd", "interview", "softwaretesting"]
 
 При появлении нового проекта некоторые разработчики
 начинают не задумываясь устанавливать Jenkins/TeamCity/buildbot etc
-для использования [Continuous Integration](http://en.wikipedia.org/wiki/Continuous_integration).
+для использования [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration).
 В то время когда эту задачу можно решить более эффективно.
 
 Сегодня я расскажу про SaaS сервисы для Continuous Integration.
@@ -31,13 +31,13 @@ tags: ["opensource", "opensmtpd", "openbsd", "interview", "softwaretesting"]
 [Travis CI](https://travis-ci.org) - один из самых популярных сервисов такого рода.
 Используется для проверки сборки и тестирования проектов, расположенных на Github.
 Сервис конфигурируется с помощью добавления в репозиторий
-[файла с именем .travis.yml](http://docs.travis-ci.com/user/getting-started/),
+[файла с именем .travis.yml](https://docs.travis-ci.com/user/getting-started/),
 который является обычным текстовым файлом в YAML формате.
 Сервис автоматически обнаруживает коммит в репозиторий и запускает сборку и запуск тестов.
 Например так - <https://github.com/Parallels/pcs-nova-driver/blob/master/.travis.yml>
 Сервис бесплатен для открытых проектов.
 
-[Coverity](http://www.coverity.com) - сервис, который выполняет
+[Coverity](https://www.coverity.com) - сервис, который выполняет
 статический анализ кода проектов, написанных на Java, C#, C/C++,
 что позволяет находить баги и проблемы в безопасности на ранней стадии.
 Сервис бесплатен для открытых проектов и им уже воспользовались
@@ -57,8 +57,8 @@ Coviolations - проверка Python кода на соответствие PE
 
 Из более-менее известных есть ещё
 [Buildhive](https://buildhive.cloudbees.com), [Circle CI](https://circleci.com),
-[GitLab CI](https://ci.gitlab.org), [Semaphore](https://semaphoreapp.com)
-и [Codeship](https://www.codeship.io), но я их не пробовал и знакомство
+[GitLab CI](http://ci.gitlab.org), [Semaphore](https://semaphoreapp.com)
+и [Codeship](http://www.codeship.io), но я их не пробовал и знакомство
 с ними оставляю на ваше усмотрение. Все они более-менее похожи друг на друга.
 
 Нужно заметить, что описанные выше сервисы подойдут не всем проектам.
@@ -71,7 +71,7 @@ Coviolations - проверка Python кода на соответствие PE
 Среди таких сервисов хотелось бы видеть такие, которые бы
 использовали больше инструментов для выявления проблем в коде, как например
 [AddressSanitizer](https://code.google.com/p/address-sanitizer/),
-[LeakSanitizer](http://www.chromium.org/developers/testing/leaksanitizer)
+[LeakSanitizer](https://www.chromium.org/developers/testing/leaksanitizer)
 или даже библиотеки для fault-injection и т.д. Может это просто вопрос времени?
 
 _Добавлено_: Ещё есть [Testling](https://ci.testling.com) для автоматического

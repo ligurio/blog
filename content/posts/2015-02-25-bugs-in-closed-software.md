@@ -29,8 +29,8 @@ tags: ["softwaretesting"]
 <!--
 Помимо моих есть ещё много примеров описания дефектов закрытого ПО в блогах:
 [Mac OS panic](https://medium.com/@oleavr/diy-kernel-panic-os-x-and-ios-in-10-loc-c250d9649159)
-- insecure Evernote <http://www.gigpeppers.com/if-you-are-storing-important-info-in-evernote-think-twice/>
-- <http://talater.com/chrome-is-listening/>
+- insecure Evernote <https://www.gigpeppers.com/if-you-are-storing-important-info-in-evernote-think-twice/>
+- <https://talater.com/chrome-is-listening/>
 - <http://robert.ocallahan.org/2014/09/vmware-cpuid-conditional-branch.html>
 - <https://vk.com/wall-56751744_52571>
 <blockquote class="twitter-tweet" lang="en"><p>Вынужден констатировать что Parallels Desktop доебал своими вылетами и зависаниями. И у них еще хватает наглости просить денег за апдейты?!!</p>&mdash; Dmytro Oleksiuk (@d_olex) <a href="https://twitter.com/d_olex/status/420207010571755520">January 6, 2014</a></blockquote>

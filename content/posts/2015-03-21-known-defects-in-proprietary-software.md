@@ -13,10 +13,10 @@ tags: ["softwaretesting"]
 - [Открытые базы данных дефектов в закрытом ПО](/2015/03/13/bugs-in-closed-software-2.html)
 
 но существующие проекты покрывают не все проблемы в закрытом ПО,
-поэтому я сделал ещё один - [Community bugs reports](http://bugs.bronevichok.ru/wiki?name=FAQ),
+поэтому я сделал ещё один - [Community bugs reports](https://bugs.bronevichok.ru/wiki?name=FAQ),
 который на мой взгляд, лишён их недостатков:
 
-- проект легко клонировать, так как это репозиторий [Fossil SCM](http://bugs.bronevichok.ru/wiki?name=Mirrors)
+- проект легко клонировать, так как это репозиторий [Fossil SCM](https://bugs.bronevichok.ru/wiki?name=Mirrors)
 - проект не использует закрытые платформы, как например это делают проекты OpenRadar или Google bugs
 - список производителей ПО не ограничен Google и Apple
 

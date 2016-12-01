@@ -10,11 +10,11 @@ url: /2015/01/26/testing-of-lustre-fs.html
 [LustreFS](http://wiki.lustre.org/) - это распределённая файловая система.
 Роман Григорьев согласился ответить на вопросы о разработке и тестировании LustreFS.
 
-Дополнительные ссылки: слайды [Testing Lustre with Xperior](http://www.eofs.eu/fileadmin/lad2014/slides/08_Roman_Grigoryev_Xperior__LAD14_Seagate.pdf), [Wikipedia](https://en.wikipedia.org/wiki/Lustre_(file_system)).
+Дополнительные ссылки: слайды [Testing Lustre with Xperior](https://www.eofs.eu/fileadmin/lad2014/slides/08_Roman_Grigoryev_Xperior__LAD14_Seagate.pdf), [Wikipedia](https://en.wikipedia.org/wiki/Lustre_(file_system)).
 
 **Could you briefly introduce yourself?**
 
-I work for Seagate (before acquisition - for [Xyratex](http://www.xyratex.com/)) on quality
+I work for Seagate (before acquisition - for [Xyratex](https://www.xyratex.com/)) on quality
 and builds tools include testing automation for Clusterstore.
 I'm  describing here my point of view and it is not Seagate or OpenSFS view. 
 Lustre has pretty big community, maintainer(and main developer) is Intel. The most of answers are 
@@ -99,7 +99,7 @@ One company do Lustre checks with Coverity and push fixes for found issues.
 Unfortunately, by licensee limitations report wasn't published and it's hard
 fully evaluate it. I discussed with guy from the company on conference
 and asked him for the most critical issues from Coverity and comparing
-it with [CppCheck](http://sourceforge.net/projects/cppcheck/) list which I had.
+it with [CppCheck](https://sourceforge.net/projects/cppcheck/) list which I had.
 From high level view, CppCheck warnings set was subset of Coverage set
 and bigger part of high priority warning was same but it's hard to evaluate
 it in details. In Seagate we decided that it is good idea for integrating CppCheck to our process.

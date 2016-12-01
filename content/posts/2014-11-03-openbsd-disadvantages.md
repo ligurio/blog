@@ -10,12 +10,12 @@ url: /2014/11/03/openbsd-disadvantages.html
 неудобства. В дальнейшем часть этой функциональности была реализована и я убрал
 их из списка. Например это были:
 
-- реализация crypto [softraid](http://www.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man4/softraid.4?query=softraid)
+- реализация crypto [softraid](https://www.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man4/softraid.4?query=softraid)
 - поддержка UTF-8 в системе
 - портирование клиента [Seafile](http://ports.su/net/seafile) (Привет, kirby@!)
-- поддержка NTFS 3g. Благодаря поддержке [fuse](http://www.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man4/fuse.4?query=fuse) в ядре появилась возможность использования тех файловых систем,
+- поддержка NTFS 3g. Благодаря поддержке [fuse](https://www.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man4/fuse.4?query=fuse) в ядре появилась возможность использования тех файловых систем,
 о которых можно было даже не мечтать. В том числе [ntfs-3g](http://ports.su/sysutils/ntfs-3g).
-- возможность установки в [unattended режиме](http://www.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man8/autoinstall.8?query=autoinstall)
+- возможность установки в [unattended режиме](https://www.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man8/autoinstall.8?query=autoinstall)
 - возможность подключить проектор
 
 Но часть вещей всё ещё осталась.
@@ -44,14 +44,14 @@ url: /2014/11/03/openbsd-disadvantages.html
 обновление базы с метаданными не требовалось.
 * Skype сейчас является одним из самых популярных IM клиентов.
 Для OpenBSD нет официальной поддержки клиента Skype, а он мне нужен был для работы с коллегами.
-Какое-то время я использовал сервис [imo.im](http://imo.im), который до покупки компании Skype
+Какое-то время я использовал сервис [imo.im](https://imo.im), который до покупки компании Skype
 компанией Microsoft поддерживал Skype в веб интерфейсе. Но сразу после покупки поддержка прекратилась.
-Недавно Microsoft интегрировала поддержку чатов Skype в [outlook.com](http://outlook.com).
+Недавно Microsoft интегрировала поддержку чатов Skype в [outlook.com](https://outlook.com).
 Но пользоваться им ужасно неудобно.
 * Отсутствие системы распознавания текста, хотя мои эксперименты с [tesseract](http://ports.su/graphics/tesseract)
 показали, что эта OCR подает надежды.
-* В базовой установке OpenBSD можно на выбор использовать emacs-подобный редактор [mg(1)](http://www.openbsd.org/cgi-bin/man.cgi?query=mg&apropos=0&sektion=0&manpath=OpenBSD+Current&arch=i386&format=html)
-или [vi(1)](http://www.openbsd.org/cgi-bin/man.cgi?query=vi&apropos=0&sektion=0&manpath=OpenBSD+Current&arch=i386&format=html).  Но, к сожалению, ни тот, ни другой
+* В базовой установке OpenBSD можно на выбор использовать emacs-подобный редактор [mg(1)](https://www.openbsd.org/cgi-bin/man.cgi?query=mg&apropos=0&sektion=0&manpath=OpenBSD+Current&arch=i386&format=html)
+или [vi(1)](https://www.openbsd.org/cgi-bin/man.cgi?query=vi&apropos=0&sektion=0&manpath=OpenBSD+Current&arch=i386&format=html).  Но, к сожалению, ни тот, ни другой
 не поддерживает Unicode и из-за этого приходится устанавливать vim из пакетов.
 * Отсутствие файловой системы с поддержкой журналирования приводит к тому,
 что если жёстко выключить компьютер, то проверка ФС на ошибки
@@ -60,13 +60,13 @@ url: /2014/11/03/openbsd-disadvantages.html
 Но проблема решается установкой и настройкой [wpa_supplicant](http://ports.su/security/wpa_supplicant) из пакетов.
 * Отсутствие удобного менеджера сетевых настроек. Ну то есть
 если у вас на каждом сетевом интерфейсе используется одна или максимум две
-сети, то можно каждый раз переконфигурировать сетевые настройки редактированием [hostname.if(5)](http://www.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man5/hostname.if.5?query=hostname%2eif&sec=5),
+сети, то можно каждый раз переконфигурировать сетевые настройки редактированием [hostname.if(5)](https://www.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man5/hostname.if.5?query=hostname%2eif&sec=5),
 но в 21-м веке хочется чего-то более удобного.
 * Нет поддержки видеокарт NVidia. Впрочем это проблема не самой OpenBSD,
 причина в отстутствии открытой документации для этих видеокарт.
 * Возможность использования макросов MS Office для генерации слайдов.
 * Удобный клиент для SIP (pjsip ужасен, Ekiga не работает).
-[Вариант с aucat(1) и ssh(1)](http://article.gmane.org/gmane.os.openbsd.misc/159482) конечно работает, но для реальной жизни мало подходит :)
+[Вариант с aucat(1) и ssh(1)](https://article.gmane.org/gmane.os.openbsd.misc/159482) конечно работает, но для реальной жизни мало подходит :)
 * Отсутствие удобного календаря, аналога Apple iCal. Чтобы была поддержка формата iCal,
 сетевых календарей и поддержка Exchange. Пока есть только кандидат -
 [California](https://wiki.gnome.org/Apps/California),
@@ -74,10 +74,10 @@ url: /2014/11/03/openbsd-disadvantages.html
 и Mozilla Sunbird, пока [Mozilla не закрыла разработку Sunbird](https://support.mozilla.org/en-US/kb/calendar-lightning-and-sunbird-faq). Использовал веб-интерфейс Exchange - Outlook OWA, но у такого способа нет нотификаций.
 Использовать Mozilla Thunderbird не удобно, потому что мне не нужен монстр с
 почтой. Я почту читаю в mutt.
-* Портирование редактора для epub - [Sigil](http://code.google.com/p/sigil/)
+* Портирование редактора для epub - [Sigil](https://code.google.com/p/sigil/)
 * Портирование простого редактора [Gnome Paint](https://code.google.com/p/gnome-paint/)
 <!-- мне не нравится недружелюбность разработчиков к конечным пользователям, warn when battery is over [shutdownd](https://github.com/jcs/shutdownd) -->
 
-P.S. Заметка приурочена к [новому релизу OpenBSD 5.6](http://www.openbsd.org/56.html).
+P.S. Заметка приурочена к [новому релизу OpenBSD 5.6](https://www.openbsd.org/56.html).
 
 Fin

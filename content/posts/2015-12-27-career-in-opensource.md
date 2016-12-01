@@ -16,7 +16,7 @@ url: /2015/12/27/career-in-opensource.html
 неудовлетворительно справлялась с пользовательскими задачами.
 
 Алексей Кузнецов, который по воле случая
-[превратился](http://www.opennet.ru/opennews/art.shtml?num=38016) в Linux
+[превратился](https://www.opennet.ru/opennews/art.shtml?num=38016) в Linux
 хакера, сменил свою профессию с физика-теоретика на системного программиста.
 
 ИТ-журналист Пётр Семилетов помимо своей основной работы уже десять лет
@@ -35,7 +35,7 @@ url: /2015/12/27/career-in-opensource.html
 исходного кода, но и тестирование, техническая поддержка, написание
 документации, маркетинг и т.д. А ещё - отличный шанс приобрести опыт и получить
 удовольствие от общения с такими же единомышленниками, как вы. Согласно
-[результатам голосования](http://opensource.com/life/15/8/poll-biggest-barrier-open-source)
+[результатам голосования](https://opensource.com/life/15/8/poll-biggest-barrier-open-source)
 основным препятствием для участия в открытом проекте является отсутствие
 понимания того, как присоединиться к проекту. Поэтому в статье мы разберёмся как
 и в качестве кого можно присоединиться к такому проекту.
@@ -80,7 +80,7 @@ PostgreSQL жёстко регламентированы все процессы
 Постоянная работа с текущими запросами даёт отличную возможность внести свой
 вклад в проект. Для работы с системой вам могут понадобиться специальные права
 доступа, которые вам предоставит менеджер проекта, следуя принципам
-[меритократии](http://www.opennet.ru/opennews/art.shtml?num=29474).
+[меритократии](https://www.opennet.ru/opennews/art.shtml?num=29474).
 
 ### Тестируйте промежуточные версии
 
@@ -115,7 +115,7 @@ PostgreSQL жёстко регламентированы все процессы
 
 <!-- https://twitter.com/_openvz_/status/639500397443444736 -->
 
-<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">First kernel update in September - Kernel RHEL6 testing 042stab111.11 <a href="http://t.co/qOKOlJiWCY">http://t.co/qOKOlJiWCY</a></p>&mdash; OpenVZ Containers (@_openvz_) <a href="https://twitter.com/_openvz_/status/639500397443444736">September 3, 2015</a></blockquote>
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">First kernel update in September - Kernel RHEL6 testing 042stab111.11 <a href="https://t.co/qOKOlJiWCY">http://t.co/qOKOlJiWCY</a></p>&mdash; OpenVZ Containers (@_openvz_) <a href="https://twitter.com/_openvz_/status/639500397443444736">September 3, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Вы можете принять участие в тестировании и убедиться, что продукт работает на
@@ -130,7 +130,7 @@ PostgreSQL жёстко регламентированы все процессы
 В большинстве проектов используются программные комплексы, предназначенные для
 тестирования кода, но сложно представить себе такой комплекс, который бы не
 предусматривал возможности добавления в него новых тестов. Используйте такие
-тестовые инструменты, как [gcov](http://criu.org/cov/) для C, чтобы установить
+тестовые инструменты, как [gcov](https://criu.org/cov/) для C, чтобы установить
 те области исходного кода, которые нельзя протестировать имеющимися тестами.
 Затем добавьте соответствующий тест, чтобы иметь возможность протестировать
 необходимую функциональность.
@@ -185,11 +185,11 @@ Virtuozzo, тем, кто хочет принять участие в Linux-пр
 ошибаетесь. Нет "серьёзного" или "несерьёзного" вклада в открытый проект. К
 примеру, разработчик OpenBSD (в то же время и сотрудник CERN) Инго Шварц (Ingo
 Schwarze) написал утилиту
-[mandoc](http://www.openbsd.org/cgi-bin/man.cgi?query=mandoc&sektion=), которая
+[mandoc](https://www.openbsd.org/cgi-bin/man.cgi?query=mandoc&sektion=), которая
 теперь используется для форматирования страниц документации не только в OpeBSD,
 но и в FreeBSD, NetBSD, DragonFlyBSD и попутно привёл в порядок форматирование
 существующих страниц документации в проекте. Об этом он
-[рассказывал](http://www.openbsd.org/papers/bsdcan15-mandoc.pdf) на BSDCan 2015.
+[рассказывал](https://www.openbsd.org/papers/bsdcan15-mandoc.pdf) на BSDCan 2015.
 Так что все зависит от того, что интересно вам. Если интересно - беритесь и
 делайте!
 
@@ -215,9 +215,9 @@ Schwarze) написал утилиту
 решения технических проблем, который может вам пригодиться при поиске новой
 работы. Во многих проектах есть агрегаторы записей из блогов участников проекта,
 традиционно их называют "планетами": планеты
-[OpenVZ](https://planet.openvz.org/), [Linux kernel](http://planet.kernel.org/),
+[OpenVZ](http://planet.openvz.org/), [Linux kernel](http://planet.kernel.org/),
 [Perl](http://planet.perl.org/), [Freedesktop](http://planet.freedesktop.org/),
-[Gnome](http://planet.gnome.org/), [Debian](http://planet.debian.net/) и т.д.
+[Gnome](https://planet.gnome.org/), [Debian](http://planet.debian.net/) и т.д.
 Записи увлечённых своим делом людей могут быть интересны даже если вы никак не
 связаны с проектом.
 
@@ -228,7 +228,7 @@ Schwarze) написал утилиту
 зациклены на реализации, а не на том, как это должно выглядеть. Поэтому участие
 дизайнеров крайне приветствуется. Пользователи сайта StackExchange попробовали
 ответить на вопросы ["как графический дизайнер может внести вклад в открытый
-проект"](http://graphicdesign.stackexchange.com/questions/46427/how-can-graphic-designers-contribute-to-open-source-projects), ["чем должен мотивироваться дизайнер для участия в открытом проекте"](http://graphicdesign.stackexchange.com/questions/21399/motivations-for-a-designer-to-get-involved-in-an-open-source-project), но
+проект"](https://graphicdesign.stackexchange.com/questions/46427/how-can-graphic-designers-contribute-to-open-source-projects), ["чем должен мотивироваться дизайнер для участия в открытом проекте"](http://graphicdesign.stackexchange.com/questions/21399/motivations-for-a-designer-to-get-involved-in-an-open-source-project), но
 мнения их разошлись. Дизайнеры из компании Red Hat также осознали необходимость
 более активного участия дизайнеров в открытых проектах и попробовали создать
 [сайт](http://opensourcedesign.net/jobs/), который поможет открытым проектам и

@@ -42,7 +42,7 @@ tags: ["running", "personal"]
 
 Данные о координатах станций я взял из [репозитория](https://github.com/nerevar/metroflow),
 а они в свою очередь были получены с использованием [Яндекс.Геокодера](https://tech.yandex.ru/maps/doc/geocoder/desc/concepts/About-docpage/). Расстояние между координатами можно посчитать с помощью
-двух сервисов: [YOURS](http://wiki.openstreetmap.org/wiki/YOURS#API_documentation), [GraphHopper](https://github.com/graphhopper/web-api). Я выбрал первый, потому что второй сервис платный и для
+двух сервисов: [YOURS](https://wiki.openstreetmap.org/wiki/YOURS#API_documentation), [GraphHopper](https://github.com/graphhopper/web-api). Я выбрал первый, потому что второй сервис платный и для
 доступа к API нужен был хотя бы временный ключ. У меня его не оказалось.
 
 С расчётами расстояния между входом на станцию и платформой оказалось сложнее.
@@ -70,7 +70,7 @@ tags: ["running", "personal"]
 * [м. Охотный ряд - м. Библиотека им. Ленина](https://metro.yandex.ru/moscow?from=10&to=11&route=0)
 * [м. Комсомольская - м. Красные ворота](https://metro.yandex.ru/moscow?from=6&to=7&route=0)
 * [м. Университет - м. Проспект Вернадского](https://metro.yandex.ru/moscow?from=17&to=18&route=0)
-* [м. Коломенская - м. Каширская](http://metro.yandex.ru/moscow?from=33&to=34&route=0)
+* [м. Коломенская - м. Каширская](https://metro.yandex.ru/moscow?from=33&to=34&route=0)
 * [м. Маяковская - м. Тверская](https://metro.yandex.ru/moscow?from=27&to=28&route=0)
 * [м. Cпортивная - м. Воробьевы горы](https://metro.yandex.ru/moscow?from=15&to=16&route=0)
 * [м. Кропоткинская - м. Библиотека им. Ленина](https://metro.yandex.ru/moscow?from=11&to=12&route=0)

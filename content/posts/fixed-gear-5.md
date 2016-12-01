@@ -99,7 +99,7 @@ _Забавно, что я сделал эту серию постов в нед
 
 * крепеж [BBB ParkinHook BTL-26](https://velorace.ru/145/kreplenie-na-stenu/2263/),
 [Cycle Snap](http://cyclesnap.com/), [Clug](http://www.getclug.com/), [Боцман
-Крюк](http://itsmybike.ru/shop/bike-covers/botsman-kryuk-dlya-hraneniya-velosipeda/),
+Крюк](https://itsmybike.ru/shop/bike-covers/botsman-kryuk-dlya-hraneniya-velosipeda/),
 [BTWIN](https://www.decathlon.ru/krjuk-dl-velosipeda-id_3760125.html), Da Vinci
 * http://vse-postroim-sami.ru/wp-content/uploads/2013/12/83.jpg
 * Складные крылья Musguard https://moscowcyclist.files.wordpress.com/2016/05/project091.jpg?w=700

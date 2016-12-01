@@ -5,7 +5,7 @@ url: /2015/05/26/monty-talk.html
 tags: ["opensource"]
 ---
 
-Вчера мне [предоставилась](http://habrahabr.ru/company/acronis/blog/258601/)
+Вчера мне [предоставилась](https://habrahabr.ru/company/acronis/blog/258601/)
 возможность послушать выступление Майкла Видеуса. Этот человек участвовал с
 самого начала в разработке MySQL, основал компанию для разработки этой базы
 данных, потом продал компанию Sun Microsystems и после покупки Sun Microsystems
@@ -35,6 +35,6 @@ tags: ["opensource"]
 - Меньше риска потерять функциональность (приводятся фичи, удалённые в MySQL);
 
 Часть слайдов из выступления можно найти [здесь](https://bronevichok.ru/trash/Monty/),
-[блог Майкла](http://monty-says.blogspot.ru/).
+[блог Майкла](https://monty-says.blogspot.ru/).
 
 *Добавлено:* выложили [запись выступления](https://www.youtube.com/watch?v=4xJVsCIK2zg).

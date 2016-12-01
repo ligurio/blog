@@ -18,7 +18,7 @@ url: /2015/04/16/testing-of-reactos.html
 о разработке и тестировании в проекте.
 
 Кстати, благодаря своим знаниям о Windows, Алексей успел и поработать и над нашим продуктом
-[Containers for Windows](http://www.odin.com/uk/support/virtualization-suite/pvc/).
+[Containers for Windows](https://www.odin.com/uk/support/virtualization-suite/pvc/).
 
 **Пожалуйста представьтесь.**
 
@@ -28,7 +28,7 @@ url: /2015/04/16/testing-of-reactos.html
 **Как вы попали в проект ReactOS? Расскажите о вашем первом патче.**
 
 Мой первый патч в ReactOS (его закоммитил итальянский разработчик в ревизии
-*[4417](http://code.reactos.org/changelog/reactos?cs=4417)* 24 марта 2003 года)
+*[4417](https://code.reactos.org/changelog/reactos?cs=4417)* 24 марта 2003 года)
 - это работа над функцией *NtQuerySystemInformation*.
 Т.к. графического режима в ReactOS тогда ещё не было, я сделал его
 консольный вариант - Console Task Manager. Под Windows он прекрасно работал,

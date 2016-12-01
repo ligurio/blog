@@ -9,7 +9,7 @@ tags: ["opensource", "openvz"]
 Если раньше у нас были проблемы с охватом целевой аудитории при объявлении
 новостей проекта, то в этот раз постарались анонсировать где только возможно: в
 [блоге компании](https://habrahabr.ru/company/virtuozzo/blog/306466/),
-[LWN](http://lwn.net/Articles/695362/),
+[LWN](https://lwn.net/Articles/695362/),
 [InfoWorld](http://www.infoworld.com/article/3099981/virtualization/openvz-70-runs-linux-vms-like-containers.html),
 почтовые рассылки, подкасты
 [SDcast](https://sdcast.ksdaemon.ru/2016/08/sdcast-47/) и

@@ -5,10 +5,10 @@ url: /2015/02/06/bookmate-bugs.html
 tags: ["opensource", "softwaretesting"]
 ---
 
-Некоторое время назад я написал о том, что нашёл читалку своей мечты. Ею стало приложение [Bookmate](https://bookmate.com), [установленное](http://lifehacker.ru/2013/01/28/bookmate-nook/) на Nook Simple Touch.
+Некоторое время назад я написал о том, что нашёл читалку своей мечты. Ею стало приложение [Bookmate](https://bookmate.com), [установленное](https://lifehacker.ru/2013/01/28/bookmate-nook/) на Nook Simple Touch.
 Я оплатил подписку на сервис и не мог нарадоваться обилию деловой и художественной литературы.
 
-<blockquote class="twitter-tweet" lang="en"><p>Сервис со списками книг Библа <a href="http://t.co/NuOvere5Ju">http://t.co/NuOvere5Ju</a> похоже окончательно умирает. Уже неделю висит &quot;Что-то сломалось. Мы разбираемся...&quot;.</p>&mdash; Sergey Bronnikov (@estet) <a href="https://twitter.com/estet/status/495491581869191168">August 2, 2014</a></blockquote>
+<blockquote class="twitter-tweet" lang="en"><p>Сервис со списками книг Библа <a href="https://t.co/NuOvere5Ju">http://t.co/NuOvere5Ju</a> похоже окончательно умирает. Уже неделю висит &quot;Что-то сломалось. Мы разбираемся...&quot;.</p>&mdash; Sergey Bronnikov (@estet) <a href="https://twitter.com/estet/status/495491581869191168">August 2, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" lang="en"><p>Но похоже нет худа без добра. Я нашёл для себя крутой сервис <a href="https://twitter.com/bookmate_ru">@bookmate_ru</a> cо списками книг, синхронизацией и цитатами.</p>&mdash; Sergey Bronnikov (@estet) <a href="https://twitter.com/estet/status/495491624059666433">August 2, 2014</a></blockquote>

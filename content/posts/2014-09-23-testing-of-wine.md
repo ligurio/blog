@@ -169,13 +169,13 @@ box with 25 days of uptime, so the crash only happened on Wine ;-)
 
 ## Дополнительная информация о тестировании Wine
 
-- «Application Testing» [OGV](https://ia600603.us.archive.org/21/items/Wineconf2009/pilkaapptest2009-small.ogv)
-- «wineoops – A statistical approach to Wine crashes» [PDF](http://people.redhat.com/mstefani/wineoops/wineoops-wineconf2009.pdf) [OGV](http://www.archive.org/download/Wineconf2009/stefaniucwineoops2009.ogv)
-- «WineTestBot - A Wine gatekeeper and test farm for Wine developers» [PDF](http://wiki.winehq.org/FOSDEM2013?action=AttachFile&do=get&target=WineConf2013-WTB.pdf)
+- «Application Testing» [OGV](http://ia600603.us.archive.org/21/items/Wineconf2009/pilkaapptest2009-small.ogv)
+- «wineoops – A statistical approach to Wine crashes» [PDF](https://people.redhat.com/mstefani/wineoops/wineoops-wineconf2009.pdf) [OGV](http://www.archive.org/download/Wineconf2009/stefaniucwineoops2009.ogv)
+- «WineTestBot - A Wine gatekeeper and test farm for Wine developers» [PDF](https://wiki.winehq.org/images/6/6c/WineConf2013-WTB.pdf)
 
 <br>
 
 <!--
-http://newtestbot.winehq.org/
+https://newtestbot.winehq.org/
 https://code.google.com/p/win16test/
 -->

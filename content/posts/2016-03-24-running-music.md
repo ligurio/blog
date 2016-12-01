@@ -34,7 +34,7 @@ tags: ["running", "personal"]
 
 Ну что ж, подумал я, музыку я люблю, список любимых треков состоит из 1000 песен
 и что-нибудь подходящее я точно найду. Я перерыл все ["заскробленные"
-песни](http://www.last.fm/ru/user/estetus) на Last.FM,
+песни](https://www.last.fm/ru/user/estetus) на Last.FM,
 [плейлисты](https://music.yandex.ru/users/ligurio/playlists) на Яндекс.Музыке и
 составил список треков, которые нравятся особенно сильно.
 
@@ -45,7 +45,7 @@ tags: ["running", "personal"]
 
 Гугление  мотивирующей музыки также не увенчалось успехом. Вcё было не то.
 Например, восьмикратный олимпийский чемпион по биатлону Уле-Эйнар Бьорндален
-[ответил](http://the-challenger.ru/challenge/10-pesen-vdohnovlyayuschih-sportsmenov-na-podvigi-mirovye-rekordy/),
+[ответил](https://the-challenger.ru/challenge/10-pesen-vdohnovlyayuschih-sportsmenov-na-podvigi-mirovye-rekordy/),
 что выбрал бы Dire Straits для прослушивания перед стартом, потому что "у них
 всегда хорошая музыка.". Я конечно тоже люблю Dire Straits, но ни "So Far Away",
 ни "Sultans of Swing" никак мне с моей проблемой не помогут.
@@ -63,19 +63,19 @@ tags: ["running", "personal"]
 своём выборе пока не жалею.
 
 <!--
-- [Vanessa Mae - Red Hot](http://www.youtube.com/watch?v=7bDNJAzREQY)
-- Reaktor Productions - [Can't slow down](http://www.youtube.com/watch?v=F18vzszI4bU)
-- Martin Garrix - [Animals](http://www.youtube.com/watch?v=gCYcHz2k5x0)
-- [Survivor - Eye Of The Tiger](http://www.youtube.com/watch?v=btPJPFnesV4)
+- [Vanessa Mae - Red Hot](https://www.youtube.com/watch?v=7bDNJAzREQY)
+- Reaktor Productions - [Can't slow down](https://www.youtube.com/watch?v=F18vzszI4bU)
+- Martin Garrix - [Animals](https://www.youtube.com/watch?v=gCYcHz2k5x0)
+- [Survivor - Eye Of The Tiger](https://www.youtube.com/watch?v=btPJPFnesV4)
 или девятую симфонию Людвига Бетховена в исполнении оркестра
 под руководством Артура Тосканини (http://rutracker.org/forum/viewtopic.php?t=1743827).
 
 Получился такой треклист:
 - Freaks - Timmy Trumpet, Savage, Savage
-- [Reaktor Productions - Can't slow down](http://www.youtube.com/watch?v=F18vzszI4bU)
-- [Martin Garrix - Animals](http://www.youtube.com/watch?v=gCYcHz2k5x0)
-- [Survivor - Eye Of The Tiger](http://www.youtube.com/watch?v=btPJPFnesV4)
-- [The Prodigy - Thunder](http://www.youtube.com/watch?v=-91xG7scrDs)
+- [Reaktor Productions - Can't slow down](https://www.youtube.com/watch?v=F18vzszI4bU)
+- [Martin Garrix - Animals](https://www.youtube.com/watch?v=gCYcHz2k5x0)
+- [Survivor - Eye Of The Tiger](https://www.youtube.com/watch?v=btPJPFnesV4)
+- [The Prodigy - Thunder](https://www.youtube.com/watch?v=-91xG7scrDs)
 - [Ночные Снайперы - Актриса](https://www.youtube.com/watch?v=8aBItZQt8ws)
 - [Элизиум - Три белых коня](https://www.youtube.com/watch?v=pVDSjFioMBE)
 - [Reel Big Fish - Everything Sucks](https://www.youtube.com/watch?v=ALHybzqaWwg)
@@ -85,9 +85,9 @@ tags: ["running", "personal"]
 - Tony Anderson - Eyes Wide Open ([Московский марафон 2015](https://www.youtube.com/watch?v=XBeOIUsgj1o))
 - [Московский марафон - 2013](https://www.youtube.com/watch?v=tpvw21Wk-Yk)
 - [Московский марафон - 2014](https://www.youtube.com/watch?v=OfnvY6okHRs)
-- [Vanessa Mae - Red Hot](http://www.youtube.com/watch?v=7bDNJAzREQY)
-- [Thomas Bergersen, Two Steps from Hell - Heart of Courage](http://www.youtube.com/watch?v=XYKUeZQbMF0)
-- [Sophie Ellis-Bextor - China Heart](http://www.youtube.com/watch?v=o6GAaXquuQk)
+- [Vanessa Mae - Red Hot](https://www.youtube.com/watch?v=7bDNJAzREQY)
+- [Thomas Bergersen, Two Steps from Hell - Heart of Courage](https://www.youtube.com/watch?v=XYKUeZQbMF0)
+- [Sophie Ellis-Bextor - China Heart](https://www.youtube.com/watch?v=o6GAaXquuQk)
 - me first and the gimme gimmes Sweet Caroline
 - Me First And The Gimme Gimmes I Believe I Can Fly
 - Me First And The Gimme Gimmes I Will Survive

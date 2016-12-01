@@ -147,12 +147,12 @@ url: /2014/09/30/quality-assurance-in-openstreetmap.html
 
 **Дополнительная информация**
 
-- [Beyond good enough? Spatial Data Quality and OpenStreetMap data](http://www.slideshare.net/mukih/beyond-good-enough-spatial-data-quality-and-openstreetmap-data)
-- [OpenStreetMap Data Quality](http://www.slideshare.net/geomantic/openstreetmap-data-quality)
-- [Quality Assurance Tools script](http://wiki.openstreetmap.org/wiki/Quality_Assurance_Tools_script)
-- [OSM Wiki: Quality assurance](http://wiki.openstreetmap.org/wiki/Quality_assurance)
+- [Beyond good enough? Spatial Data Quality and OpenStreetMap data](https://www.slideshare.net/mukih/beyond-good-enough-spatial-data-quality-and-openstreetmap-data)
+- [OpenStreetMap Data Quality](https://www.slideshare.net/geomantic/openstreetmap-data-quality)
+- [Quality Assurance Tools script](https://wiki.openstreetmap.org/wiki/Quality_Assurance_Tools_script)
+- [OSM Wiki: Quality assurance](https://wiki.openstreetmap.org/wiki/Quality_assurance)
 - [Инструменты контроля качества](http://osm.amdmi3.ru)
-<!-- Проект [OpenStreetBugs](http://wiki.openstreetmap.org/wiki/OpenStreetBugs) -->
-- [Notes](http://wiki.openstreetmap.org/wiki/Notes) - инструмент для сообщения о неточностях на карте
+<!-- Проект [OpenStreetBugs](https://wiki.openstreetmap.org/wiki/OpenStreetBugs) -->
+- [Notes](https://wiki.openstreetmap.org/wiki/Notes) - инструмент для сообщения о неточностях на карте
 
 Fin
