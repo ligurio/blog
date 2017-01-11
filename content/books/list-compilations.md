@@ -8,6 +8,8 @@ showthedate = false
 
 ## Почитать
 
+* Advanced Programming in the UNIX Environment
+* Debugging With GDB: The Gnu Source-Level Debugger
 * Уильям Детмер - Теория ограничений Голдратта. Системный подход к непрерывному совершенствованию
 * Роджер Пенроуз, «Путь к реальности»
 * Девора Зак "Управление для тех, кто не любит управлять"
