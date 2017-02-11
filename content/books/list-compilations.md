@@ -1,6 +1,6 @@
 +++
 date = "2050-02-28T18:39:24+03:00"
-tags = ["", ""]
+tags = ["books", ""]
 title = "Список для чтения (прикреплено)"
 url = "/books-to-read/"
 showthedate = false
@@ -8,15 +8,27 @@ showthedate = false
 
 ## Почитать
 
+* [Quick introduction into SAT/SMT solvers and symbolic execution](https://yurichev.com/tmp/SAT_SMT_DRAFT.pdf)
+* [Программирование: введение в профессию.](http://www.stolyarov.info/books/programming_intro)
+* [Стандартный глоссарий терминов, используемых в тестировании программного обеспечения](http://www.rstqb.org/fileadmin/user_upload/redaktion/rstqb_ru/downloads/ISTQB_Glossary_Russian_v2_2.pdf)
+* Джулиан Барнс The Sense of an Ending
+* В глубь языка Python ([в эл виде](http://ru.diveintopython.net/toc.html))
+* [Google's Python Class](https://developers.google.com/edu/python/)
+* [Think Python](http://greenteapress.com/thinkpython/html/index.html)
+* Стивен Кови «7 навыков высокоэффективных людей»
+* Джеффри Лайкер «Дао Toyota: 14 принципов менеджмента ведущей компании мира»
+* Стивен Спир «Догнать зайца»
+* Виктор Васильев «Белая книга»
+* [The Z Notation: a reference manual](http://spivey.oriel.ox.ac.uk/mike/zrm/index.html)
 * Advanced Programming in the UNIX Environment
 * Debugging With GDB: The Gnu Source-Level Debugger
-* Уильям Детмер - Теория ограничений Голдратта. Системный подход к непрерывному совершенствованию
-* Роджер Пенроуз, «Путь к реальности»
+* Уильям Детмер "Теория ограничений Голдратта. Системный подход к непрерывному совершенствованию"
+* Роджер Пенроуз «Путь к реальности»
 * Девора Зак "Управление для тех, кто не любит управлять"
 * Бриджид Шульте "Мне некогда!"
 * Ог Мандино "Величайший торговец в мире"
-* Преодолевая пропасть
-* Максим Ильяхов Пиши, сокращай
+* Мур "Преодолевая пропасть"
+* Максим Ильяхов "Пиши, сокращай"
 * Йона Бергер Заразительный
 * Джеральд Вайнберг Закон малинового варенья и еще 103 секрета консалтинга
 * Виктор Папанек. Дизайн для реального мира.
@@ -59,6 +71,7 @@ showthedate = false
 
 ## Списки книг
 
+* [Top mentioned books on stackoverflow.com](http://www.dev-books.com/)
 * [100 лучших романов ⅩⅩⅠ века от Афиши](http://mag.afisha.ru/stories/100-luchshih-romanov-veka/100-luchshih-romanov-veka/)
 * [Рекомендации от Галины Юзефович](https://meduza.io/specials/books)
 * [Источники книг](http://bibla.ru/estet/lists/%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8-%D0%BA%D0%BD%D0%B8%D0%B3/)
