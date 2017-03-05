@@ -8,6 +8,9 @@ showthedate = false
 
 ## Почитать
 
+* [Google - Site Reliability Engineering](https://landing.google.com/sre/book/index.html)
+* Биохимия человека (комплект из 2 книг: [часть 1](http://biology.univ.kiev.ua/phocadownload/Kafedry/biohim/Biohimija_cheloveka_t.1.pdf),
+[часть 2](http://biology.univ.kiev.ua/phocadownload/Kafedry/biohim/Biohimija_cheloveka_t.2.pdf))
 * [Quick introduction into SAT/SMT solvers and symbolic execution](https://yurichev.com/tmp/SAT_SMT_DRAFT.pdf)
 * [Программирование: введение в профессию.](http://www.stolyarov.info/books/programming_intro)
 * [Стандартный глоссарий терминов, используемых в тестировании программного обеспечения](http://www.rstqb.org/fileadmin/user_upload/redaktion/rstqb_ru/downloads/ISTQB_Glossary_Russian_v2_2.pdf)
