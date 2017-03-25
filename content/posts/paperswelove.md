@@ -17,8 +17,12 @@ SHA2](http://www.cs.princeton.edu/~appel/papers/verif-sha-2.pdf) и другие
 
 А ещё есть такой проект ["Papers we love"](http://paperswelove.org/). Люди
 находят интересные научные статьи и потом на митапах в разных городах их
-обсуждают.  Список [обсужденных статей о тестировании
+обсуждают. Список [обсужденных статей о тестировании
 ПО](https://github.com/papers-we-love/papers-we-love/tree/master/testing) не
 впечатляет, но вот на их [список источников
 статей](https://github.com/papers-we-love/papers-we-love#other-good-places-to-find-papers)
 стоит обратить внимание.
+
+**Update** (25.03.2017): Подсказывают ещё два ресурса с научными статьями -
+[arxiv.org](https://arxiv.org/) для поиска статей и [the morning
+paper](https://blog.acolyer.org/about/) для мониторинга новых статей.
