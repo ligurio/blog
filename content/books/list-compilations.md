@@ -15,7 +15,6 @@ showthedate = false
 * [Quick introduction into SAT/SMT solvers and symbolic execution](https://yurichev.com/tmp/SAT_SMT_DRAFT.pdf)
 * [Программирование: введение в профессию.](http://www.stolyarov.info/books/programming_intro)
 * [Стандартный глоссарий терминов, используемых в тестировании программного обеспечения](http://www.rstqb.org/fileadmin/user_upload/redaktion/rstqb_ru/downloads/ISTQB_Glossary_Russian_v2_2.pdf)
-* Джулиан Барнс The Sense of an Ending
 * В глубь языка Python ([в эл виде](http://ru.diveintopython.net/toc.html))
 * [Google's Python Class](https://developers.google.com/edu/python/)
 * [Think Python](http://greenteapress.com/thinkpython/html/index.html)
