@@ -1,6 +1,6 @@
 ---
 date: 2014-08-14T00:00:00Z
-title: Тестирование sudo
+title: "Интервью: тестирование sudo"
 tags: ["opensource", "openbsd", "interview", "softwaretesting", "openbsd-en"]
 url: /2014/08/14/testing-of-sudo.html
 ---

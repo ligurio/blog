@@ -1,6 +1,6 @@
 ---
 date: 2014-09-01T00:00:00Z
-title: Тестирование Python
+title: "Интервью: тестирование Python"
 tags: ["opensource", "interview", "softwaretesting"]
 url: /2014/09/01/testing-of-python.html
 ---

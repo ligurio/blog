@@ -1,6 +1,6 @@
 ---
 date: 2015-02-11T00:00:00Z
-title: Тестирование продуктов Mozilla
+title: "Интервью: тестирование продуктов Mozilla"
 tags: ["opensource", "interview", "softwaretesting"]
 url: /2015/02/11/testing-at-mozilla.html
 ---

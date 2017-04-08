@@ -1,6 +1,6 @@
 ---
 date: 2014-09-14T00:00:00Z
-title: Тестирование в проекте FFmpeg
+title: "Интервью: тестирование в проекте FFmpeg"
 tags: ["opensource", "interview", "softwaretesting"]
 url: /2014/09/14/testing-of-ffmpeg.html
 ---

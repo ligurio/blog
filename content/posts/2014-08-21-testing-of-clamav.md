@@ -1,6 +1,6 @@
 ---
 date: 2014-08-21T00:00:00Z
-title: Тестирование ClamAV
+title: "Интервью: тестирование ClamAV"
 tags: ["opensource", "interview", "softwaretesting"]
 url: /2014/08/21/testing-of-clamav.html
 ---

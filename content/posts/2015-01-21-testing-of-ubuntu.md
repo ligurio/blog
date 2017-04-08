@@ -1,6 +1,6 @@
 ---
 date: 2015-01-21T00:00:00Z
-title: Тестирование Ubuntu
+title: "Интервью: тестирование Ubuntu"
 tags: ["opensource", "interview", "softwaretesting"]
 url: /2015/01/21/testing-of-ubuntu.html
 ---
