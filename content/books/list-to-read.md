@@ -9,6 +9,7 @@ showthedate = false
 
 ### 2017
 
+*  Chris Sanders - Practical Packet Analysis
 * [Догма газеты “Ведомости”](http://mediakar.org/wp-content/uploads/2012/10/d0b4d0bed0b3d0bcd0b0-d0b2d0b5d0b4d0bed0bcd0bed181d182d0b8.pdf) 
 * **Джулиан Барнс - Предчуствие конца**
 * Пол Экман - Психология эмоций
