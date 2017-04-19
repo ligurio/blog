@@ -52,3 +52,5 @@ tags: ["opensource", "productivity"]
 [terminal velocity](https://vhp.github.io/terminal_velocity/). Тот же NV, но
 работает в текстовой консоли. Устанавливается стандартным образом для
 приложений на Питоне - ```pip install terminal_velocity```.
+
+Итого: MyBase --> didiwiki --> Tcl/Tk notebook --> nvAlt --> nvPy --> vimwiki --> terminal velocity
