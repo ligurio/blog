@@ -9,12 +9,14 @@ showthedate = false
 
 ### 2017
 
-* Бег по правилу 80/20 - Мэт Фицжеральд
+* [Real World Haskell](http://book.realworldhaskell.org/read/)
+* **[Изучай Haskell во имя добра](http://learnyouahaskell.com/chapters)**
+* [Бег по правилу 80/20 - Мэт Фицжеральд](/2016/06/10/quotes-80-per-20/)
 * Chris Sanders - Practical Packet Analysis
 * [Догма газеты “Ведомости”](http://mediakar.org/wp-content/uploads/2012/10/d0b4d0bed0b3d0bcd0b0-d0b2d0b5d0b4d0bed0bcd0bed181d182d0b8.pdf) 
 * **Джулиан Барнс - Предчуствие конца**
 * Пол Экман - Психология эмоций
-* **Бег по шоссе для серьёзных бегунов** (5 марта)
+* **Бег по шоссе для серьёзных бегунов**
 * **Ласло Бок - Работа рулит**
 * Керниган и Ритчи - Язык программирования С
 * Денис Юричев - Reverse Engineering для начинающих
