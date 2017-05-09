@@ -8,6 +8,11 @@ showthedate = false
 
 ## Почитать
 
+* Кольхепп и Крейг Кассинс - "Бонсай для начинающих"
+* Вернер Буш - "Бонсай в нашем доме"
+* "Бонсай. Большой атлас"
+* Вольфганга Каволлек - "Комнатный Бонсай"
+* "Бонсай из деревьев европейских лесов"
 * [Александр Лапин - Фотография как...](http://www.newsman.tsu.ru/wp-content/uploads/library/photojourn/photohow.pdf)
 * [Google - Site Reliability Engineering](https://landing.google.com/sre/book/index.html)
 * Биохимия человека (комплект из 2 книг: [часть 1](http://biology.univ.kiev.ua/phocadownload/Kafedry/biohim/Biohimija_cheloveka_t.1.pdf),
