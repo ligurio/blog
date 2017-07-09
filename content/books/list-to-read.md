@@ -9,9 +9,7 @@ showthedate = false
 
 ### 2017
 
-* Максим Ильяхов "Пиши, сокращай"
 * Джеральд Вайнберг Закон малинового варенья и еще 103 секрета консалтинга
-
 * Ог Мандино - Величайший торговец в мире
 * Корней Чуковский "Высокое искусство"
 * Benjamin C. Pierce - [Software Foundations](https://www.cis.upenn.edu/~bcpierce/sf/current/index.html)
