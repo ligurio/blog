@@ -8,6 +8,8 @@ showthedate = false
 
 ## Почитать
 
+* [Гарри Олдер, Берил Хэзер. NLP. Полное практическое руководство](http://lib.ru/NLP/fnlp.txt)
+* Максим Ильяхов "Пиши, сокращай"
 * Владимир Иссурин - Подготовка спортсменов XXI века: научные основы и построение тренировки
 * Борис Акунин - Фото как хокку
 * [Real World Haskell](http://book.realworldhaskell.org/read/) ([epub](https://github.com/runapp/rwh_epub))
