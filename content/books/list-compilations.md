@@ -8,6 +8,8 @@ showthedate = false
 
 ## Почитать
 
+* Bertrand Russell - The Conquest of Happiness
+* Neil Strauss - The Game: Penetrating the Secret Society of Pickup Artists
 * [Гарри Олдер, Берил Хэзер. NLP. Полное практическое руководство](http://lib.ru/NLP/fnlp.txt)
 * Максим Ильяхов "Пиши, сокращай"
 * Владимир Иссурин - Подготовка спортсменов XXI века: научные основы и построение тренировки
