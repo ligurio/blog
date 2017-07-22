@@ -1,7 +1,7 @@
 +++
 date = "2050-02-28T18:39:24+03:00"
 tags = ["books"]
-title = "Книги"
+title = "Списки книг"
 url = "/books/"
 showthedate = false
 +++
