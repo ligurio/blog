@@ -8,6 +8,7 @@ showthedate = false
 
 ## Почитать
 
+* Список книг из [Библатеки](http://bibla.ru/estet/want/)
 * Bertrand Russell - The Conquest of Happiness
 * Neil Strauss - The Game: Penetrating the Secret Society of Pickup Artists
 * [Гарри Олдер, Берил Хэзер. NLP. Полное практическое руководство](http://lib.ru/NLP/fnlp.txt)
