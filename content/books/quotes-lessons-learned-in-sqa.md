@@ -1,7 +1,6 @@
 +++
 date = "2015-07-13T18:39:24+03:00"
-slug = ""
-tags = ["", ""]
+tags = ["quotes"]
 title = "Cem Kaner, James Bach, Bret Pettichord - Lessons Learned in Software Testing"
 +++
 

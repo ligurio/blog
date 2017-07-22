@@ -1,6 +1,6 @@
 +++
 date = "2015-06-05T18:39:24+03:00"
-tags = ["", ""]
+tags = ["quotes"]
 title = "Dru Lavigne - Confessions of a community manager"
 +++
 
