@@ -53,4 +53,5 @@ tags: ["postgresql", "opensource"]
 [pg_feedback](https://pgxn.org/dist/pg_feedback/). Было бы здорово сделать ещё
 сервис с web-ui, чтобы смотреть статистику по полученным отчётам, но пока
 получилось их только собирать и складывать в СУБД -
-[pg_feedback-webui](https://github.com/ligurio/pg_feedback-webui).
+[pg_feedback-webui](https://github.com/ligurio/pg_feedback-webui). Да и не
+уверен я, что нужно писать специальный сервис, когда есть Logstash и Kibana.
