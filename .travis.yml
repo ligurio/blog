@@ -1,0 +1,22 @@
+language: python
+python:
+  - 2.7
+
+before_install:
+  - sudo apt-get update
+  - sudo apt-get install pandoc openjdk-7-jre
+  - sudo apt-get install aspell aspell-en aspell-ru
+  - curl -O https://languagetool.org/download/LanguageTool-2.7.zip && unzip LanguageTool-2.7.zip -d ~
+
+install:
+  - pip install requests markdown beautifulsoup4
+  - sudo add-apt-repository -y ppa:chris-lea/node.js
+  - sudo apt-get -y update
+  - sudo apt-get -y install nodejs
+  - sudo npm install yaspeller -g
+
+script:
+  - make
+
+notifications:
+  email: false
