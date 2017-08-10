@@ -1,9 +1,11 @@
 # https://ma.ttias.be/technical-guide-seo/
 
+HUGO=bin/hugo
+
 all: 404 200
 
 publish:
-	hugo
+	${HUGO}
 	scp -r public/* gw.bronevichok.ru:/var/www/html/www.bronevichok.ru/blog/
 
 404:
