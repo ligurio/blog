@@ -12,7 +12,6 @@ showthedate = false
 * Bertrand Russell - The Conquest of Happiness
 * Neil Strauss - The Game: Penetrating the Secret Society of Pickup Artists
 * [Гарри Олдер, Берил Хэзер. NLP. Полное практическое руководство](http://lib.ru/NLP/fnlp.txt)
-* Максим Ильяхов "Пиши, сокращай"
 * Владимир Иссурин - Подготовка спортсменов XXI века: научные основы и построение тренировки
 * Борис Акунин - Фото как хокку
 * [Real World Haskell](http://book.realworldhaskell.org/read/) ([epub](https://github.com/runapp/rwh_epub))
@@ -96,6 +95,7 @@ showthedate = false
 
 ### 2017
 
+* **Максим Ильяхов "Пиши, сокращай"**
 * **Вернер Буш "Бонсай в нашем доме"**
 * **Джеральд Вайнберг "Закон малинового варенья и еще 103 секрета консалтинга"**
 * Ог Мандино "Величайший торговец в мире"
