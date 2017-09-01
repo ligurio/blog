@@ -1,6 +1,6 @@
 ---
 date: 2017-09-01T00:00:00Z
-title: Коммерческое тестирование и тестирование opensource: есть ли отличия?
+title: "Коммерческое тестирование и тестирование opensource: есть ли отличия?"
 tags: ["opensource", "softwaretesting"]
 draft: true
 ---
