@@ -109,6 +109,7 @@ draft: true
 
 #### Linux
 
+* [Linux Inside](https://www.gitbook.com/book/0xax/linux-insides/details)
 * [Введение в Linux](https://stepik.org/course/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-Linux-73/)
 * Видеокурс [Introduction to Linux](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-1)
 * Книга ["UNIX. Руководство Системного Администратора"](https://www.ozon.ru/context/detail/id/7607778/) - Эви Немет
