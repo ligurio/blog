@@ -9,6 +9,7 @@ showthedate = false
 ## Почитать
 
 * Список книг из [Библатеки](http://bibla.ru/estet/want/)
+* Developer Testing: Building Quality into Software -- Alexander Tarlinder
 * Bertrand Russell - The Conquest of Happiness
 * Neil Strauss - The Game: Penetrating the Secret Society of Pickup Artists
 * [Гарри Олдер, Берил Хэзер. NLP. Полное практическое руководство](http://lib.ru/NLP/fnlp.txt)
@@ -67,6 +68,8 @@ showthedate = false
 
 ## Списки книг
 
+* [Курс на вдумчивое чтение: 22 книги, которые стоит прочитать полностью](https://theoryandpractice.ru/posts/15744-kurs-na-vdumchivoe-chtenie-22-knigi-kotorye-stoit-prochitat-polnostyu)
+* [25 книг для отпуска: от авангарда до квантовой физики](https://postnauka.ru/lists/76634)
 * [Top mentioned books on stackoverflow.com](http://www.dev-books.com/)
 * [100 лучших романов ⅩⅩⅠ века от Афиши](http://mag.afisha.ru/stories/100-luchshih-romanov-veka/100-luchshih-romanov-veka/)
 * [Рекомендации от Галины Юзефович](https://meduza.io/specials/books)
