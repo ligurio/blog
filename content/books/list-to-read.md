@@ -9,6 +9,7 @@ showthedate = false
 ## Почитать
 
 * Список книг из [Библатеки](http://bibla.ru/estet/want/)
+* [A Unix Person's Guide to PowerShell](https://www.gitbook.com/book/devops-collective-inc/a-unix-person-s-guide-to-powershell/details)
 * Developer Testing: Building Quality into Software -- Alexander Tarlinder
 * Bertrand Russell - The Conquest of Happiness
 * Neil Strauss - The Game: Penetrating the Secret Society of Pickup Artists

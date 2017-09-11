@@ -83,3 +83,4 @@ tags: ["testing"]
 * https://github.com/polarnik/TypesOfTesting
 * http://www.micsymposium.org/mics2015/ProceedingsMICS_2015/Mailewa_2D1_41.pdf
 * https://pastebin.com/xZ6m4T8Z
+* [Some things that might help you make better software](http://www.drmaciver.com/2016/10/some-things-that-might-help-you-write-better-software/)
