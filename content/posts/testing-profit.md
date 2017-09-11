@@ -62,6 +62,7 @@ tags: ["testing"]
 | Формальная верификация | Low | 50% |
 
 
+<!--
 ### Эффективность практик тестирования ПО
 
 | Процесс 				| Сложность внедрения | Эффективность |
@@ -71,6 +72,7 @@ tags: ["testing"]
 | Cпецификация и требования | Low | 13% |
 
 * [Survey on software testing practices](http://salab.kaist.ac.kr/old/publications/IET2012.pdf)
+-->
 
 ### См. также
 

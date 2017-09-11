@@ -59,6 +59,7 @@ draft: true
   * https://www.libreoffice.org/community/qa/
   * Как стать участником опенсорс-проекта, даже если не умеешь писать код? https://xakep.ru/2015/12/29/open-source-career/
 * ментор
+* http://www.maxshulga.ru/2016/06/useful-testers-resources.html
 
 До конца лета осталось два месяца, пусть этот список будет вашим списком на
 лето. Чтобы к осени у вас была прочная база знания для работы в тестировании
