@@ -9,13 +9,13 @@ showthedate = false
 ## Почитать
 
 * Список книг из [Библатеки](http://bibla.ru/estet/want/)
+* [An Oral history of Unix](http://gromnitsky.users.sourceforge.net/lit/an-oral-history-of-unix/)
 * [A Unix Person's Guide to PowerShell](https://www.gitbook.com/book/devops-collective-inc/a-unix-person-s-guide-to-powershell/details)
 * Developer Testing: Building Quality into Software -- Alexander Tarlinder
 * Bertrand Russell - The Conquest of Happiness
 * Neil Strauss - The Game: Penetrating the Secret Society of Pickup Artists
 * [Гарри Олдер, Берил Хэзер. NLP. Полное практическое руководство](http://lib.ru/NLP/fnlp.txt)
 * Владимир Иссурин - Подготовка спортсменов XXI века: научные основы и построение тренировки
-* Борис Акунин - Фото как хокку
 * [Real World Haskell](http://book.realworldhaskell.org/read/) ([epub](https://github.com/runapp/rwh_epub))
 * Кольхепп и Крейг Кассинс - "Бонсай для начинающих"
 * Бонсай. Большой атлас.
@@ -99,6 +99,8 @@ showthedate = false
 
 ### 2017
 
+* Роджер Пенроуз - Новый ум короля: о компьютерах, мышлении и законах физики
+* Борис Акунин - Фото как хокку
 * **Максим Ильяхов "Пиши, сокращай"**
 * **Вернер Буш "Бонсай в нашем доме"**
 * **Джеральд Вайнберг "Закон малинового варенья и еще 103 секрета консалтинга"**
