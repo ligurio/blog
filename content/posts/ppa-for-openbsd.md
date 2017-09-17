@@ -2,7 +2,6 @@
 date: 2017-09-17T00:00:00Z
 title: Own repository with OpenBSD packages
 tags: ["opensource", "openbsd", "openbsd-en"]
-draft: true
 ---
 
 Right now OpenBSD ports tree contains about 10042 ports according to
