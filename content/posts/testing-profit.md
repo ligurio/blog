@@ -30,6 +30,7 @@ tags: ["testing"]
 
 * Простое тестирование
   - https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-yuan.pdf	
+  - http://neverworkintheory.org/2014/10/08/simple-testing-can-prevent-most-critical-failures.html
 * Мутационное тестирование
   - http://www0.cs.ucl.ac.uk/staff/mharman/tse-mutation-survey.pdf
   - https://homes.cs.washington.edu/%7Emernst/pubs/mutation-effectiveness-fse2014.pdf
