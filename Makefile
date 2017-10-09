@@ -1,6 +1,6 @@
 # https://ma.ttias.be/technical-guide-seo/
 
-HUGO=bin/hugo
+HUGO=hugo
 
 all: 404 200
 
