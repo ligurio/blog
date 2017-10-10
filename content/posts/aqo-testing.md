@@ -1,7 +1,7 @@
 ---
 date: 2017-10-10T00:00:00Z
 title: О визуализации данных в тестировании ПО
-tags: ["softwaretesting"]
+tags: ["softwaretesting", "postgresql"]
 ---
 
 Одной из фич PostgreSQL, которую мне довелось тестировать, было расширение для
