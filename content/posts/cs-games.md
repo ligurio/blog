@@ -1,7 +1,7 @@
 ---
 date: 2017-10-13T00:00:00Z
 title: Обучение компьютерным наукам с помощью игр
-drafts: true
+draft: true
 tags: ["softwaretesting"]
 ---
 
