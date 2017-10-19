@@ -9,6 +9,9 @@ showthedate = false
 ## Почитать
 
 * Список книг из [Библатеки](http://bibla.ru/estet/want/)
+* Искусство рассуждать о книгах, которых вы не читали - Пьер Байяр
+* Остаться в живых. Психология поведения в экстремальных ситуациях - Лоуренс Гонсалес
+* О войне - Карл фон Клаузевиц
 * [An Oral history of Unix](http://gromnitsky.users.sourceforge.net/lit/an-oral-history-of-unix/)
 * [A Unix Person's Guide to PowerShell](https://www.gitbook.com/book/devops-collective-inc/a-unix-person-s-guide-to-powershell/details)
 * Developer Testing: Building Quality into Software -- Alexander Tarlinder
