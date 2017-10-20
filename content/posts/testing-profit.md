@@ -5,7 +5,8 @@ draft: true
 tags: ["testing"]
 ---
 
-- тестирование должно быть в виде пирамиды
+- тестирование не бывает исчерпывающим
+- ни один вид тестов не найдет все дефекты
 - все техники тестирования выявляют разные баги, поэтому их надо комбинировать
 
 Если вы разрабатываете ПО, то вы знаете, что его нужно тестировать. Как именно
@@ -94,6 +95,23 @@ languages (even asserts in C). Many deployments and tests showed such interface
 checks caught many issues, esp assumption violations when new code extended or
 modified legacy.
 
+
+| Тип тестирования ПО 		| Сложность использования |  Эффективность  |
+|-------------------------------|:--------------------:|:---------------:|
+| "Простое" тестирование 	| ★☆☆☆☆ | 50% |
+| Мутационное тестирование 	| ★★☆☆☆ | 43% |
+| Комбинаторное тестирование 	| ★★☆☆☆ | 43% |
+| Property-based 		| ★★☆☆☆ | 43% |
+| Fuzzing			| ★★★☆☆ | 43% |
+| Тестирование на основе моделей | ★★★☆☆ | 50% |
+| Юнит тестирование 		| ★★☆☆☆ | 50% |
+| Формальная верификация 	| ★★★★★ | 50% |
+| Контрактное программирование 	| ★☆☆☆☆ | 50% |
+| Статический анализ кода 	| ★☆☆☆☆ | 50% |
+| Динамический анализ кода 	| ★☆☆☆☆ | 50% |
+
+<!--
+
 ### Ревью кода
 
 Fagan ran empirical studies at IBM that showed a regular, systematic, code
@@ -104,6 +122,10 @@ robustness areas. Improved every project that used it from then on. Exactly
 what parameters to use is still open-ended but periodically looking for
 well-known flaws with reference sheet always works.
 
+### Парное программирование
+
+https://collaboration.csc.ncsu.edu/laurie/Papers/XPSardinia.PDF
+
 ### Непрерывная интеграция
 
 почему-то у все непрерывная интеграция ассоциируется с тулзами.  Если CI, то
@@ -111,29 +133,14 @@ well-known flaws with reference sheet always works.
 использует самописный скрипт на Tcl, просто потому что ему так удобнее и скрипт
 решает задачу постоянного выполнения сборки.
 
-
-| Тип тестирования ПО | Сложность использования |  Эффективность  |
-|-------------------------|:--------------------:|:---------------:|
-| "Простое" тестирование | ★☆☆☆☆ | 50% |
-| Мутационное тестирование | ★★☆☆☆ | 43% |
-| Комбинаторное тестирование | ★★☆☆☆ | 43% |
-| Property-based | ★★☆☆☆ | 43% |
-| Fuzzing	| ★★★☆☆ | 43% |
-| Тестирование на основе моделей | ★★★☆☆ | 50% |
-| Юнит тестирование | ★★☆☆☆ | 50% |
-| Контрактное програмирование | ★★☆☆☆ | 50% |
-| Формальная верификация | ★★★★★ | 50% |
-| Контрактное программирование | ★☆☆☆☆ | 50% |
-| Статический анализ кода | ★☆☆☆☆ | 50% |
-
-<!--
 ### Эффективность практик тестирования ПО
 
 | Процесс 				| Сложность внедрения | Эффективность |
-|-----------------------|:-------------------:|:-------------:|
-| Непрерывная интеграция | Low | 10% |
-| Роли людей в проекте 	| Low | 11% |
-| Cпецификация и требования | Low | 13% |
+|---------------------------------------|:-------------------:|:-------------:|
+| Непрерывная интеграция 		| Low | 10% |
+| Специализация людей в проекте 	| Low | 11% |
+| Cпецификация и требования 		| Low | 13% |
+| Парное программирование 		| Low | 13% |
 
 * [Survey on software testing practices](http://salab.kaist.ac.kr/old/publications/IET2012.pdf)
 -->
@@ -146,3 +153,4 @@ well-known flaws with reference sheet always works.
 * http://www.micsymposium.org/mics2015/ProceedingsMICS_2015/Mailewa_2D1_41.pdf
 * https://pastebin.com/xZ6m4T8Z
 * [Some things that might help you make better software](http://www.drmaciver.com/2016/10/some-things-that-might-help-you-write-better-software/)
+* [Software testing tactics](https://en.wikipedia.org/wiki/Software_testing_tactics)
