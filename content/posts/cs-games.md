@@ -1,45 +1,67 @@
 ---
-date: 2017-10-13T00:00:00Z
-title: Обучение компьютерным наукам с помощью игр
-draft: true
+date: 2017-11-19T00:00:00Z
+title: Обучение разработке ПО с помощью игр
 tags: ["softwaretesting"]
 ---
 
-### RoboBUG
+Просматривая список литературы в одной из научных статей я вышел на сайт
+кафедры Университета Онтарио, которая занимается вопросами качества ПО.  На
+сайте, помимо ссылок на статьи, были описаны их собственные разработки и среди
+них были игры для обучения молодых инженеров. Я до этого с играми,
+ориентированными на обучение разработке ПО, не сталкивался и мне было интересно
+узнать про них подробнее.
 
-A game for learning debugging.
+**RoboBUG** - игра для обучения отладке программ.  Авторы пишут, что отладка
+это сложный процесс и может показаться сложной задачей для начинающего
+программиста и для эффективного обучения техникам отладки они предлагают использовать эту игру.
+RoboBUG предлагает пять уровней, на каждом из которых нужно использовать различные приёмы отладки кода на C++.
+Хотя игра только кодом на C++ не ограничивается и можно создавать свои уровни с кодом на других языках.
 
-Michael A. Miljanovic, Jeremy S. Bradbury. “RoboBUG: A Serious Game for
-Learning Debugging,” Proc. of the 13th Annual ACM International Computing
-Education Research Conference (ICER 2017), pages  93-100, Tacoma, WA, USA, Aug.
-2017. http://www.sqrlab.ca/icer2017/
+Игра доступна как в исходных кодах, так и в собранном виде. Нужно выгрузить
+[репозиторий](https://github.com/sqrlab/RoboBUG/) и запустить
+Executable/RoboBUGv100.exe.
 
-http://www.sqrlab.ca/software/robobug/
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1EpJGS2S4GY" frameborder="0" allowfullscreen></iframe>
 
-### Robot ON!
+[Сайт программы](http://www.sqrlab.ca/software/robobug/)
 
-A game for learning programming through understanding and comprehension of
-source code.
 
-Michael A. Miljanovic, Jeremy S. Bradbury. “Robot ON!: A Serious Game for
-Improving Programming Comprehension,” Proc. of the 5th International Workshop
-on Games and Software Engineering (GAS 2016), pages 33-36, Austin, Texas, USA,
-May 2016. http://www.sqrlab.ca/publications/gas2016/
+**Robot ON!** - игра для обучения программированию. Но в отличие от игр, где
+нужно написать новый код для решения какой-то задачи, в Robot ON! авторы делают
+фокус на обучении навыкам понимания чужого кода. В игре требуется
+продемонстрировать понимание назначения переменных, типов данных и операторов.
 
-http://www.sqrlab.ca/software/roboton/
+[Сайт программы](http://www.sqrlab.ca/software/roboton/)
 
-### FireFinder
+<!--
+**FireFinder** - http://www.sqrlab.ca/software/firefinder/
+-->
 
-A game for learning path finding algorithms in Python.
+**ThreadedPaws** - игра для изучения концепций параллелизма, включая
+чередование потоков, состояния гонок и взаимблокировок.  Авторы осознают
+сложность обучения созданию параллельных программ и поэтому для студентов,
+изучающих параллельное программирование, написали игру, которая учит студентов
+определять и устранять ошибки параллелизма и ошибки. Попробовать игру не получилось, поэтому
+об её полезности остаётся только судить по скриншоту.
 
-http://www.sqrlab.ca/software/firefinder/
+<img src="https://github.com/sqrlab/Threaded-Paws/blob/master/readme_media/threaded_paws_ui.png?raw=true">
 
-### ThreadedPaws
+[Сайт программы](http://www.sqrlab.ca/software/threadedpaws/)
 
-A serious game for learning concurrency.
 
-http://www.sqrlab.ca/software/threadedpaws/
+Последняя игра стоит немного особняком и не имеет отношения к Университету
+Онтарио. **CodeDefenders** - онлайн-игра, объясняющая принцип работы
+мутационного тестирования. Перед началом игры нужно выбрать код, представленный
+классами на Java, и роль, Защитник (Defender) или Атакующий (Attacker).  Играть
+можно одному, устроить дуэль или битву с большим количеством участников (я так
+понял в битве нет ограничений по количеству игроков). После старта игры вам
+показывают код и если вы играете в роли Атакующего, то расставляете мутантов,
+если Защитника, то пытаетесь выявить мутантов, расставленных другими игроками.
+После каждого добавленного мутанта вам говорят пойман он или нет. По-моему
+довольно забавно, но быстро надоедает. Хотя, если посмотреть на таблицу с
+лучшими игроками, то кому-то эта игрушка пришлась по душе.
+Для начала игры нужно зарегистрироваться.
 
-### CodeDefenders 
+<img src="/images/codedef3.png">
 
-http://code-defenders.org/help
+[Сайт программы](http://code-defenders.org/)
