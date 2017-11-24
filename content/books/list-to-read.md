@@ -79,6 +79,7 @@ showthedate = false
 
 ### 2017
 
+* How to Solve It - George Pólya
 * [The "A" Word](https://leanpub.com/TheAWord)
 * [xv6 a simple, Unix-like teaching operating system](https://tc.gtisc.gatech.edu/cs3210/2017/spring/r/xv6-rev8-book.pdf)
 * Роджер Пенроуз - Новый ум короля: о компьютерах, мышлении и законах физики
