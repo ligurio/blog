@@ -74,3 +74,11 @@ main {
   background: -webkit-linear-gradient(left, white, #E1E1E1, white);
   background: linear-gradient(to right, white, #E1E1E1, white);
 }
+
+.colored-link {
+  padding: 5px 8px 5px 8px;
+  border-radius: 2px;
+  background-color: rgba(0, 136, 255, 0.1);
+  font-size: 1.1em;
+  line-height: 2.1;
+}
