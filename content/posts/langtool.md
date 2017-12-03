@@ -1,7 +1,6 @@
 ---
 date: 2017-12-03T00:00:00Z
 title: Инфостиль c Language Tool
-draft: true
 tags: ["opensource"]
 ---
 
@@ -12,8 +11,6 @@ Language Tool это такая штуковина, которая на осно
 [онлайн](https://community.languagetool.org/analysis/index?lang=en) и [ещё чёрт
 знает
 как](http://wiki.languagetool.org/software-that-supports-languagetool-as-a-plug-in-or-add-on).
-
-<img src="/images/langtool.png" align="center">
 
 После того, как я закончил курс Главреда, я стал чаще использовать сайт
 [glavred.ru](http://glavred.ru/) для измерения градуса инфостиля в своих
