@@ -1,35 +1,25 @@
 ---
 date: 2017-12-03T00:00:00Z
-title: Список прочитанных книг
+title: Чтение книг
 draft: true
 tags: ["personal"]
 ---
 
-+ Plaintext and friendly data format.
-+ Minimal hosting overhead.
-+ No SaaS lock-in
+Во время чтения книг я делаю для себя заметки о прочитанном, а для прочитанных книг
+веду список с краткой рецензией и избранными цитатами.
 
-## Similar reading lists
+Раньше я для ведения списка книг с цитатами использовал сервисы,
+но пришел к выводу, что ни один из них неудобен.
 
-- [Brandon Amos](https://github.com/bamos/reading-list)
-- [Cory Monty](https://github.com/cmonty/reading-list)
-- [Cory Schires](https://github.com/coryschires/reading-list)
-- [David Ragone](https://github.com/DavidRagone/reading_list)
-- [Matt Valentine-House](https://github.com/eightbitraptor/reading_list)
-- [Jared Cacurak](https://github.com/jaredcacurak/reading-list)
-- [Derek Sivers](https://sivers.org/book)
-- [Людвиг Быстроновский](http://ludwigbistronovsky.ru/storage/books)
-- [Паша Омелёхин](http://omelekhin.ru/read/)
-- [chrisreads](https://github.com/ckenst/ReadingList)
+Первым была [Библа](http://bibla.ru/estet/). Некий разработчик сделал
+для себя сервис, в котором можно было бы вести список прочитанных книг.
 
 [Bookmate](https://bookmate.com/sergeybronnikov/),
-[Bibla](http://bibla.ru/estet/),
 [Kindle](https://read.amazon.com/notebook))
 
-## TODO
++ простой текст
++ нет зависимости от какого-то сервиса (SaaS lock-in)
 
-* Import <http://bibla.ru/estet/want/>
-* [Amazon Kindle notes](https://kindle.amazon.com/your_highlights)
 
 ```
 #!/usr/bin/env python
@@ -80,3 +70,17 @@ def process_file():
 
 if __name__ == '__main__':
 ```
+
+
+## Похожие списки
+
+- [Brandon Amos](https://github.com/bamos/reading-list)
+- [Cory Monty](https://github.com/cmonty/reading-list)
+- [Cory Schires](https://github.com/coryschires/reading-list)
+- [David Ragone](https://github.com/DavidRagone/reading_list)
+- [Matt Valentine-House](https://github.com/eightbitraptor/reading_list)
+- [Jared Cacurak](https://github.com/jaredcacurak/reading-list)
+- [Derek Sivers](https://sivers.org/book)
+- [Людвиг Быстроновский](http://ludwigbistronovsky.ru/storage/books)
+- [Паша Омелёхин](http://omelekhin.ru/read/)
+- [chrisreads](https://github.com/ckenst/ReadingList)
