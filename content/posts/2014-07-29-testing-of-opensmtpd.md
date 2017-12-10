@@ -1,7 +1,7 @@
 ---
 date: 2014-07-29T00:00:00Z
 title: "Интервью: тестирование OpenSMTPD"
-tags: ["opensource", "opensmtpd", "openbsd", "interview", "softwaretesting", "openbsd-en"]
+tags: ["opensource", "openbsd", "interview", "softwaretesting", "openbsd-en"]
 url: /2014/07/29/testing-of-opensmtpd.html
 ---
 

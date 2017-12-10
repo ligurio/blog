@@ -1,12 +1,12 @@
 # https://ma.ttias.be/technical-guide-seo/
 
-HUGO=hugo
+HUGO=bin/hugo
 
 all: 404 200
 
 publish:
 	${HUGO}
-	scp -r public/* gw.bronevichok.ru:/var/www/html/www.bronevichok.ru/blog/
+	scp -r public/* git.bronevichok.ru:/var/www/htdocs/www.bronevichok.ru/blog/
 
 404:
 	wget --spider -r -p https://bronevichok.ru/blog 2>&1 | grep -B 2 ' 404 '	

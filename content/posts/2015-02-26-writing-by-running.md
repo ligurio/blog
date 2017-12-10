@@ -2,7 +2,7 @@
 date: 2015-02-26T00:00:00Z
 title: Новое развлечение
 url: /2015/02/26/writing-by-running.html
-tags: ["life", "personal"]
+tags: ["personal"]
 ---
 
 У меня появилось новое развлечение - в конце тренировки на улице

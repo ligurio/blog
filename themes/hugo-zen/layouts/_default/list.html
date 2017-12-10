@@ -2,6 +2,11 @@
 
 	<main role="main">
 		<h1 class="list-title">{{ .Title }}</h1>
+
+(( {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+<a class="colored-link" href="{{ "/tags/" }}{{ $name | urlize }}.html">{{ $name }}</a>
+{{ end }} ))
+
 {{ range .Data.Pages }}
 		<article itemscope itemtype="http://schema.org/Blog">
 			<b><h2 class="entry-title" itemprop="headline"><a href="{{ .RelPermalink }}">{{ .Title }}{{ if .Draft }} (Черновик){{ end }}</a></h2></b>
@@ -9,5 +14,6 @@
 		</article>
 {{ end }}
 	</main>
+
 
 {{ partial "footer.html" . }}

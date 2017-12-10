@@ -1,7 +1,7 @@
 ---
 date: 2017-09-18T00:00:00Z
 title: Анализ данных с Jupyter Notebooks
-tags: ["opensource", "jupyter"]
+tags: ["opensource", "openbsd"]
 ---
 
 Недавно открыл для себя такую штуку, как Jupyter Notebooks. Это такой
