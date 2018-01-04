@@ -1,6 +1,6 @@
 # https://ma.ttias.be/technical-guide-seo/
 
-HUGO=bin/hugo
+HUGO=hugo
 
 all: 404 200
 
@@ -9,7 +9,7 @@ publish:
 	scp -r public/* git.bronevichok.ru:/var/www/htdocs/www.bronevichok.ru/blog/
 
 404:
-	wget --spider -r -p https://bronevichok.ru/blog 2>&1 | grep -B 2 ' 404 '	
+	wget --spider -r -p https://bronevichok.ru/blog 2>&1 | grep -B 2 ' 404 '
 	python check_urls.py _posts/*.md
 
 200:
