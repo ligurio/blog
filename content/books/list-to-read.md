@@ -77,6 +77,10 @@ showthedate = false
 * [Книги для родителей](http://bibla.ru/estet/lists/%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8-%D0%B4%D0%BB%D1%8F-%D1%80%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%B9/)
 * [Детская литература](http://www.g0l.ru/blog/n3029)
 
+### 2018
+
+* **[Совершенный код. Практическое руководство по разработке программного обеспечения.](/2018/01/05/quotes-code-complete/)** - C. Макконнелл
+
 ### 2017
 
 * How to Solve It - George Pólya
@@ -94,7 +98,7 @@ showthedate = false
 * **[Изучай Haskell во имя добра](http://learnyouahaskell.com/chapters)**
 * [Бег по правилу 80/20 - Мэт Фицжеральд](/2016/06/10/quotes-80-per-20/)
 * Chris Sanders - Practical Packet Analysis
-* [Догма газеты “Ведомости”](http://mediakar.org/wp-content/uploads/2012/10/d0b4d0bed0b3d0bcd0b0-d0b2d0b5d0b4d0bed0bcd0bed181d182d0b8.pdf) 
+* [Догма газеты “Ведомости”](http://mediakar.org/wp-content/uploads/2012/10/d0b4d0bed0b3d0bcd0b0-d0b2d0b5d0b4d0bed0bcd0bed181d182d0b8.pdf)
 * **Джулиан Барнс - Предчуствие конца**
 * Пол Экман - Психология эмоций
 * **Бег по шоссе для серьёзных бегунов**
