@@ -36,7 +36,7 @@ Beamer. C LaTeX и Beamer мне нравится, что исходный фа�
 помощью groff я и попробовал сверстать свои [старые
 слайды](https://speakerdeck.com/sergeyb/containers-in-the-upstream-kernel-as-compared-to-vz-kernel)
 на языке разметки roff и посмотреть насколько это подходящий инструмент для
-таких задач.  
+таких задач.
 
 Для облегчения вёрстки можно использовать наборы макросов. В базовой поставке groff
 есть предопределённые наборы макросов:
@@ -52,6 +52,7 @@ Beamer. C LaTeX и Beamer мне нравится, что исходный фа�
 
 Пример текста, форматированный roff:
 
+<!--
 ```
 .ce
 .sp 1.5v
@@ -63,6 +64,105 @@ Beamer. C LaTeX и Beamer мне нравится, что исходный фа�
 .SUBTITLE "Linux Plumbers, 2015, Seattle, WA"
 .SK
 ```
+-->
+
+```
+.nr Pi 3
+
+.DEFCOLOR ovz 0 0.8 0.48
+.DEFCOLOR ovz 0 0.5 0.3
+.TITLECOLOR ovz
+.SUBTITLEFORMAT C
+.SUBTITLECOLOR ovz
+.FOOTERSIZE 2
+
+.\" --- define some gpresent extension macros --------------------------
+.de GPE_MULB
+.nr gpe_colwr \\n(.l-\\$1-1n
+.ie \\n[.$]>1 .ds gpe_vsp \\$2
+.el .ds gpe_vsp 0.5v
+.sp -\\*[gpe_vsp]
+.MULB \\$1 1n \\n[gpe_colwr]u
+.sp \\*[gpe_vsp]
+..
+.\" --- title page -----------------------------------------------------
+.TITLE Containers in the upstream kernel
+.sp -2v
+.TITLE (as compared to VZ kernel)
+.SUBTITLE "Kir Kolyshkin, Sergey Bronnikov"
+.sp -0.5v
+.SUBTITLE "Linux Plumbers 2015, Seattle"
+.\".PSPIC openvz-logo.eps 13c
+.ce
+.GPE_SM ""
+.GPE_SECTION INTRO
+.SK
+.de GPE_NEXT
+.SK
+..
+.\" ====================================================================
+.TITLE "Who we are?"
+.BVL 1c
+.LI "OpenVZ is an opensource implementation of Linux containers"
+.BL
+.LI
+Kir Kolyshkin - leading OpenVZ for 10 years
+.LI
+Sergey Bronnikov - community manager of OpenVZ
+.LE
+.\" --------------------------------------------------------------------
+.GPE_NEXT
+.TITLE "OpenVZ contribution to the Linux kernel"
+.\".ce
+.\"Classic = literally half a century of history!
+.\" --------------------------------------------------------------------
+.GPE_NEXT
+.TITLE "Is OpenVZ kernel upstreamed yet?"
+.\" --------------------------------------------------------------------
+.GPE_NEXT
+.TITLE "Virtuozzo kernel changes"
+.\" --------------------------------------------------------------------
+.GPE_NEXT
+.TITLE "Things we (still) need to add 1/2"
+.BVL 1c
+.LI "- Ploop and related ext4 changes"
+.LI "- Memory mangement and accounting"
+.BL
+.LI
+Backport of kmemcg
+.LI
+idle memory tracking (for vcmmd)
+.LI
+network buffers memory accounting
+.LI
+OOM killer virtualization
+.LI "/sys and /proc virtualization"
+.LE
+.\" --------------------------------------------------------------------
+.GPE_NEXT
+.TITLE "Things we (still) need to add 2/2"
+.BVL 1c
+.LI "- Misc legacy (vziolimit, vzlist, vzredir, vznetstat, beancounters...)"
+.LI "- Network: venet, iptables (marks)"
+.LI "- FUSE upstream backports"
+.LI "- Printk virtualization"
+.LI "- /dev/console virtualization"
+.LI "- Time namespace (for monotonic timers wrt migration)"
+.LI "- Misc legacy (vziolimit, vzlist, vzredir, vznetstat, beancounters...)"
+.BL
+.LI
+Beancounters: numiptent, numfile, numproc
+.LE
+.\" --------------------------------------------------------------------
+.GPE_NEXT
+.TITLE "Any patches? Questions?"
+.BVL 1c
+.ce
+.P
+.LI "Kir Kolyshkin <kir@openvz.org>, @kolyshkin"
+.LI "Sergey Bronnikov <sergeyb@openvz.org>, @estet"
+.LE
+```
 
 Собрать слайды можно например так:
 
@@ -70,7 +170,6 @@ Beamer. C LaTeX и Beamer мне нравится, что исходный фа�
 	presentps -l < openvz.pps > openvz.ps
 	ps2pdf openvz.ps
 
-Полный исходник слайдов [выглядит так](https://gist.github.com/ligurio/38d765d9e083a01c2c12ea0d61493ce9).
 
 ## Резюме:
 
