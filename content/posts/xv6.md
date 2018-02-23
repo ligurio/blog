@@ -1,5 +1,5 @@
 ---
-date: 2018-12-23T00:00:00Z
+date: 2018-02-23T00:00:00Z
 title: Практикум для изучения ОС
 tags: ["opensource", "softwaretesting"]
 ---
