@@ -9,6 +9,13 @@ showthedate = false
 ## Почитать
 
 * Список книг из [Библатеки](http://bibla.ru/estet/want/)
+* Шахматы как модель жизни - Гарри Каспаров
+* Principles of Model Checking - Baier, Christel
+* Thinking Functionally with Haskell - Bird, Richard
+* Specifying Systems: The TLA+ Language and Tools for Hardware and Software Engineers
+- Lamport, Leslie
+* Gödel, Escher, Bach: An Eternal Golden Braid - Hofstadter, Douglas R.
+* [Избранные научные статьи](https://scholar.google.ru/scholar?scilib=1&hl=ru&as_sdt=0,5)
 * Почему ребенок стал нервным - Файнберг, С.Г.
 * Искусство рассуждать о книгах, которых вы не читали - Пьер Байяр
 * О войне - Карл фон Клаузевиц
