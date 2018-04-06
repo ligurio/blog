@@ -9,6 +9,7 @@ showthedate = false
 ## Почитать
 
 * Список книг из [Библатеки](http://bibla.ru/estet/want/)
+* Messengers: City Tales From a London Bicycle Courier
 * Искусство рассуждать о книгах, которых вы не читали - Пьер Байяр
 * Остаться в живых. Психология поведения в экстремальных ситуациях - Лоуренс Гонсалес
 * О войне - Карл фон Клаузевиц
@@ -20,23 +21,12 @@ showthedate = false
 * [Гарри Олдер, Берил Хэзер. NLP. Полное практическое руководство](http://lib.ru/NLP/fnlp.txt)
 * Владимир Иссурин - Подготовка спортсменов XXI века: научные основы и построение тренировки
 * [Real World Haskell](http://book.realworldhaskell.org/read/) ([epub](https://github.com/runapp/rwh_epub))
-* Кольхепп и Крейг Кассинс - "Бонсай для начинающих"
-* Бонсай. Большой атлас.
-* Вольфганга Каволлек - "Комнатный Бонсай"
-* "Бонсай из деревьев европейских лесов"
 * [Александр Лапин - Фотография как...](http://www.newsman.tsu.ru/wp-content/uploads/library/photojourn/photohow.pdf)
 * [Google - Site Reliability Engineering](https://landing.google.com/sre/book/index.html)
-* Биохимия человека (комплект из 2 книг: [часть 1](http://biology.univ.kiev.ua/phocadownload/Kafedry/biohim/Biohimija_cheloveka_t.1.pdf),
-[часть 2](http://biology.univ.kiev.ua/phocadownload/Kafedry/biohim/Biohimija_cheloveka_t.2.pdf))
-* [Quick introduction into SAT/SMT solvers and symbolic execution](https://yurichev.com/tmp/SAT_SMT_DRAFT.pdf)
-* [Программирование: введение в профессию.](http://www.stolyarov.info/books/programming_intro)
-* [Стандартный глоссарий терминов, используемых в тестировании программного обеспечения](http://www.rstqb.org/fileadmin/user_upload/redaktion/rstqb_ru/downloads/ISTQB_Glossary_Russian_v2_2.pdf)
 * В глубь языка Python ([в эл виде](http://ru.diveintopython.net/toc.html))
 * [Google's Python Class](https://developers.google.com/edu/python/)
 * [Think Python](http://greenteapress.com/thinkpython/html/index.html)
-* Джеффри Лайкер «Дао Toyota: 14 принципов менеджмента ведущей компании мира»
 * Advanced Programming in the UNIX Environment
-* Уильям Детмер "Теория ограничений Голдратта. Системный подход к непрерывному совершенствованию"
 * Роджер Пенроуз «Путь к реальности»
 * Девора Зак "Управление для тех, кто не любит управлять"
 * Мур "Преодолевая пропасть"
@@ -44,7 +34,6 @@ showthedate = false
 * Адриан Форти. Объекты желания: дизайн и общество с 1750.
 * Н.Н. Талеб. Одураченные случайностью. Скрытая роль шанса на рынках и в жизни.
 * А.П. Прохоров Русская модель управления
-* Уильям Торндайк "Правила лучших CEO"
 * Ленсиони "Пять пороков команды. Притчи о лидерстве"
 * Татьяна Задорожная "Как нарисовать любую историю"
 * Кеннет Бланшар, Спенсер Джонсон "Одноминутный менеджер"
@@ -55,6 +44,8 @@ showthedate = false
 * Дэн Хиз, Чип Хиз "Ловушки мышления. Как принимать решения, о которых вы не пожалеете."
 * Пол Экман "Психология эмоций. Я знаю, что ты чувствуешь"
 * Кейт Фокс "Наблюдая за англичанами. Скрытые правила поведения."
+* Николай Геннадьевич Ли - Голова человека. Основы учебного академического рисунка
+
 
 ## Списки книг
 
@@ -79,6 +70,10 @@ showthedate = false
 
 ### 2017
 
+* Уильям Детмер "Теория ограничений Голдратта. Системный подход к непрерывному совершенствованию"
+* Christel Baier - Principles of Model Checking (MIT Press)
+* Лев Толстой - Хаджи Мурат
+* **Александр Камкин - Введение в формальные методы верификации программ**
 * How to Solve It - George Pólya
 * [The "A" Word](https://leanpub.com/TheAWord)
 * [xv6 a simple, Unix-like teaching operating system](https://tc.gtisc.gatech.edu/cs3210/2017/spring/r/xv6-rev8-book.pdf)
