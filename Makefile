@@ -30,6 +30,7 @@ optimg:
 	@echo "Optimize images"
 	find -name *.jpg -exec jpegoptim --strip-all --overwrite --preserve --totals '{}' \;
 	find -name *.png -exec optipng -o5 -v -clobber -strip all '{}' \;
+	# see also https://github.com/technopagan/cjpeg-dssim
 
 opticss:
 	@echo TODO
