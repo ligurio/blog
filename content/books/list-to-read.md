@@ -58,6 +58,7 @@ showthedate = false
 
 ### 2018
 
+* **Design and validation of computer protocols - Gerard J. Holzmann**
 * Слепой часовщик - Ричард Докинз
 * **ML for the Working Programmer - L. C. Paulson**
 * **Практика программирования - Брайан Керниган, Роб Пайк**
