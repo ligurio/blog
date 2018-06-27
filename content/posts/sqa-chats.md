@@ -76,3 +76,5 @@ tags: ["softwaretesting"]
 ### [awesome-test-automation](https://gitter.im/atinfo/awesome-test-automation)
 
 Англоязычный чат для обсуждения вопросов автоматизации тестирования ПО.
+
+### [Чат пользователей и разработчиков pywinauto](https://gitter.im/pywinauto-russian-users/Lobby)
