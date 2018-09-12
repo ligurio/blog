@@ -8,16 +8,19 @@ showthedate = false
 
 ## Почитать
 
+* Список книг из [Библатеки](http://bibla.ru/estet/want/)
+* [Избранные научные статьи](https://scholar.google.ru/scholar?scilib=1&hl=ru&as_sdt=0,5)
+
+
+* [Type systems for programming languages](http://pauillac.inria.fr/~remy/mpri/2016/cours.pdf) -- Didier R ́emy
 * "Самое грандиозное шоу на Земле: доказательства эволюции" - Ричард Докинз
 * Новый ум короля - Р. Пенроуз
 * Моя тренировка - Эмиль Затопек
 * Шахматы - И. Майзелис
-* Путешествие в шахматное королевство - Авербах Юрий. Бейлин Михаил
-* Список книг из [Библатеки](http://bibla.ru/estet/want/)
+* Путешествие в шахматное королевство - Авербах Юрий, Бейлин Михаил
 * Thinking Functionally with Haskell - Bird, Richard
 * Specifying Systems: The TLA+ Language and Tools for Hardware and Software Engineers
 - Lamport, Leslie
-* [Избранные научные статьи](https://scholar.google.ru/scholar?scilib=1&hl=ru&as_sdt=0,5)
 * Почему ребенок стал нервным - Файнберг, С.Г.
 * Искусство рассуждать о книгах, которых вы не читали - Пьер Байяр
 * О войне - Карл фон Клаузевиц
@@ -58,6 +61,7 @@ showthedate = false
 
 ### 2018
 
+* **Тайная опора. Привязанность в жизни ребенка.** - Людмила Петрановская
 * **Design and validation of computer protocols - Gerard J. Holzmann**
 * Слепой часовщик - Ричард Докинз
 * **ML for the Working Programmer - L. C. Paulson**
